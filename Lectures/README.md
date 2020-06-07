@@ -23,7 +23,7 @@
  <li><a href="#course22">Analytical Techniques for Studying Environmental and Geologic Samples</a></li>  
    <li><a href="#course23">Electron Microprobe Analysis</a></li> 
   <li><a href="#course24">Molecular Biogeochemistry</a></li> 
- <li><a href="#course19">Petrology</a></li>  
+ <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
    <li><a href="#course20">Sedimentary Geology</a></li> 
 
 </ul>
@@ -1823,8 +1823,58 @@
 </table>
 </br>
 
+<h2 id="course25">Surface Processes and Landscape Evolution</h2>
 
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction, Geomorphic Systems (<a href="1/week1.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">I. Flow Mechanics (<a href="1/1_flow_mech.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">I. Flow Mechanics and II. Alluvial Channels (<a href="1/2_alluvial_channels.pdf">PDF</a>)<br /><br />Images (<a href="1/week3.pdf">PDF - 2.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">III. Flow Around Bends (<a href="1/3_flow_around_bends.pdf">PDF</a>)<br /><br />Images (<a href="1/week4_2.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">IV. Sediment Transport (<a href="1/4_sediment_transport_edited.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">V. Alluvial Profiles (<a href="1/5_alluvial_river_profiles.pdf">PDF</a>)<br /><br />Images (<a href="1/week6_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>VI. Erosional Channel Networks (<a href="1/6_erosional_channel_nets.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">VII. Bedrock Channels (<a href="1/7_bedrock_channels.pdf">PDF</a>)<br /><br />Images (<a href="1/week11_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">VII. Bedrock Channels</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">VII. Bedrock Channels and VIII. Hillslope Evolution (<a href="1/8_hillslope_evolution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">VIII. Hillslope Evolution<br /><br />Images (<a href="1/week7_8_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">VIII. Hillslope Evolution and IX. Mass Wasting&nbsp;(<a href="1/9_mass_wasting.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">IX. Mass Wasting<br /><br />Images (<a href="1/week12_2.pdf">PDF 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Climate-Tectonic Interactions&nbsp;(<a href="1/week14.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
