@@ -17,7 +17,7 @@
  <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   <li><a href="#course18">Structure of Earth Materials</a></li> 
- <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
+ <li><a href="#course19">Petrology</a></li>  
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   
 
@@ -1391,5 +1391,153 @@
 </tbody>
 </table>
 </br>
+<h2 id="course19">Petrology</h2>
 
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+<th>LECTURE&nbsp;NOTES</th>
+<th>HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Rock Forming Minerals (RFM)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>RFM I: Olivine and Spinel</td>
+<td><a href="2/Sept8notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>RFM II: Feldspars</td>
+<td><a href="2/Sept13notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>RFM III: Pyroxenes</td>
+<td><a href="2/Sept15notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>RFM IV: Pyriboles</td>
+<td><a href="2/Sept20notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Thermodynamics</strong></td>
+</tr>
+<tr class="row">
+<td>1-Energy Functions-E-S-V and G-T-P-X</td>
+<td>&nbsp;</td>
+<td>Phase Diagrams (<a href="2/phase_diagrams.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>P-T-X Phase Diagrams<br /><br />Gibbs Phase Rule</td>
+<td>
+<p><a href="2/Sept22notes.pdf">PDF 1</a></p>
+<p><a href="2/Sept29notes.pdf">PDF 2</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>2-Exchange Reactions and Equilibrium Constants</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>3-Earth's Outer Mantle - Phase Relations and Variation with Tectonic Setting</td>
+<td>
+<p><a href="2/Oct4notes.pdf">PDF</a></p>
+</td>
+<td>Structure of the Earth (<a href="2/Structure_of_Earth.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Petrology</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Mantle Rock Types and Processes<br /><br />Pyroxene Thermobarometry</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Serpentine Stability - Recycling of Mantle<br /><br />Origin of Mantle Rocks - Igneous vs. Metamorphic Processes</td>
+<td><a href="2/Oct6notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>4-Melting and Crystallization Processes<br /><br />T-X-X Phase Diagrams (3 Components) Freezing/Melting in Crust and Mantle</td>
+<td><a href="2/Oct13notes.pdf">PDF</a></td>
+<td>Ternary Systems (<a href="2/ternarysystems.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>5-Basalts, Komatiites Rock Series Mantle Melting Processes</td>
+<td><a href="2/Oct25notes.pdf">PDF</a></td>
+<td>Basalts (<a href="2/basalts.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mid-term</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>6-Phase Equilibria: Silicate + H<sub>2</sub>O<br /><br />Magma Generation in Subduction Zones</td>
+<td><a href="2/Oct25notes2.pdf">PDF</a></td>
+<td>Melting with H<sub>2</sub>O (<a href="2/meltingwithh2o.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>7-Granitic Rocks and Crustal Magmatic Processes</td>
+<td><a href="2/Nov3notes.pdf">PDF</a></td>
+<td>Magmatic Processes (<a href="2/magmaticprocesses.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Continental Crustal Igneous Rocks</td>
+<td><a href="2/Nov8notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The Major Types of Sedimentary Rocks<br /><br />Distribution of Sediments on the Earth's Surface</td>
+<td><a href="2/Nov10notes.pdf">PDF</a></td>
+<td>Sedimentary Protoliths (<a href="2/sedimentary_protoliths.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Metamorphic Petrology 1 - Metamorphic Processes, Contact, Regional, T and P Variations</td>
+<td><a href="2/Nov15notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Metamorphic Petrology 2 - Metamorphic Facies<br /><br />Heat Flow and Heat Production in Crust</td>
+<td><a href="2/Nov17notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Metamorphic Petrology 3 - Metamorphism of Pelitic Rocks Minerals and Isograds</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Metamorphic Petrology 4 - Pelites - The AKFM System Continuous and Discontinuous Reactions</td>
+<td><a href="2/Nov22notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Metamorphic Petrology 5 - Metamorphism of Mafic Rocks, Metamorphism</td>
+<td><a href="2/Nov29notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Greenschists, Blueschists and Eclogites</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Metamorphic Petrology 6 - Metamorphism of calc-silicates</td>
+<td><a href="2/Dec1notes.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
