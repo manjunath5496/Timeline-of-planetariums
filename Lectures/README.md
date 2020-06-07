@@ -44,7 +44,12 @@
    <li><a href="#course43">Principles of the Global Positioning System</a></li> 
  <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
    <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
-
+   <li><a href="#course46">Seminar in Geophysics: Mantle Convection</a></li> 
+  <li><a href="#course41">Geodynamics</a></li> 
+ <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
+   <li><a href="#course43">Principles of the Global Positioning System</a></li> 
+ <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
+   <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
 
 </ul>
 <p>&nbsp;</p>
@@ -3385,10 +3390,63 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tbody>
 </table>
 </br>
+<h2 id="course46">Seminar in Geophysics: Mantle Convection</h2>
 
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl499id0_1" scope="col">TOPICS</th>
+<th id="tbl499id0_3" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl499id0_1">Introduction</td>
+<td headers="tbl499id0_3">(<a href="7/100298_notes.pdf">PDF</a>) (Courtesy of Richard O'Connell and William McDonough. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl499id0_1">Melting and Differentiation</td>
+<td headers="tbl499id0_3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl499id0_1">Basics of Convection</td>
+<td headers="tbl499id0_3">(<a href="7/240298_notes.pdf">PDF</a>) (Courtesy of Richard O'Connell and Bradford Hager. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl499id0_1">Isotope Systems and Geochemistry</td>
+<td headers="tbl499id0_3">(<a href="7/030398_notes.pdf">PDF</a>) (Courtesy of Stan Hart and scribed by Jamie Kellogg.&nbsp; Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="tbl499id0_1">More on Mantle Dynamics</td>
+<td headers="tbl499id0_3">(<a href="7/170398_notes.pdf">PDF</a>) (Courtesy of Shijie Zhong. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl499id0_1">Seismology Part I: Subduction Zones</td>
+<td headers="tbl499id0_3">(<a href="7/310398_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl499id0_1">Constraints from Noble Gas Data on Mantle Mixing</td>
+<td headers="tbl499id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl499id0_1">Seismology Part II: Constraints on Mantle Structure from Global Tomography</td>
+<td headers="tbl499id0_3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl499id0_1">Open Discussion of Issues</td>
+<td headers="tbl499id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl499id0_1">Mantle Stratification (or lack thereof)</td>
+<td headers="tbl499id0_3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl499id0_1">Student Presentation of Research Proposals (Final Assignment)</td>
+<td headers="tbl499id0_3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
-
-
-
+</br>
 
 
