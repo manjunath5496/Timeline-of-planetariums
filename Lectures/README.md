@@ -36,7 +36,7 @@
    <li><a href="#course35">Oral Communication in the Earth, Atmospheric, and Planetary Sciences</a></li> 
   <li><a href="#course36">Crosby Lectures in Geology: History of Africa</a></li> 
  <li><a href="#course37">Trace-Element Geochemistry</a></li>  
-   <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
+   <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
  <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
    <li><a href="#course32">Global Warming Science</a></li> 
 
@@ -2645,3 +2645,111 @@
 </br>
 <p>Birle, J. D., G. V. Gibbs, et al. "<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s120" /><a href="5/AM53_807.pdf" data-smd-id="s121">Crustal Structure of Natural Olivines. (PDF - 1.1MB)</a>"&nbsp;<em>Amer Mineral</em>&nbsp;53 (1968): 807&ndash;24.</p>
 </br>
+<h2 id="course38">Thermodynamics for Geoscientists</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Part I: Solution properties of silicate minerals</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Ideal solutions</td>
+<td>
+<p>(<a href="5/lec1.pdf">PDF 1</a>)</p>
+<p>(<a href="5/handout_1_06.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Non-ideal solutions</td>
+<td>(<a href="5/handout_2a_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Alkali and plagioclase feldspars solution models</td>
+<td>(<a href="5/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Alkali and plagioclase feldspars solution models (cont.)</td>
+<td>
+<p>(<a href="5/12480handout_4_5.pdf">PDF 1</a>)</p>
+<p>(<a href="5/lec4n5.pdf">PDF 2 - 1.0 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Introduction to pyroxene thermometry</p>
+<p>Diopside - Enstatite</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Thermodynamic properties of multi-site mineral solutions - Homogeneous equilibria</td>
+<td>(<a href="5/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pyroxene thermometry II, the quad</td>
+<td>(<a href="5/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Spinels, rhombohedral oxides and T-&fnof;O<sub>2</sub>&nbsp;relations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Part II: Heterogeneous equilibria in geologic systems</strong></td>
+</tr>
+<tr class="row">
+<td>Heterogeneous equilibria in two - and three-component systems</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Liquidus diagrams - Liquidus boundaries</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lecture_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Liquidus diagrams - Degeneracies and natural examples</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Liquidus diagrams - Thermodynamic controls on boundaries</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Schreinemaker's analysis - Multi-component systems</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Choosing components - Representations of composition space</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lecture_15.pdf">PDF 1</a>)</p>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lec_15_addition.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Heterogeneous reactions - The Gibbs method</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Solution models for silicate melts-simple systems</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Solution models for silicate melts-multicomponent systems</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Thermodynamic models of multicomponent systems - MELTS</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Mixed volatile equilibria P-T-X<sub>CO2</sub>-X<sub>H2O</sub></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
