@@ -26,7 +26,7 @@
  <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
    <li><a href="#course26">Essentials of Geophysics</a></li> 
    <li><a href="#course27">Modern Navigation</a></li> 
-  <li><a href="#course24">Molecular Biogeochemistry</a></li> 
+  <li><a href="#course28">Climate Physics and Chemistry</a></li> 
  <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
    <li><a href="#course26">Essentials of Geophysics</a></li> 
 
@@ -2041,4 +2041,99 @@
 </tbody>
 </table>
 </br>
+
+<h2 id="course28">Climate Physics and Chemistry</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Part 1. Paleoclimate</strong></td>
+</tr>
+<tr>
+<td>The origin of the earth, atmosphere and life (<a href="4/part1_lec1.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>The early geochemical evolution of the earth and the origin of life (<a href="4/part1_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>The co-evolution of life, ocean-atmospheric chemistry, and sedimentary rocks (<a href="4/part1_lec3.pdf">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>The Faint Young Sun Paradox, the geochemical C cycle and climate on geologic time scales (<a href="4/part1_lec4.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Long-term climate cycles and the proterozoic glaciations ("Snowball Earth") (<a href="4/part1_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Climate on geologic time scales and the CO<sub>2</sub>-climate connection (<a href="4/part1_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Pleistocene ice age cycles 0-2.65 ma (<a href="4/part1_lec7.pdf">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Ice sheet paleoclimatology (<a href="4/part1_lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Part 2. Time series and random processes in climate</strong></td>
+</tr>
+<tr class="row">
+<td>Randomness and chaos in the climate system (<a href="4/part2.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Part 3. Role of the atmosphere in climate</strong></td>
+</tr>
+<tr class="row">
+<td>Climate physics and chemistry (<a href="4/part3_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Radiative transfer (<a href="4/part3_lec2.pdf">PDF - 3.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Moist convection (<a href="4/part3_lec3.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Flux of water (<a href="4/part3_lec4.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Heat transport (<a href="4/part3_lec5.pdf">PDF - 2.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>What controls the temperature gradient in middle and high latitudes? (<a href="4/part3_lec6.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Part 4. Ocean carbon system</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Natural and fossil fuel CO<sub>2</sub>&nbsp;in the ocean I (<a href="4/part4_lec1.pdf">PDF - 2.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Natural and fossil fuel CO<sub>2</sub>&nbsp;in the ocean II (<a href="4/part4_lec2.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Changes in CO<sub>2</sub>&nbsp;during the past million years (<a href="4/part4_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Part 5. Atmospheric chemistry and climate</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Atmospheric chemistry I: ozone, chlorofluorocarbons, nitrogen oxides, and dimethyl sulfide (<a href="4/part5_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Atmospheric chemistry II: methane (<a href="4/part5_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Part 6. Ocean physics and climate</strong></td>
+</tr>
+<tr class="row">
+<td>Ocean circulation for climate understanding (<a href="4/part6.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
