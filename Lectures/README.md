@@ -25,6 +25,11 @@
   <li><a href="#course24">Molecular Biogeochemistry</a></li> 
  <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
    <li><a href="#course26">Essentials of Geophysics</a></li> 
+   <li><a href="#course27">Modern Navigation</a></li> 
+  <li><a href="#course24">Molecular Biogeochemistry</a></li> 
+ <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
+   <li><a href="#course26">Essentials of Geophysics</a></li> 
+
 
 </ul>
 <p>&nbsp;</p>
@@ -1890,5 +1895,150 @@
 <h2 class="subhead">Chapter 5: Geodynamics (<a href="4/ch5.pdf">PDF</a>)</h2>
 <p>5.1 Heat Flow<br />5.2 Heat Flow, Geothermal Gradient, Diffusion<br />5.3 Thermal Structure of the Oceanic Lithosphere<br />5.4 Thermal Structure of the Oceanic Lithosphere (cont.)<br />5.5 Bending, or Flexure, of Thin Elastic Plate<br />5.6 The Upper Mantle Transition Zone</p>
 </br>
+<h2 id="course27">Modern Navigation</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and Coordinate Systems</td>
+<td>(<a href="4/12_215_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Definitions of the Types of Latitude and Longitude; Mathematical Relationship Between These and Cartesian XYZ; Motion of the Rotation Axis, Which Affects Determination of Latitude and Longitude</td>
+<td>(<a href="4/12_215_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Height Definitions, Methods for Determining Heights, Spirit Leveling and Trigonometric Leveling; Geoid Heights and Their Determination</td>
+<td>(<a href="4/12_215_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Spherical Trigonometry</p>
+<p>Derivations and Examples</p>
+</td>
+<td>(<a href="4/12_215_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Determination of Latitude and Longitude Using Astronomical Methods</td>
+<td>(<a href="4/12_215_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Almanacs in Paper and Electronic Form</td>
+<td>(<a href="4/12_215_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dead Reckoning and Sextants</td>
+<td>(<a href="4/12_215_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review of Linear Algebra Covering Vectors and Matrices, Solving Linear Equations, Vector Spaces, Eigenvalues and Vectors, Rotation Matrices</td>
+<td>(<a href="4/12_215_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sextant Measurements</td>
+<td>(<a href="4/12_215_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Map Projections of Different Types and The Mathematics Behind Some Projections</td>
+<td>(<a href="4/12_215_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Statistics and Propagation of Variance-covariance Matrices</td>
+<td>(<a href="4/12_215_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Estimation of Over-determined, Nearly Linear Systems Including Least and Weighted Least Squares</td>
+<td>(<a href="4/12_215_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Examined HW 02 Solution and the Non-Linear Model That Can be Used to Represent the Measurements Taken</td>
+<td>(<a href="4/12_215_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finish Estimation With Sequential Estimation and Error Ellipses; Examine Correlations Between Random Time Series</td>
+<td>(<a href="4/12_215_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Electromagnetic Distance Measurement (EDM)</p>
+<p>Conventional Instruments and Theory of Their Operation</p>
+</td>
+<td>(<a href="4/12_215_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>GPS Pseudo-range Measurements and Basic Principles of GPS</td>
+<td>(<a href="4/12_215_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>GPS Signal Tracking, Orbit Geometry, Specific Signal Structure, Phase Measurements and Data</td>
+<td>(<a href="4/12_215_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>GPS Pseudo Range and Phase measurements, basic processing methods, Dilution of Precision Measures</td>
+<td>(<a href="4/12_215_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Atmosphere Delay Effects</td>
+<td>(<a href="4/12_215_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ionosphere and Dispersive GPS Delay Correction</td>
+<td>(<a href="4/12_215_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Satellite Orbit Representation and Sources of Information about Orbits</td>
+<td>(<a href="4/12_215_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Basics of Hand Held GPS Receivers</p>
+<p>Class Outside Using GPS</p>
+</td>
+<td>(<a href="4/12_215_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Applications of GPS</td>
+<td>(<a href="4/12_215_lec23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LEC&nbsp;#</th>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>5</td>
+<td>Homework 1 (<a href="4/12_215_hw1.pdf">PDF</a>)</td>
+<td>(<a href="4/12_215_hw01_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>13</td>
+<td>
+<p>Homework 2 (<a href="4/12_215_hw02.pdf">PDF</a>)</p>
+<p>Data File, sextant_061025.txt (<a href="4/sextant_061025.txt">TXT</a>)</p>
+</td>
+<td>
+<p>(<a href="4/12_215_hw02_soln.pdf">PDF</a>)</p>
+<p>MATLAB&reg; File, hw02_sextant_06.m (<a href="4/hw02_sextant_06.m">M</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>19</td>
+<td>Homework 3 (<a href="4/12_215_hw3.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
