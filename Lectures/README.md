@@ -42,7 +42,7 @@
   <li><a href="#course41">Geodynamics</a></li> 
  <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
    <li><a href="#course43">Principles of the Global Positioning System</a></li> 
- <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
+ <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
    <li><a href="#course40">Introduction to Seismology</a></li> 
 
 
@@ -3208,6 +3208,101 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <p>Data mitb076s.12o (<a href="6/mitb0760.12o">TXT</a>) mitb0760.12n (<a href="6/mitb0760.12n">TXT</a>)</p>
 <p>mitb0760.12o (<a href="6/mitb0760.12o">TXT</a>) rovr0760.12o (<a href="6/rovr0760.12o">TXT</a>) (optional files)</p>
 </td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl586id0_1" scope="col">TOPICS</th>
+<th id="tbl586id0_2" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl586id0_1">
+<p>Geodynamics: Introduction - Parameterized Convection</p>
+</td>
+<td headers="tbl586id0_2">
+<p>(<a href="6/lectureoconnell.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl586id0_1">
+<p>Geochemistry: Composition of the Earth</p>
+<p>Heat Producing Elements</p>
+<p>Isotopic Evolution</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl586id0_1">
+<p>Core Energetics: Geodynamo Constraints on Heat Generation and Transport</p>
+</td>
+<td headers="tbl586id0_2">
+<p>(<a href="6/240205_notes.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl586id0_1">
+<p>Mineral Physics: Phase Transitions and Implications for Mantle Dynamics</p>
+</td>
+<td headers="tbl586id0_2">
+<p>(<a href="6/grp4notes010305.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl586id0_1">
+<p>Mantle Petrology: Chemical and Petrological Constraints of Mantle Evolution (Accretion Models; Early Earth Conditions; Magma Ocean; Implications for Other Planets)</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl586id0_1">
+<p>Noble Gas Constraints on Mantle Structure</p>
+</td>
+<td headers="tbl586id0_2">
+<p>(<a href="6/noblegas_lect.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl586id0_1">
+<p>Constraints on Mantle Structure and Composition from Seismic Tomography (Part 1)</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl586id0_1">
+<p>Constraints on Mantle Structure and Composition from Seismic Tomography (Part 2)</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl586id0_1">
+<p>Simple Fluid Dynamical Constraints on Mixing, and Unmixing</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl586id0_1">
+<p>Mantle Geochemistry and Heterogeneity</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl586id0_1">
+<p>Lower Most Mantle and D'' (Heat Flow, Thermal Boundary Layers, Post-Perovskite, ...)</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl586id0_1">
+<p>As a 'Grand Finale' all students taking the class for credit will present a short paper</p>
+</td>
+<td headers="tbl586id0_2">&nbsp;</td>
 </tr>
 </tbody>
 </table>
