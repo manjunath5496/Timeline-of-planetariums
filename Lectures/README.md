@@ -13,7 +13,7 @@
 <li><a href="#course12">Radon Research in Multidisciplines: A Review</a></li>
 <li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li>
  <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
-<li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li> 
+<li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
   
   
   
@@ -1060,3 +1060,80 @@
 <li>Prompt Neutron Activation Analysis&nbsp;(<a href="3/promptna.pdf">PDF</a>)&nbsp;</li>
 </ul>
 </br>
+<h2 id="course15">Chemical Investigations of Boston Harbor</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th>SCIENCE&nbsp;LECTURES</th>
+<th>ENGINEERING&nbsp;LECTURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Week 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction and Overview - Kujawinski&nbsp;<span class="nobr">(<a href="3/overview.pdf">PDF - 1.5 MB</a>)</span></td>
+<td>Historical Perspective on Sampling Equipment for Oceanic Research - Clifford/Tripp</td>
+</tr>
+<tr class="row">
+<td colspan="3">Field Trip to Boston Harbor/ Buzzards Bay</td>
+</tr>
+<tr class="alt-row">
+<td>Physical Parameters of The Coastal Ocean - Kujawinski</td>
+<td>Overview of Basic Ocean Sensors - White</td>
+</tr>
+<tr class="row">
+<td>Biological Productivity - Kujawinski</td>
+<td>Electronic Components and Power Sources for Oceanographic Systems - Hover (<a href="3/elect_n_pwr_src.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3">WHOI Tour 1: WHOI's Chemical Instrumentation Facilities</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 2</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Nutrients (Overview), Nitrogen Cycle - Kujawinski (<a href="3/nutriee_biopr.pdf">PDF</a>)</td>
+<td>
+<p>Building a Resistive Wave Probe - Hover (<a href="3/waveprobe.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Error Analysis for Lab Measurements to Date - Kujawinski</td>
+<td>Time-series Analyses - Hover (<a href="3/time_series.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Carbon Cycle (Overview) - Kujawinski (<a href="3/carbon_analytl.pdf">PDF</a>)</td>
+<td>Acoustics Overview - Hover (<a href="3/acoustics.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3">WHOI Tour 2: WHOI's Coastal Oceanography Labs</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Week 3</strong></td>
+</tr>
+<tr class="row">
+<td>Trace Metals (Nutrients vs. Toxins) - Kujawinski (<a href="3/tracemetals.pdf">PDF</a>)</td>
+<td>Engineering for The Marine Environment - Hover/White (<a href="3/engg_in_oceanenv.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Analytical Techniques of Chemical Oceanography - Kujawinski</td>
+<td>Platforms I - Satellites, Buoys, Cabled Observatories - White&nbsp;<span class="nobr">(<a href="3/platforms_1.pdf">PDF - 1.4 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Anthropogenic Impacts on The Coastal Zone - Organic Pollutants - Kujawinski</td>
+<td>Platforms II - Vehicles (Manned Submersibles, ROVs, AUVs) - White&nbsp;<span class="nobr">(<a href="3/platforms_2.pdf">PDF - 1.4 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Putting it All Together - Kujawinski</td>
+<td>Advanced Sensors (Spectroscopy) - White&nbsp;<span class="nobr">(<a href="3/adv_spectroscopy.pdf">PDF - 1.3 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td colspan="3">WHOI Tour 3: WHOI's Ocean Engineering / Instrumentation Labs</td>
+</tr>
+</tbody>
+</table>
+</br>
+
