@@ -4615,8 +4615,8 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </table>
 </br>
 
-<p><a href="9/MIT12_S990F12_Thackray.pdf">Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties (PDF)</a>&nbsp;</p>
-<p><a href="9/MIT12_S990F12_Thackraydoc.pdf">Explanation for each slide of "Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties" (PDF)</a>&nbsp;(</p>
-<p><a href="9/MIT12_S990F12_Zawadowicz.pdf">Factor analysis techniques in single-particle aerosol mass spectrometry (PDF)</a>&nbsp;</p>
+<p><a href="9/MIT12_S990F12_Thackray.pdf">Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties (PDF)</a></p>
+<p><a href="9/MIT12_S990F12_Thackraydoc.pdf">Explanation for each slide of "Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties" (PDF)</a></p>
+<p><a href="9/MIT12_S990F12_Zawadowicz.pdf">Factor analysis techniques in single-particle aerosol mass spectrometry (PDF)</a></p>
 </br>
 
