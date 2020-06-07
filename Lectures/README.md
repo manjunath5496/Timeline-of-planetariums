@@ -20,7 +20,7 @@
  <li><a href="#course19">Petrology</a></li>  
    <li><a href="#course20">Sedimentary Geology</a></li> 
   <li><a href="#course21">Structural Geology</a></li> 
- <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
+ <li><a href="#course22">Analytical Techniques for Studying Environmental and Geologic Samples</a></li>  
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   <li><a href="#course18">Structure of Earth Materials</a></li> 
  <li><a href="#course19">Petrology</a></li>  
@@ -1691,6 +1691,43 @@
 </tbody>
 </table>
 </br>
+<h2 id="course22">Analytical Techniques for Studying Environmental and Geologic Samples</h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Basic geochemistry &amp; glaciology background</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Specimen characterization with the Electron Microprobe Part 1&nbsp;<span class="nobr">(<a href="1/MIT12_119S11_mcrprb_prt1.pdf">PDF - 5.1MB</a>)</span></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Specimen characterization with the Electron Microprobe Part 2&nbsp;<span class="nobr">(<a href="1/MIT12_119S11_mcrprb_prt2.pdf">PDF - 4.2MB</a>)</span></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Toxic pollutants</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Sr Isotope dating</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">U/Th/Pb dating</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Anthropogenic Geochemistry&nbsp;<span class="nobr">(<a href="1/MIT12_119S11_anthropogenic.pdf">PDF - 2.2MB</a>)</span></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Inductively Coupled Plasma: Emission and Mass Spectrometry (<a href="1/MIT12_119S11_ICPMS.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Interferences in Inductively Coupled Plasma Mass Spectrometry (<a href="1/MIT12_119S11_intrfrn_ICPMS.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
