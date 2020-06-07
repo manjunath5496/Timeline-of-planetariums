@@ -61,7 +61,7 @@
    <li><a href="#course60">Climate Physics and Chemistry</a></li> 
   <li><a href="#course61">GPS: Where Are You?</a></li>  
    <li><a href="#course62">Inference from Data and Models</a></li> 
-  <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
+  <li><a href="#course63">Quantifying Uncertainty</a></li>  
    <li><a href="#course60">Climate Physics and Chemistry</a></li> 
  
  
@@ -4565,3 +4565,58 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <p dir="ltr">3.1 References (<a href="9/tsamsfmt_3_1.pdf">PDF</a>)</p>
 
 </br>
+<h2 id="course63">Quantifying Uncertainty</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LEC&nbsp;#</th>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td><a href="9/MIT12_S990F12_lec1.pdf">Quantifying Uncertainty Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td><a href="9/MIT12_S990F12_lec2-3.pdf">In A Linear World (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td><a href="9/MIT12_S990F12_lec4-5.pdf">Ensemble Filter Smoother (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td><a href="9/MIT12_S990F12_lec6.pdf">Exponential Family (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td><a href="9/MIT12_S990F12_lec7-8.pdf">Expectation Maximization and Model Selection (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td><a href="9/MIT12_S990F12_lec9.pdf">Markov Chain Monte Carlo (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td><a href="9/MIT12_S990F12_lec10.pdf">Hierarchical Bayesian Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td><a href="9/MIT12_S990F12_lec11.pdf">Particle Filter (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>9</td>
+<td><a href="9/MIT12_S990F12_lec12.pdf">Graphical Models (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p><a href="9/MIT12_S990F12_Thackray.pdf">Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties (PDF)</a>&nbsp;</p>
+<p><a href="9/MIT12_S990F12_Thackraydoc.pdf">Explanation for each slide of "Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties" (PDF)</a>&nbsp;(</p>
+<p><a href="9/MIT12_S990F12_Zawadowicz.pdf">Factor analysis techniques in single-particle aerosol mass spectrometry (PDF)</a>&nbsp;</p>
+</br>
+
