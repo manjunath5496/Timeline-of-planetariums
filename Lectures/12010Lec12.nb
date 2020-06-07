@@ -1,0 +1,604 @@
+(* Content-type: application/mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 6.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       145,          7]
+NotebookDataLength[     15051,        594]
+NotebookOptionsPosition[     10403,        443]
+NotebookOutlinePosition[     10848,        461]
+CellTagsIndexPosition[     10805,        458]
+WindowFrame->Normal
+ContainsDynamic->False*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+12.010 Lecture 12
+(Fall, 2007)\
+\>", "Title",
+ CellChangeTimes->{{3.4013807519701223`*^9, 3.401380752220358*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ "Slide 03: Examples of basic ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " Features"
+}], "Section"],
+
+Cell[CellGroupData[{
+
+Cell["Code (use shift-return to evaluate)", "Subsection"],
+
+Cell["\<\
+x = 3;
+If[x < 4, Print[\"x is less than 4\"], Print[\"x is not less than 4\"]]\
+\>", "Input"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Numerics to arbitrary precision", "Subsection"],
+
+Cell[BoxData["Pi"], "Input"],
+
+Cell["N[Pi] //FullForm", "Input"],
+
+Cell["N[Pi, 20]", "Input"],
+
+Cell["N[2, 100]", "Input"],
+
+Cell["1/7 //N //FullForm", "Input"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Algebra", "Subsection"],
+
+Cell["Expand[(a + b)^25]", "Input"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Calculus", "Subsection"],
+
+Cell["Integrate[y^2, y]", "Input"],
+
+Cell["Integrate[y^n, y]", "Input"],
+
+Cell["Integrate[y^-1, y]", "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Log", "[", "10", "]"}], " ", "//", "N"}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"Log", "[", 
+  RowBox[{"10", ",", " ", "20"}], "]"}]], "Input"],
+
+Cell["Integrate[Exp[-y^2/2], y]", "Input"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Graphics", "Subsection"],
+
+Cell["Plot[Sin[y], {y, 0, 2Pi}];", "Input"],
+
+Cell["Plot[Sin[y], {y, 0, 2Pi}, Frame->True, Axes->False];", "Input"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Notebooks", "Subsection"],
+
+Cell[TextData[{
+ "This file is a notebook.  Close it and open it with a text editor to see \
+the raw format of a ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " notebook."
+}], "Text"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Formats", "Subsection"],
+
+Cell["Open the palettes and enter an equation", "Text"],
+
+Cell[BoxData[
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", "\[Pi]", 
+   RowBox[{"2", "\[Pi]"}]], 
+  RowBox[{
+   SuperscriptBox["y", "2"], 
+   RowBox[{"\[DifferentialD]", "y"}]}]}]], "Input"],
+
+Cell["{{2, 3, 4}, {5, 4, 7}, {8, 6, 1}} ", "Input"],
+
+Cell["{{2, 3, 4}, {5, 4, 7}, {8, 6, 1}} //TableForm", "Input"],
+
+Cell["{{2, 3, 4}, {5, 4, 7}, {8, 6, 1}} //FullForm", "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"2", " ", "+", " ", "sx"}], " ", "//", "FullForm"}]], "Input"],
+
+Cell["Plot[y^2, {y, 2, 4}] //FullForm", "Input"],
+
+Cell["BaseForm[1934, 3]", "Input"],
+
+Cell["BaseForm[1934, 16]", "Input"],
+
+Cell["BaseForm[1934 + 10, 25]", "Input"]
+}, Open  ]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["Slide 08: Variable types", "Section"],
+
+Cell[CellGroupData[{
+
+Cell["Variable types", "Subsection"],
+
+Cell["Head[5]", "Input"],
+
+Cell["Head[5/2]", "Input"],
+
+Cell["Head[4/2]", "Input"],
+
+Cell["Head[3.0]", "Input"],
+
+Cell["Head[3.0 + 5 I]", "Input"],
+
+Cell["Head[rx]", "Input"],
+
+Cell["Head[Pi]", "Input"],
+
+Cell["Head[N[Pi, 50]]", "Input"],
+
+Cell["\<\
+n1 = 11111111111111111111111111111111111111111111111111111111111;\
+\>", "Input"],
+
+Cell["Head[n1]", "Input"],
+
+Cell["Head[\"this is a string\"]", "Input"]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["Slide 09: Examine variable behavior with =", "Section"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"y", "=", "2"}], " ", ";", " ", 
+    RowBox[{"x", " ", "=", "4"}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{"x", "=", " ", "y"}]}], "  ", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "This", " ", "will", " ", "assign", " ", "the", " ", "value", " ", "of", 
+    " ", "y", " ", "to", " ", "x"}], "*)"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"x", "   ", 
+  RowBox[{"(*", " ", 
+   RowBox[{"Check", " ", "the", " ", "value", " ", "of", " ", "x"}], " ", 
+   "*)"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"y", " ", "=", " ", "4"}], "  ", 
+   RowBox[{"(*", " ", 
+    RowBox[{"Reassign", " ", "the", " ", "value", " ", "of", " ", "y"}], " ", 
+    "*)"}], "\[IndentingNewLine]", "x"}], "  ", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "Value", " ", "of", " ", "x", " ", "has", " ", "not", " ", "changed"}], 
+   " ", "*)"}]}]], "Input"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"x", " ", ":=", " ", "y"}], "  ", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+    RowBox[{"This", " ", "delayed", " ", "assignment"}], ",", " ", 
+    RowBox[{"x", " ", "is", " ", "now", " ", "y"}]}], " ", 
+   "*)"}]}], "\[IndentingNewLine]", "x"}], "Input"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"y", " ", "=", " ", "6"}], " ", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "Change", " ", "the", " ", "value", " ", "of", " ", "y", " ", "and", " ", 
+    "x", " ", "changes", " ", "also"}], 
+   "*)"}]}], "\[IndentingNewLine]", "x"}], "Input"],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+Precedence (simple cases below, we would need to add parentheses to change \
+results or to use IntergerPart)\
+\>", "Subsection"],
+
+Cell["1 + 2^3 / 4 * 5", "Input"],
+
+Cell["1 + 2^3  * 5 / 4", "Input"],
+
+Cell[" 2^3 / 4 * 5 + 1", "Input"]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+Slide 10: Example of user Contexts to isolate variables (variables available \
+everywhere are Global`)\
+\>", "Section"],
+
+Cell[CellGroupData[{
+
+Cell["Contexts (As I start here variables are Global` context)", "Subsection"],
+
+Cell["\<\
+Clear[\"Global`*\",anotherContext`z] (*Add this command to clear all \
+variables used so far *)
+Context[z]
+z=4\
+\>", "Input"],
+
+Cell["\<\
+BeginPackage[\"anotherContext`\"] (*Begin a package which has its own \
+Context.  Variables defined in this context will be different to Global` \
+eventhough they have the same names*)\
+\>", "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Context", "[", "]"}], "  ", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "Lets", " ", "me", " ", "know", " ", "what", " ", "context", " ", "am", 
+    " ", "in", " ", "working", " ", "in"}], "*)"}]}]], "Input"],
+
+Cell["z  (* z has not been defined and so it is just the symbol *)", "Input"],
+
+Cell["\<\
+Context[z]
+z=8\
+\>", "Input"],
+
+Cell["EndPackage[]  (*Ends the Package usage, now back to Global*)", "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Context", "[", "]"}], "  ", 
+  RowBox[{"(*", " ", 
+   RowBox[{"Tells", " ", "me", " ", "current", " ", "Context"}], " ", 
+   "*)"}]}]], "Input"],
+
+Cell["Context[z]", "Input"],
+
+Cell["Context[anotherContext`z]", "Input"],
+
+Cell["$ContextPath  (* Tells all the contexts that are available*)", "Input"],
+
+Cell[BoxData["$Context"], "Input"],
+
+Cell[BoxData[{
+ RowBox[{"Global`z", "   ", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "Lets", " ", "me", " ", "see", " ", "the", " ", "values", " ", "in", " ", 
+    "the", " ", "differenr", " ", "contexts"}], 
+   "*)"}]}], "\[IndentingNewLine]", "anotherContext`z"}], "Input"]
+}, Open  ]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["Slide 13: Examples of function use", "Section"],
+
+Cell[CellGroupData[{
+
+Cell["Types in function definitions", "Subsection"],
+
+Cell[BoxData[{
+ RowBox[{"Clear", "[", "f", "]"}], "\[IndentingNewLine]", 
+ RowBox[{"?", "f"}]}], "Input"],
+
+Cell["\<\
+f[x_Integer] := x^2  (* Here we define how f should behave when an integer \
+argument is passed*)\
+\>", "Input"],
+
+Cell["f[9]", "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"f", "[", "x_Real", "]"}], " ", ":=", " ", 
+  RowBox[{"Sqrt", "[", "x", "]"}], "  ", 
+  RowBox[{"(*", 
+   RowBox[{
+   "This", " ", "is", " ", "how", " ", "f", " ", "behaves", " ", "with", " ", 
+    "a", " ", "real", " ", "argument"}], "*)"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"?", "f  (*Enquires about nature of function f*)"}]], "Input"],
+
+Cell["f[9.]", "Input"],
+
+Cell["\<\
+f[\"hello\"]  (* Currently no information on how f should be behave when a \
+string is passed*)\
+\>", "Input"],
+
+Cell["\<\
+f[x_String] := StringDrop[x, -1]  (*Tells it to drop last character*)\
+\>", "Input"],
+
+Cell["f[\"hello\"]", "Input"],
+
+Cell[BoxData[
+ RowBox[{"example", " ", ":=", " ", "f", "  ", 
+  RowBox[{"(*", 
+   RowBox[{
+   "Here", " ", "I", " ", "now", " ", "make", " ", "a", " ", "copy", " ", 
+    "of", " ", "f", " ", "called", " ", "example"}], "*)"}]}]], "Input"],
+
+Cell[BoxData[{
+ RowBox[{"example", "[", "9", "]"}], "\[IndentingNewLine]", 
+ RowBox[{"example", "[", "9.", "]"}], "\[IndentingNewLine]", 
+ RowBox[{"example", "[", "\"\<Nine\>\"", "]"}]}], "Input"]
+}, Open  ]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["Bugs", "Section"],
+
+Cell[CellGroupData[{
+
+Cell["Division", "Subsection"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"x1", "=", " ", "1.992"}], ";"}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"x1", "/", "x1"}], " ", "//", "FullForm"}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"x2", " ", "=", " ", "1.9920000000000002"}], ";"}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"x2", "/", "x2"}], " ", "//", "FullForm"}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"N", "[", 
+  RowBox[{
+   RowBox[{"x2", "/", "x2"}], ",", " ", "17"}], "]"}]], "Input"]
+}, Open  ]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["Scratch Area", "Section"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"f", "[", "x_", "]"}], ":=", " ", 
+  RowBox[{"{", 
+   RowBox[{"2", ",", " ", "3"}], "}"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"{", 
+   RowBox[{"a", ",", " ", "b"}], "}"}], " ", "=", " ", 
+  RowBox[{"f", "[", "j", "]"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"c", " ", "=", " ", 
+  RowBox[{"f", "[", "j", "]"}]}]], "Input"],
+
+Cell[BoxData[{
+ RowBox[{"Clear", "[", "a", "]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"f", "[", "x_", "]"}], " ", ":=", " ", 
+  RowBox[{"2", "*", "x", "   ", 
+   RowBox[{"(*", " ", 
+    RowBox[{"Define", " ", "to", " ", "double", " ", "x"}], 
+    "*)"}]}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"g", "[", "y_", "]"}], " ", ":=", " ", 
+  RowBox[{"Sin", "[", "y", "]"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"h", "[", "z_", "]"}], " ", ":=", " ", 
+  RowBox[{
+   RowBox[{"f", "[", "z", "]"}], "+", 
+   RowBox[{"g", "[", "z", "]"}]}]}]}], "Input"],
+
+Cell[BoxData[{
+ RowBox[{"h", "[", "10", "]"}], "\[IndentingNewLine]", 
+ RowBox[{"h", "[", "a", "]"}]}], "Input"]
+}, Closed]]
+},
+WindowSize->{730, 684},
+WindowMargins->{{28, Automatic}, {Automatic, 24}},
+DockedCells->FEPrivate`FrontEndResource[
+ "FEExpressions", "CompatibilityToolbar"],
+Magnification->1,
+FrontEndVersion->"6.0 for Mac OS X PowerPC (32-bit) (April 20, 2007)",
+StyleDefinitions->"Classroom.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[568, 21, 123, 4, 95, "Title"],
+Cell[CellGroupData[{
+Cell[716, 29, 125, 5, 51, "Section"],
+Cell[CellGroupData[{
+Cell[866, 38, 57, 0, 36, "Subsection"],
+Cell[926, 40, 103, 3, 52, "Input"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1066, 48, 53, 0, 36, "Subsection"],
+Cell[1122, 50, 28, 0, 26, "Input"],
+Cell[1153, 52, 33, 0, 25, "Input"],
+Cell[1189, 54, 26, 0, 25, "Input"],
+Cell[1218, 56, 26, 0, 25, "Input"],
+Cell[1247, 58, 35, 0, 25, "Input"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1319, 63, 29, 0, 36, "Subsection"],
+Cell[1351, 65, 35, 0, 25, "Input"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1423, 70, 30, 0, 36, "Subsection"],
+Cell[1456, 72, 34, 0, 25, "Input"],
+Cell[1493, 74, 34, 0, 25, "Input"],
+Cell[1530, 76, 35, 0, 25, "Input"],
+Cell[1568, 78, 86, 2, 26, "Input"],
+Cell[1657, 82, 86, 2, 26, "Input"],
+Cell[1746, 86, 42, 0, 25, "Input"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1825, 91, 30, 0, 36, "Subsection"],
+Cell[1858, 93, 43, 0, 25, "Input"],
+Cell[1904, 95, 69, 0, 25, "Input"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2010, 100, 31, 0, 36, "Subsection"],
+Cell[2044, 102, 190, 6, 44, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2271, 113, 29, 0, 36, "Subsection"],
+Cell[2303, 115, 55, 0, 29, "Text"],
+Cell[2361, 117, 190, 6, 43, "Input"],
+Cell[2554, 125, 51, 0, 25, "Input"],
+Cell[2608, 127, 62, 0, 25, "Input"],
+Cell[2673, 129, 61, 0, 25, "Input"],
+Cell[2737, 131, 96, 2, 26, "Input"],
+Cell[2836, 135, 48, 0, 25, "Input"],
+Cell[2887, 137, 34, 0, 25, "Input"],
+Cell[2924, 139, 35, 0, 25, "Input"],
+Cell[2962, 141, 40, 0, 25, "Input"]
+}, Open  ]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[3051, 147, 43, 0, 31, "Section"],
+Cell[CellGroupData[{
+Cell[3119, 151, 36, 0, 36, "Subsection"],
+Cell[3158, 153, 24, 0, 25, "Input"],
+Cell[3185, 155, 26, 0, 25, "Input"],
+Cell[3214, 157, 26, 0, 25, "Input"],
+Cell[3243, 159, 26, 0, 25, "Input"],
+Cell[3272, 161, 32, 0, 25, "Input"],
+Cell[3307, 163, 25, 0, 25, "Input"],
+Cell[3335, 165, 25, 0, 25, "Input"],
+Cell[3363, 167, 32, 0, 25, "Input"],
+Cell[3398, 169, 90, 2, 25, "Input"],
+Cell[3491, 173, 25, 0, 25, "Input"],
+Cell[3519, 175, 43, 0, 25, "Input"]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[3611, 181, 61, 0, 31, "Section"],
+Cell[3675, 183, 366, 10, 41, "Input"],
+Cell[4044, 195, 155, 4, 26, "Input"],
+Cell[4202, 201, 368, 10, 41, "Input"],
+Cell[4573, 213, 283, 7, 41, "Input"],
+Cell[4859, 222, 272, 7, 41, "Input"],
+Cell[CellGroupData[{
+Cell[5156, 233, 138, 3, 52, "Subsection"],
+Cell[5297, 238, 32, 0, 25, "Input"],
+Cell[5332, 240, 33, 0, 25, "Input"],
+Cell[5368, 242, 33, 0, 25, "Input"]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[5450, 248, 129, 3, 54, "Section"],
+Cell[CellGroupData[{
+Cell[5604, 255, 78, 0, 36, "Subsection"],
+Cell[5685, 257, 135, 5, 66, "Input"],
+Cell[5823, 264, 209, 4, 52, "Input"],
+Cell[6035, 270, 237, 6, 26, "Input"],
+Cell[6275, 278, 77, 0, 25, "Input"],
+Cell[6355, 280, 39, 3, 39, "Input"],
+Cell[6397, 285, 77, 0, 25, "Input"],
+Cell[6477, 287, 179, 5, 26, "Input"],
+Cell[6659, 294, 27, 0, 25, "Input"],
+Cell[6689, 296, 42, 0, 25, "Input"],
+Cell[6734, 298, 77, 0, 25, "Input"],
+Cell[6814, 300, 34, 0, 26, "Input"],
+Cell[6851, 302, 271, 6, 41, "Input"]
+}, Open  ]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[7171, 314, 53, 0, 31, "Section"],
+Cell[CellGroupData[{
+Cell[7249, 318, 51, 0, 36, "Subsection"],
+Cell[7303, 320, 105, 2, 41, "Input"],
+Cell[7411, 324, 122, 3, 39, "Input"],
+Cell[7536, 329, 21, 0, 25, "Input"],
+Cell[7560, 331, 288, 7, 41, "Input"],
+Cell[7851, 340, 85, 1, 26, "Input"],
+Cell[7939, 343, 22, 0, 25, "Input"],
+Cell[7964, 345, 120, 3, 39, "Input"],
+Cell[8087, 350, 94, 2, 39, "Input"],
+Cell[8184, 354, 29, 0, 25, "Input"],
+Cell[8216, 356, 238, 5, 26, "Input"],
+Cell[8457, 363, 196, 3, 56, "Input"]
+}, Open  ]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[8702, 372, 23, 0, 31, "Section"],
+Cell[CellGroupData[{
+Cell[8750, 376, 30, 0, 36, "Subsection"],
+Cell[8783, 378, 77, 2, 26, "Input"],
+Cell[8863, 382, 87, 2, 26, "Input"],
+Cell[8953, 386, 95, 2, 26, "Input"],
+Cell[9051, 390, 87, 2, 26, "Input"],
+Cell[9141, 394, 109, 3, 26, "Input"]
+}, Open  ]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[9299, 403, 31, 0, 31, "Section"],
+Cell[9333, 405, 136, 4, 26, "Input"],
+Cell[9472, 411, 139, 4, 26, "Input"],
+Cell[9614, 417, 87, 2, 26, "Input"],
+Cell[9704, 421, 568, 15, 72, "Input"],
+Cell[10275, 438, 112, 2, 41, "Input"]
+}, Closed]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
