@@ -29,7 +29,8 @@
   <li><a href="#course28">Climate Physics and Chemistry</a></li> 
  <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
    <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
-
+ <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
+   <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
 
 </ul>
 <p>&nbsp;</p>
@@ -2282,4 +2283,63 @@
 </table>
 
 </br>
+<h2 id="course31">Experimental Atmospheric Chemistry</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="5/MIT12_335F14_Lecture_intro.pdf">Course Introduction (PDF - 2.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Section 1: Atmospheric Photochemistry and Air Pollution</strong></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_335F14_Lecture1_1.pdf">Atmospheric Photochemistry and Air Pollution I (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>MATLAB<sup>&reg;</sup>&nbsp;Overview (<a href="5/test.m">M</a>) (<a href="5/test.csv">CSV</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_335F14_Lecture1_2.pdf">Atmospheric Photochemistry and Air Pollution II (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_335F14_Lecture1_3.pdf">Atmospheric Photochemistry and Air Pollution III (PDF - 1.7MB)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_335F14_Lect1_3supp.pdf">Building 54 Data Review (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_335F14_Lecture1_4.pdf">Atmospheric Photochemistry and Air Pollution IV (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Section 2: CO<sub>2</sub>&nbsp;and Climate Change</strong></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_335F14_Lecture2.pdf">CO<sub>2&nbsp;</sub>and Climate Change (PDF - 4.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Section 3: Aerosol and Clouds</strong></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_335F14_Lecture3_1.pdf">Aerosol and Clouds I (PDF - 2.8MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_335F14_Lecture3_2.pdf">Aerosol and Clouds II (PDF - 2.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_335F14_Lecture3_3.pdf">Aerosol and Clouds III (PDF - 3.0MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_335F14_Lecture3_4.pdf">Aerosol and Clouds IV (PDF - 2.9MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
