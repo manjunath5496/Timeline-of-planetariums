@@ -2879,7 +2879,7 @@
 </thead>
 <tbody>
 <tr class="row">
-<td>Course Overview (<a href="6/lec1.pdf">PDF</a>)</td>
+<td>Course Overview (<a href="6/leck1.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
 <td>Stress (<a href="6/lecture2.pdf">PDF</a>)</td>
@@ -2888,13 +2888,13 @@
 <td>Different Representations of Stress (<a href="6/lecture3.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Tectonic Stress (<a href="6/lec4.pdf">PDF</a>)</td>
+<td>Tectonic Stress (<a href="6/leck4.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td>Changing Coordinate Systems and Mohr's Circle (<a href="6/lecture5.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Stress Variations in the Crust (<a href="6/lec6.pdf">PDF</a>)</td>
+<td>Stress Variations in the Crust (<a href="6/leck6.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td>Strain (<a href="6/lecture7.pdf">PDF</a>)</td>
@@ -2906,7 +2906,7 @@
 <td>Mohr's Circle for Strain (<a href="6/lecture9.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Finite Strain - Motivation (<a href="6/lec10.pdf">PDF</a>)</td>
+<td>Finite Strain - Motivation (<a href="6/leck10.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td>Introduction to Constitutive Equations and Elasticity (<a href="6/lecture11.pdf">PDF</a>)</td>
