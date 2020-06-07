@@ -4100,7 +4100,7 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <td headers="col2">Observations of the Gulf Stream in the N. Atlantic (<a href="8/course_notes_7.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td headers="col2">Global Hydrographic Climatology (<a href="8/gbl_hgpc_atlas.pdf">PDF</a>)<br /><br /><span class="subsubhead">Supporting Files</span><br />atlas_test.m (<a href="8/atlas_test.m">M</a>)<br />ghc_Ni.mat (<a href="8/ghc_Ni.mat">MAT - 21.1 MB</a>)<br />ghc_Oxkg.mat (<a href="8/ghc_Oxkg.mat">MAT - 21.1 MB</a>)<br />ghc_Ph.mat (<a href="8/ghc_Ph.mat">MAT - 21.1 MB</a>)<br />ghc_pr.mat (<a href="8/ghc_pr.mat">MAT - 63.4 MB</a>)<br />ghc_Sil.mat (<a href="8/ghc_Sil.mat">MAT - 21.1 MB</a>)</td>
+<td headers="col2">Global Hydrographic Climatology (<a href="8/gbl_hgpc_atlas.pdf">PDF</a>)<br /><br /><span class="subsubhead">Supporting Files</span><br />atlas_test.m (<a href="8/atlas_test.m">M</a>)<br />ghc_Ni.mat (<a href="8/ghc_Ni.mat">MAT - 21.1 MB</a>)<br />ghc_Oxkg.mat (<a href="8/ghc_Oxkg.mat">MAT - 21.1 MB</a>)<br />ghc_Ph.mat (<a href="8/ghc_Ph.mat">MAT - 21.1 MB</a>)<br />ghc_Sil.mat (<a href="8/ghc_Sil.mat">MAT - 21.1 MB</a>)</td>
 </tr>
 <tr class="row">
 <td headers="col2">Equatorial Twists to Mid-Latitude Dynamics (<a href="8/course_notes_8.pdf">PDF</a>)</td>
