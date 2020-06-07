@@ -11,7 +11,7 @@
 <li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
 <li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
 <li><a href="#course12">Radon Research in Multidisciplines: A Review</a></li>
-<li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
+<li><a href="#cours13">Medical Geology/Geochemistry: An Exposure</a></li>
 <li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
 <li><a href="#course4">Geobiology</a></li>
 <li><a href="#course5">Theoretical Environmental Analysis</a></li>
@@ -951,4 +951,80 @@
 
 <p>Radon and Radon Daughter Products in Building Materials (<a href="1/presentation.pdf">PDF</a>)</p>
 <p>Radiation in Building Materials (<a href="1/report.pdf">PDF</a>)</p>
+</br>
+<h2 id="course13">Medical Geology/Geochemistry: An Exposure</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th>TOPICS</th>
+<th>LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introduction</p>
+<p>Classification of Elements</p>
+<p>Elemental Link Between Geosphere and Biosphere</p>
+<p>Essential and Non-essential Elements with Reference to Human Health</p>
+<p>Selection of Elements for Report and Presentation</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/session1.pdf">PDF&nbsp;‑&nbsp;3.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>NORM (Naturally Occurring Radioactive Material)</p>
+<p>TENORM (Technologically-Enhanced Naturally Occurring Radioactive Material)</p>
+<p>Radon</p>
+</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/session2a.pdf">PDF 1</a>)&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/session2b.pdf">PDF 2&nbsp;‑&nbsp;1.8 MB</a>)</p>
+<p>TENORM Sources (<a href="2/tenorm_sources.pdf">PDF</a>)</p>
+<p>TENORM Sources Table (<a href="2/tenorm_sourc_tab.pdf">PDF</a>)</p>
+<p>TENORM Summary (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/tenorm_summary.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Overview of Analytical Techniques</p>
+<p>MIT-EAPS Neutron Activation Analysis Laboratory - Hands on Experience</p>
+</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/session3.pdf">PDF&nbsp;‑&nbsp;1.5 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Hydrogeology of As in Central Massachusetts</p>
+</td>
+<td>
+<p>(<a href="2/session4.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Dust Storms - Health Effects</p>
+<p>Review and Conclusions</p>
+<p>Student Presentations</p>
+</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/session5.pdf">PDF&nbsp;‑&nbsp;4.5 MB</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<ul>
+<li>
+<p>Chlorine and Its Consequences (<a href="2/brazin.pdf">PDF 1</a>) (<a href="2/brazin_ppt.pdf">PDF 2 - 2.6 MB</a>)&nbsp;</p>
+</li>
+<li>
+<p>Iodine (<a href="2/love.pdf">PDF 1</a>) (<a href="2/love_ppt.pdf">PDF 2</a>)&nbsp;</p>
+</li>
+<li>
+<p>U.S. Environmental Health Effects and Treatment of Mercury Exposure (<a href="2/navarro.pdf">PDF 1</a>) (<a href="2/navarro_ppt.pdf">PDF 2</a>)&nbsp;</p>
+</li>
+</ul>
 </br>
