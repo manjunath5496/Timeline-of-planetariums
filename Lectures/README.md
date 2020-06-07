@@ -31,6 +31,16 @@
    <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
  <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
    <li><a href="#course32">Global Warming Science</a></li> 
+<li><a href="#course33">Hands-On Astronomy: Observing Stars and Planets</a></li>  
+   <li><a href="#course26">Essentials of Geophysics</a></li> 
+   <li><a href="#course27">Modern Navigation</a></li> 
+  <li><a href="#course28">Climate Physics and Chemistry</a></li> 
+ <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
+   <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
+ <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
+   <li><a href="#course32">Global Warming Science</a></li> 
+
+
 
 </ul>
 <p>&nbsp;</p>
@@ -2403,3 +2413,57 @@
 </tbody>
 </table>
 </br>
+<h2 id="course33">Hands-On Astronomy: Observing Stars and Planets</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course Information (<a href="5/handout1_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Care and Feeding of Your Observing Notebook (<a href="5/handout2_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Meade 8" LX200 Set-up (<a href="5/handout3_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Can We Observe x Tonight? (<a href="5/handout4_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Chez 12.409" Menu for Spring 2002 (<a href="5/handout5_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Observing Tips (<a href="5/handout6_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Useful Optics Information (<a href="5/handout7_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>CCD User's Guide (<a href="5/handout8_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Basic CCD Image Processing (<a href="5/handout9_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The LX200 Object Library (<a href="5/handout10_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Color Imaging (<a href="5/handout11_sp2002.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Solar Observing (<a href="5/handout12_sp2002.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
