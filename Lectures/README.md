@@ -629,7 +629,7 @@
 <h3 class="subsubhead">Lec #20</h3>
 <p>3-D graphics in MATLAB.</p>
 <p>Examples are:</p>
-<p>Lec20_3D.m (<a href="Lec19_3D.m">M</a>) <br />Lec20_TotalANC.avi (<a href="http://geoweb.mit.edu/~tah/12.010/Lec19_TotalANC.avi">AVI</a>) <br />Lec20_RateANC.avi (<a href="http://geoweb.mit.edu/~tah/12.010/Lec19_RateANC.avi">AVI</a>) <br />Dif_1006_0407.fig (<a href="http://geoweb.mit.edu/~tah/12.010/Dif_1006_0407.fig">FIG</a>)</p>
+<p>Lec20_3D.m (<a href="Lec19_3D.m">M</a>) <br />Lec20_TotalANC.avi (<a href="http://geoweb.mit.edu/~tah/12.010/Lec19_TotalANC.avi">AVI</a>)<br />Lec20_RateANC.avi (<a href="http://geoweb.mit.edu/~tah/12.010/Lec19_RateANC.avi">AVI</a>)<br />Dif_1006_0407.fig (<a href="Dif_1006_0407.fig">FIG</a>)</p>
 </td>
 </tr>
 <tr class="alt-row">
