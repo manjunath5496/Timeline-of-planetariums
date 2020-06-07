@@ -9,7 +9,7 @@
 <li><a href="#course8">Modeling Environmental Complexity</a></li>
 <li><a href="#course9">The Environment of the Earth's Surface</a></li>
 <li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
-<li><a href="#course11">Computational Quantum Mechanics of Molecular and Extended Systems</a></li>
+<li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -899,7 +899,14 @@
 <p>Chapter 17: Planar Stratification (<a href="ch17.pdf">PDF</a>)</p>
 <p>Index (<a href="index.pdf">PDF</a>)</p>
 </br>
+<h2 id="course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</h2>
 
-
-
-
+<p>Session 1 (<a href="session1.pdf">PDF - 3.0 MB</a>)</p>
+<p>Session 2 (<a href="session2.pdf">PDF - 2.3 MB</a>)</p>
+<p>Session 3 (<a href="session3.pdf">PDF - 3.7 MB</a>)</p>
+<p>Session 4 (<a href="session4.pdf">PDF - 1.3 MB</a>)</p>
+<p>Session 5 (<a href="session5.pdf">PDF - 1.1 MB</a>)</p>
+</br>
+<p>The Ries Impact Crater (<a href="presentation.pdf">PDF</a>)</p>
+<p>The Uplifting Ries Impact Crater (<a href="report.pdf">PDF</a>)</p>
+</br>
