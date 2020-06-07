@@ -24,7 +24,7 @@
    <li><a href="#course23">Electron Microprobe Analysis</a></li> 
   <li><a href="#course24">Molecular Biogeochemistry</a></li> 
  <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
-   <li><a href="#course20">Sedimentary Geology</a></li> 
+   <li><a href="#course26">Essentials of Geophysics</a></li> 
 
 </ul>
 <p>&nbsp;</p>
@@ -1877,4 +1877,18 @@
 </tbody>
 </table>
 </br>
+<h2 id="course26">Essentials of Geophysics</h2>
+
+<h2 class="subhead">Chapter 1: The Earth in the Solar System (<a href="4/ch1.pdf">PDF</a>)</h2>
+<p>1.1 Solar System Formation, Accretion, and the Early Thermal State of the Earth<br />1.2 Rotation and Angular Momentum<br />1.3 The Sun<br />1.4 Planetary Formation<br />1.5 Early Thermal State of the Earth<br />1.6 Radioactive Decay<br />1.7 Radiometric Dating<br />1.8 Radioactivity as a Heat Source<br />1.9 Meteorites and the Bulk Composition of the Earth<br />1.10 Chondrites<br />1.11 Secondary Processing<br />1.12 Achondrites<br />1.13 Irons and Stony-Irons<br />1.14 The Terrestrial Planets<br />1.15 One-dimensional Earth's Structure<br />1.16 Lateral Heterogeneity in the Mantle</p>
+<h2 class="subhead">Chapter 2: The Earth's Gravitational Field (<a href="4/ch2.pdf">PDF - 1.0 MB</a>)</h2>
+<p>2.1 Global Gravity, Potentials, Figure of the Earth, Geoid<br />2.2 Gravitational Potential due to Nearly Spherical Body<br />2.3 The Poisson and Laplace Equations<br />2.4 Cartesian and Spherical Coordinate Systems<br />2.5 Spherical Harmonics<br />2.6 Global Gravity Anomalies<br />2.7 Gravity Anomalies and the Reduction of Gravity Data<br />2.8 Correlation between Gravity Anomalies and Topography<br />2.9 Flexure and Gravity</p>
+<h2 class="subhead">Chapter 3: The Magnetic Field of the Earth (<a href="4/ch3pdf.pdf">PDF - 1.7 MB</a>)</h2>
+<p>3.1 The Main Field<br />3.2 The Internal Field<br />3.3 The External Field<br />3.4 The Magnetic Induction due to a Magnetic Dipole<br />3.5 Magnetic Potential due to More Complex Configurations<br />3.6 Power Spectrum of the Magnetic Field<br />3.7 Downward Continuation<br />3.8 Secular Variation<br />3.9 Source of the Internal Field: The Geodynamo<br />3.10 Crustal Field and Rock Magnetism<br />3.11 Magnetization<br />3.12 Other Types of Magnetization<br />3.13 Magnetic Cleaning Procedures<br />3.14 Paleomagnetism<br />3.15 Field Reversals<br />3.16 Qualitative Arguments that explain the need for Core-mantle Coupling<br />3.17 Reversals: Time Scale, Sea Floor Spreading, Magnetic Anomalies<br />3.18 Magnetic Anomaly Profiles</p>
+<h2 class="subhead">Chapter 4: Seismology (<a href="4/ch4.pdf">PDF -&nbsp;1.1 MB</a>)</h2>
+<p>4.1 Historical Perspective<br />4.2 Introduction<br />4.3 Strain<br />4.4 Stress<br />4.5 Equations of Motion, Wave Equation,&nbsp;<em>P</em>&nbsp;and&nbsp;<em>S</em>-waves<br />4.6&nbsp;<em>P</em>&nbsp;and&nbsp;<em>S</em>-waves<br />4.7 From Vector to Scalar Potentials - Polarization<br />4.8 Solution by Separation of Variables<br />4.9 Plane Waves<br />4.10 Some Remarks<br />4.11 Nomenclature of Body Waves in Earth's Interior<br />4.12 More on the Dispersion Relation<br />4.13 The Wave Field - Snell's Law<br />4.14 Fermat's Principle and Snell's Law<br />4.15 Ray Geometries of the Wave Field<br />4.16 Travel Time Curves and Radial Earth Structure<br />4.17 Radial Earth Structure<br />4.18 Surface Waves<br />4.19 Sensitivity Kernels<br />4.20 Excitation of Surface Waves<br />4.21 Dispersion: Phase and Group Velocity<br />4.22 Dispersion Curves<br />4.23 Seismology: Free Oscillations</p>
+<h2 class="subhead">Chapter 5: Geodynamics (<a href="4/ch5.pdf">PDF</a>)</h2>
+<p>5.1 Heat Flow<br />5.2 Heat Flow, Geothermal Gradient, Diffusion<br />5.3 Thermal Structure of the Oceanic Lithosphere<br />5.4 Thermal Structure of the Oceanic Lithosphere (cont.)<br />5.5 Bending, or Flexure, of Thin Elastic Plate<br />5.6 The Upper Mantle Transition Zone</p>
+</br>
+
 
