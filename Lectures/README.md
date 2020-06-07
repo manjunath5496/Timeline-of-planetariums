@@ -2,7 +2,7 @@
 <li><a href="#course1">Introduction to Geology</a></li>
 <li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
 <li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
-<li><a href="#course4">Separation Processes for Biochemical Products</a></li>
+<li><a href="#course4">Geobiology</a></li>
 <li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
 <li><a href="#course6">Integrated Chemical Engineering II</a></li>
 <li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
@@ -327,5 +327,109 @@
 </table>
 
 </br>
+<h2 id="course4">Geobiology</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec1.pdf">Introductions; Rationale (PDF - 5.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><span class="nobr"><a href="MIT12_007S13_Lec2.pdf">The Solar System and Earth Accretion and Differentiation (PDF - 3.6MB)</a></span></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec3.pdf">Theories Pertaining to the Origin of Life (PDF - 3.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT12_007S13_Lec4.pdf">Biogeochemical Tracers (PDF - 1.5MB)</a></p>
+<p>Isotopics #1: C and S</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT12_007S13_Lec5.pdf">Biogeochemical Tracers (PDF - 2.0MB)</a></p>
+<p>Isotopics #2: C, H, O and N</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT12_007S13_Lec6.pdf">Biogeochemical Tracers (PDF - 2.1MB)</a></p>
+<p>Isotopics #3: Biosynthetic fractionations and Intramolecular isotopic data, more of multi-element isotopics and the Precambrian C-Cycle</p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec7.pdf">Acid-Base Reactions (PDF - 1.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_007S13_Lec8.pdf">Dissolved Inorganic Carbon Species (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec9.pdf">Environmental Redox and Photosynthesis (PDF - 2.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_007S13_Lec10.pdf">Environmental Redox and Photosynthesis (cont.) (PDF - 2.8MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec11.pdf">Oxygenation of Earth's Atmosphere (PDF - 4.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_007S13_Lec12.pdf">The Climate History of Earth (PDF - 2.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec13.pdf">Evolution and Radiation of Photosynthetic Organisms (PDF - 3.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="http://ocw.mit.edu/ans7870/12/12.007/s13/MIT12_007S13_Lec14.pdf">The Rise Of Animals (PDF - 14.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec15.pdf">Biomineralization (PDF - 3.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><span class="nobr"><a href="MIT12_007S13_Lec16.pdf">Major Transitions in Earth History: Mass Extinctions and Radiations (PDF - 2.8MB)</a></span></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Cretaceous-Paleogene (K-Pg) boundary<br />Paleocene-Eocene Thermal Maximum (PETM)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_007S13_Lec18.pdf">Extremophiles (PDF - 3.0MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_007S13_Lec19.pdf">Modern Microbiological Methods (PDF - 3.1MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT12_007S13_PSet_3.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="MIT12_007S13_Solution_3.pdf">Solution 1 (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_007S13_PSet_4.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="MIT12_007S13_Solution_4.pdf">Solution 2 (PDF)</a>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
 
