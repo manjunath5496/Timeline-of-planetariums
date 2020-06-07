@@ -57,6 +57,11 @@
    <li><a href="#course56">Tropical Meteorology</a></li> 
  <li><a href="#course57">General Circulation of the Earth's Atmosphere</a></li>  
    <li><a href="#course58">Atmospheric Radiation</a></li> 
+  <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
+   <li><a href="#course58">Atmospheric Radiation</a></li> 
+ 
+ 
+ 
  
 </ul>
 <p>&nbsp;</p>
@@ -4297,6 +4302,72 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <h3 class="subsubhead">Lecture 14</h3>
 <p>- Miscellaneous topics and summary (microwave remote sensing, active remote sensing - LIDAR and RADAR)</p>
 </td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course59">Turbulence in the Ocean and Atmosphere</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="9/ch1.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transition to Turbulence (<a href="9/ch2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Statistics and Turbulence (<a href="9/ch3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Convection (<a href="9/ch4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3D Turbulence (<a href="9/ch5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2D Turbulence (<a href="9/ch6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>QG Turbulence (<a href="9/ch7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mean-Field Approximation</td>
+</tr>
+<tr class="row">
+<td>SQG Turbulence (<a href="9/ch12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Effective Diffusivity (<a href="9/ch13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transformed Eulerian Mean (<a href="9/ch14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transformed Eulerian Mean in 3D (<a href="9/ch15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Particle Motions, Stokes' Drift (<a href="9/ch16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Baroclinic Turbulence (<a href="9/ch18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gyres (<a href="9/ch19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Turbulent Boundary Layers (<a href="9/ch20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nonlinear Internal Waves, Solitary Waves (<a href="9/ch21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Topographic Waves (<a href="9/ch22.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
