@@ -6,7 +6,7 @@
 <li><a href="#course5">Theoretical Environmental Analysis</a></li>
 <li><a href="#course6">Computational Methods of Scientific Programming</a></li>
 <li><a href="#course7">Seminar in Environmental Science</a></li>
-<li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
+<li><a href="#course8">Modeling Environmental Complexity</a></li>
 <li><a href="#course9">Synthesis of Polymers</a></li>
 <li><a href="#course10">Atmospheric Physics and Chemistry</a></li>
 <li><a href="#course11">Computational Quantum Mechanics of Molecular and Extended Systems</a></li>
@@ -791,7 +791,42 @@
 </tbody>
 </table>
 </br>
+<h2 id="course8">Modeling Environmental Complexity</h2>
 
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT12_086F14_intro.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_086F14_twolevels.pdf">From Microdynamics to Macrodynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_086F14_rivers.pdf">River Networks (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_086F14_soc.pdf">Self-organized Criticality (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_086F14_anomalous.pdf">Anomalous Diffusion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_086F14_percolation.pdf">Percolation Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_086F14_networks.pdf">Random and Scale-free Networks (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_086F14_biocycle.pdf">Origin of Biogeochemical Cycles (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_086F14_kinetics.pdf">Disordered Kinetics (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
