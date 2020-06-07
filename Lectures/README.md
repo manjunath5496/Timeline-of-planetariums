@@ -11,16 +11,12 @@
 <li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
 <li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
 <li><a href="#course12">Radon Research in Multidisciplines: A Review</a></li>
-<li><a href="#cours13">Medical Geology/Geochemistry: An Exposure</a></li>
-<li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
-<li><a href="#course4">Geobiology</a></li>
-<li><a href="#course5">Theoretical Environmental Analysis</a></li>
-<li><a href="#course6">Computational Methods of Scientific Programming</a></li>
-<li><a href="#course7">Seminar in Environmental Science</a></li>
-<li><a href="#course8">Modeling Environmental Complexity</a></li>
-<li><a href="#course9">The Environment of the Earth's Surface</a></li>
-<li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
-<li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
+<li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li>
+  
+  
+  
+  
+
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Geology</h2>
