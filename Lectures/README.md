@@ -34,7 +34,7 @@
 <li><a href="#course33">Hands-On Astronomy: Observing Stars and Planets</a></li>  
    <li><a href="#course34">Extrasolar Planets: Physics and Detection Techniques</a></li> 
    <li><a href="#course35">Oral Communication in the Earth, Atmospheric, and Planetary Sciences</a></li> 
-  <li><a href="#course28">Climate Physics and Chemistry</a></li> 
+  <li><a href="#course36">Crosby Lectures in Geology: History of Africa</a></li> 
  <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
    <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
  <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
@@ -2538,10 +2538,54 @@
 </tbody>
 </table>
 </br>
+<h2 id="course36">Crosby Lectures in Geology: History of Africa</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>600 Million Years of African Geology&nbsp;<span class="nobr">(<a href="5/1_lecture1_1.pdf">PDF 1 of 2 - 1.6 MB</a>)</span>&nbsp;<span class="nobr">(<a href="5/1_lecture1_2.pdf">PDF 2 of 2 - 2.0 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>The Panafrican Orogeny&nbsp;<span class="nobr">(<a href="5/2_lecture2.pdf">PDF - 2.0 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>The Wilson Cycle: Geology before the Present Oceans began to Form&nbsp;<span class="nobr">(<a href="5/3_ancient_tecton.pdf">PDF - 2.5 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Undeformed and Deformed Alkaline Rocks and Carbonatites&nbsp;<span class="nobr">(<a href="5/4_darcs.pdf">PDF - 1.9 MB</a>)</span>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>The Panafrican Orogeny II&nbsp;<span class="nobr">(<a href="5/5_pan_afric_orog.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Paleomagnetism</td>
+</tr>
+<tr class="row">
+<td>Paleozoic History</td>
+</tr>
+<tr class="alt-row">
+<td>Africa in the Early Phases of the Break-up of Pangea&nbsp;<span class="nobr">(200 to 135 Ma)</span></td>
+</tr>
+<tr class="row">
+<td>The Opening of the South Atlantic&nbsp;<span class="nobr">(<a href="5/9_south_atlantic.pdf">PDF - 1.3 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Africa's Past 30 Million Years I&nbsp;<span class="nobr">(<a href="5/10_past_30m_p1_1.pdf">PDF 1 of 2 - 2.0 MB</a>)</span>&nbsp;<span class="nobr">(<a href="5/10_past_30m_p1_2.pdf">PDF 2 of 2 - 1.1 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Africa's Past 30 Million Years II&nbsp;<span class="nobr">(<a href="5/11_past_30m_p2_1.pdf">PDF 1 of 2 - 1.6 MB</a>)</span>&nbsp;<span class="nobr">(<a href="5/11_past_30m_p2_2.pdf">PDF 2 of 2 - 1.6 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Africa's Past 30 Million Years III&nbsp;<span class="nobr">(<a href="5/12_past_30my_p3.pdf">PDF - 1.5 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
