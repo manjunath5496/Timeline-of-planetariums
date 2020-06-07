@@ -41,7 +41,7 @@
    <li><a href="#course40">Introduction to Seismology</a></li> 
   <li><a href="#course41">Geodynamics</a></li> 
  <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
-   <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
+   <li><a href="#course43">Principles of the Global Positioning System</a></li> 
  <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
    <li><a href="#course40">Introduction to Seismology</a></li> 
 
@@ -3053,6 +3053,161 @@
 <p>Student Papers</p>
 </td>
 <td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course43">Principles of the Global Positioning System</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES,&nbsp;SUPPORTING&nbsp;FILES&nbsp;AND&nbsp;LINKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Overview of the aims of the class (<a href="6/MIT12_540S12_lec1.pdf">PDF</a>)</td>
+<td>
+<p>Class introduction and content</p>
+<p><a href="http://www.navcen.uscg.gov/">U.S. Coast Guard Navigation Center Website</a><br /><a href="http://www.unavco.org/">University NAVSTAR Consortium Website</a><br /><a href="http://reason.scign.org/">SCIGN Data Portal Website</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Coordinate and time systems (<a href="6/MIT12_540S12_lec2.pdf">PDF</a>)</td>
+<td>Introduction to coordinate system definition and realization concentrating on geometric definitions<br /><a href="http://sco.wisc.edu/surveying/networks.php">SCO Web: Control Networks</a><br /><a href="http://www.ngs.noaa.gov/">National Geodetic Survey</a></td>
+</tr>
+<tr class="row">
+<td>Potential fields and coordinate systems (<a href="6/MIT12_540S12_lec3.pdf">PDF</a>)</td>
+<td>Potential fields and coordinate systems. We also used some Matlab scripts in this lecture. The two programs are Harmonics.m (<a href="6/Harmonics.m">M</a>), which plots low order harmonics and Sectorials.m (<a href="6/Sectorials.m">M</a>), which plots high order sectorial harmonics. Surface harmonic figure and code: SurfaceHarmonic.fig (<a href="6/SurfaceHarmonic.fig">FIG</a>) and SurfaceHarmonic.m (<a href="6/SurfaceHarmonic.m">M</a>)<br /><a href="http://mathworld.wolfram.com/LegendrePolynomial.html">Legendre Polynomial</a></td>
+</tr>
+<tr class="alt-row">
+<td>Coordinate types (<a href="6/MIT12_540S12_lec4.pdf">PDF - 1.7MB</a>)</td>
+<td>Coordinate systems, rotation of the Earth, Geoid, Spherical trigonometry<br /><a href="http://www.iers.org/">International Earth Rotation and Reference Systems Service</a><br />Modeling of Nutation-Precession: Very long baseline interferometry results (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://geoweb.mit.edu/~tah/12.540/icd200cw1234.pdf">PDF</a>)<br /><a href="http://www.ngs.noaa.gov/cgi-bin/GEOID_STUFF/geoid99_prompt1.prl">Computation of Geoid99 Geoid Height</a><br /><a href="http://mathworld.wolfram.com/SphericalTrigonometry.html">Spherical Trigonometry</a></td>
+</tr>
+<tr class="row">
+<td>GPS satellite orbits (<a href="6/MIT12_540S12_lec5.pdf">PDF</a>)</td>
+<td>GPS satellite orbits. The MATLAB program to compute eccentic and true anomalies is truea.m (<a href="6/truea.m">M</a>)<br />The GPS interface control document (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://geoweb.mit.edu/~tah/12.540/icd200cw1234.pdf">PDF</a>)<br />Unclassified (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>GPS observables (<a href="6/MIT12_540S12_lec6.pdf">PDF</a>)</td>
+<td>Start analysis of GPS observables in form of carrier phase</td>
+</tr>
+<tr class="row">
+<td>Specifics of GPS signal (<a href="6/MIT12_540S12_lec7.pdf">PDF</a>)</td>
+<td>GPS codes on signals</td>
+</tr>
+<tr class="alt-row">
+<td>Pseudorange measurements (<a href="6/MIT12_540S12_lec8.pdf">PDF</a>)</td>
+<td>Pseudorange and phase measurements. The data file displayed in class is etab.plt.dat (<a href="6/etab.plt.dat">DAT</a>)<br /><a href="http://www.unavco.org/facility/software/teqc/teqc.html">TEQC&mdash;The Toolkit for GPS/GLONASS/Galileo/SBAS Data</a><br />RINEX: The Receiver Independent Exchange Format Version 2 (<a href="6/rinex2.txt">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Range and phase data (<a href="6/MIT12_540S12_lec9.pdf">PDF - 1.3MB</a>)</td>
+<td>The data files displayed in class are ASCII tab delimited files: etab.02tab (<a href="6/etab.02tab">TXT</a>) etab.07tab (<a href="6/etab.07tab">TXT</a>) etab.11tab (<a href="6/etab.11tab">TXT</a>) etab.26tab (<a href="6/etab.26tab">TXT</a>) etab.28tab (<a href="6/etab.28tab">TXT</a>)<br />The following files are based on 2008 homework: data from base station with approximate XYZ coordinates<br />-2197259.2644 -4811601.7696 3552341.4441 (m)<br />Each file has a header line with column titles. All range and phase units are meters except as noted where range differences have been converted to L1 cycles<br />base.02 (<a href="6/base.02">TXT</a>) base.04 (<a href="6/base.04">TXT</a>) base.05 (<a href="6/base.05">TXT</a>) base.09 (<a href="6/base.09">TXT</a>) base.12 (<a href="6/base.12">TXT</a>) base.17 (<a href="6/base.17">TXT</a>) base.28 (<a href="6/base.28">TXT</a>) base.29 (<a href="6/base.29">TXT</a>)<br />The site coordinates are in the rinex header shown in Lec #8<br />Sources of GPS data (main archives)<br /><a href="http://sopac.ucsd.edu/">SOPAC</a><br /><a href="http://cddis.gsfc.nasa.gov/">CDDIS</a><br /><a href="http://www.ngs.noaa.gov/CORS/">NGS/CORS</a><br /><a href="http://www.unavco.org/data/data.html">UNAVCO</a></td>
+</tr>
+<tr class="alt-row">
+<td>Estimation: introduction (<a href="6/MIT12_540S12_lec10.pdf">PDF</a>)</td>
+<td>Start estimation looking a parametric estimation methods<br /><a href="http://www.itl.nist.gov/div898/handbook/pmd/section4/pmd4.htm">Data Analysis for Process Modeling</a><br /><a href="http://reliawiki.org/index.php/Least_Squares">Least Squares Parameter Estimation (Regression Analysis)</a>
+<p>histograms.m (<a href="6/histograms.m">M</a>) generates histogram plots</p>
+</td>
+</tr>
+<tr class="row">
+<td>Statistical approach to estimation (<a href="6/MIT12_540S12_lec11.pdf">PDF</a>)</td>
+<td>Continue estimation now examining it from a statistical point of view</td>
+</tr>
+<tr class="alt-row">
+<td>Estimation: correlations (<a href="6/MIT12_540S12_lec12.pdf">PDF</a>)</td>
+<td>Statistical description of process noise in parameter values. The MATLAB program fogm.m (<a href="6/fogm.m">M</a>) generates first-order Gauss Markov processes. (Note since the random number generator is not initialized, your results will differ from those in the class notes (Signal processing tool box is needed for the PSD calculation). FlickerNoise.m (<a href="6/FlickerNoise.m">M</a>) implements flckernoise model through PSD-&gt;Covarinace Matrix-&gt;eigenvectors and values</td>
+</tr>
+<tr class="row">
+<td>Estimation (<a href="6/MIT12_540S12_lec13.pdf">PDF</a>)</td>
+<td>Kalman filter approach to estimation</td>
+</tr>
+<tr class="alt-row">
+<td>Propagation medium: propagation&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_lec14.pdf">PDF - 2.3MB</a>)</span></td>
+<td>Timing in GPS. Examine clock estimation<br /><a href="https://www.nrl.navy.mil/ssdd/research-activities/8150/igs">IGS Clock Products Working Group</a><br /><a href="https://www.researchgate.net/publication/3918247_Developing_an_IGS_time_scale">IGS Time Scale</a></td>
+</tr>
+<tr class="row">
+<td>Propagation medium: neutral atmosphere (<a href="6/MIT12_540S12_lec15.pdf">PDF</a>)</td>
+<td>Tropospheric delay estimation<br /><a href="http://www-das.uwyo.edu/~geerts/cwx/notes/chap01/tropo.html">The Height of the Tropopause</a><br />Effects of the Troposheric Mapping Function on Space Geodetic Data (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://gauss.gge.unb.ca/papers.pdf/igs97tropo.pdf">PDF - 1.0MB</a>)<br /><a href="http://ggosatm.hg.tuwien.ac.at/DELAY/">Index of /DELAY</a></td>
+</tr>
+<tr class="alt-row">
+<td>Propagation: ionospheric delay (<a href="6/MIT12_540S12_lec16.pdf">PDF - 1MB</a>)</td>
+<td>Ionospheric delays<br /><a href="http://www.ngdc.noaa.gov/stp/SOLAR/ftpcalcium.html">National Geophysical Data Center</a><br />Data file (Year Month Day SunSpot number)<br /><a href="http://geoweb.mit.edu/~tah/12.540/RIDAILY_120407.txt">RIDAILY (1811-2012/04)</a></td>
+</tr>
+<tr class="row">
+<td>Basic antenna operation&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_lec17.pdf">PDF - 1.7MB</a>)</span></td>
+<td>Antennas and calibrations<br /><a href="http://www.ngs.noaa.gov/ANTCAL/">NGS/Antenna Calibrations</a><br /><a href="http://www.geopp.com/media/docs/AOA_DM_T/index.html">Absolute PCV of AOAD/M_T Choke Ring GPS Antenna</a></td>
+</tr>
+<tr class="alt-row">
+<td>Mathematical models in GPS (<a href="6/MIT12_540S12_lec18.pdf">PDF</a>)</td>
+<td>Class starts development of mathematical models needed for precise GPS positioning. In this class we look at solid-Earth tides, ocean-tidal loading and other types of loading effects. The following Fortran source code was discussed in the lecture earth_tide.f (<a href="6/earth_tide.f">F</a>) and gst_jd.f (<a href="6/gst_jd.f">F</a>)</td>
+</tr>
+<tr class="row">
+<td>GPS models and processing&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_lec19.pdf">PDF - 1.4MB</a>)</span></td>
+<td>Models: Rank deficiencies, ambiguity resolution and differencing methods</td>
+</tr>
+<tr class="alt-row">
+<td>Processing software (<a href="6/MIT12_540S12_lec20.pdf">PDF</a>)</td>
+<td>Processing software:<br /><a href="http://geoweb.mit.edu/~simon/gtgk/tutorial/Index.html">GAMIT/GLOBK Web Tutorial</a></td>
+</tr>
+<tr class="row">
+<td>GPS groups/IGS (<a href="6/MIT12_540S12_lec21.pdf">PDF</a>)</td>
+<td>
+<p>GPS data availability and site locations<br /><a href="http://www.unavco.org/data/data.html">UNAVCO</a><br /><a href="http://gpsworld.com/tag/international-gnss-service/">International GNSS Service</a><br />International GNSS Service&mdash;All world map (<a href="6/all_world.png">PNG</a>)</p>
+<p>Networks<br /><a href="http://www.scign.org/">SCIGN</a><br /><a href="http://www.unavco.org/data/data.html">UNAVCO</a><br /><a href="http://www.ngs.noaa.gov/CORS/">NGS/CORS</a><br /><a href="https://seismo.berkeley.edu/bard/">Bay Area Regional Deformation Network</a><br /><a href="http://www.panga.cwu.edu/">Pacific Northwest Geodetic Array</a></p>
+<p>Results<br /><a href="http://sopac.ucsd.edu/">Permanent GPS Site Arrays</a><br /><a href="http://sideshow.jpl.nasa.gov/mbh/series.html">GPS Time Series</a><br /><a href="http://reason.scign.org/">SCIGN Data Portal</a><br /><a href="http://geoapp03.ucsd.edu/gridsphere/gridsphere">GPS Explorer</a><br /><a href="http://www.unavco.org/data/data.html">UNAVCO</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Kinematic GPS (<a href="6/MIT12_540S12_lec22.pdf">PDF</a>)</td>
+<td>Kinematic GPS processing and results from experiment earlier in semester<br /><a href="http://geoweb.mit.edu/~simon/gtgk/help/track.hlp.htm">Help File for GAMIT Track Program</a><br />Results from MIT survey<br />track_LC.out (<a href="6/track_LC.out">TXT</a>)<br />track.NEU.rovr.LC (<a href="6/track.NEU.rovr.LC">TXT</a>)<br />track.NEU.rovr.L1+L2 (<a href="6/track.NEU.rovr.txt">TXT</a>)<br />
+<p><strong>Results from the 2010 MIT survey</strong></p>
+TR02.sum (<a href="6/TR02.sum">TXT</a>) TR02.out (<a href="6/TR02.out">TXT</a>) TR02.NEU.rovr.L1+L2 (<a href="6/TR02.NEU.rovr.txt">TXT</a>) TR02.NEU.rovr.LC (<a href="6/TR02.NEU.rovr.LC">TXT</a>)<br />TR0p.sum (<a href="6/TR0p.sum">TXT</a>) TR0p.NEU.rovr.P1+P2 (<a href="6/TR0p.NEU.rovr.txt">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Applications, High-rate GPS results, and Tools (<a href="6/MIT12_540S12_lec23.pdf">PDF - 6.4MB</a>)</td>
+<td>Applications to tectonic problems<br />Tools used to generate some of the figures<br /><a href="http://www-gpsg.mit.edu/~tah/GGMatlab">GAMIT/GLOBK MATLAB Tools</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING&nbsp;FILES&nbsp;AND&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Assignment 1&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_HW01.pdf">PDF</a>)</span></td>
+<td>
+<p>Solution 1&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_HW01_soln.pdf">PDF</a>)</span></p>
+<p>HW01_2012.m (<a href="6/HW01_2012.m">M</a>)</p>
+</td>
+<td>
+<p>The broadcast ephemeris file to use is mit0090s.10n (<a href="6/mit0090s.10n">TXT</a>) (containing the 10 satellites visible at MIT at 15:15 GPST) and the full set of satellites mit00900.10n (<a href="6/mit00900.10n">TXT</a>). The GPS interface control document icd200cw1234.pdf (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://geoweb.mit.edu/~tah/icd200c123.pdf">PDF</a>) will be useful for this homework. The sub-section of ICD2000 that discusses the broadcast ephemeris is icd200cw1234.Nav.pdf (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf">PDF - 1.3MB</a>)</p>
+<p>Rinex Definition<br />ftp://igscb.jpl.nasa.gov/pub/data/format/rinex2.txt (<a href="6/rinex2.txt">TXT</a>)</p>
+M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 2&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_HW02.pdf">PDF</a>)</span></td>
+<td>
+<p>Solution 2&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_HW02_soln.pdf">PDF</a>)</span></p>
+<p>HW02_2012.m (<a href="6/HW02_2012.m">M</a>)</p>
+</td>
+<td>Homework covers estimation methods using simple linear regression and GPS-like clock problem.</td>
+</tr>
+<tr class="row">
+<td>Assignment 3&nbsp;<span class="nobr">(<a href="6/MIT12_540S12_HW03.pdf">PDF</a>)</span></td>
+<td>&nbsp;</td>
+<td>
+<p>Data mitb076s.12o (<a href="6/mitb0760.12o">TXT</a>) mitb0760.12n (<a href="6/mitb0760.12n">TXT</a>)</p>
+<p>mitb0760.12o (<a href="6/mitb0760.12o">TXT</a>) rovr0760.12o (<a href="6/rovr0760.12o">TXT</a>) (optional files)</p>
+</td>
 </tr>
 </tbody>
 </table>
