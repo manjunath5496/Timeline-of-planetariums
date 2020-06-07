@@ -1,0 +1,5 @@
+10.00 10.00             ! Length of track (km) and error (mm)
+0.001  5.00 0.00 2.00   ! Track Slope, Sin and Cos amplitudes (m) and wavelenghth (km)
+80.0 0.670 0.90 0.007   ! Rider/Bike Mass (kg), Area (m**2), Drag and rolling Coefficient
+100.00 20.0             ! Rider Power (W) and max force (N) 
+100.0                   ! Output interval (s), zero for none 
