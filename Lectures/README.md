@@ -3402,7 +3402,7 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <tbody>
 <tr class="row">
 <td headers="tbl499id0_1">Introduction</td>
-<td headers="tbl499id0_3">(<a href="7/100298_notes.pdf">PDF</a>) (Courtesy of Richard O'Connell and William McDonough. Used with permission.)</td>
+<td headers="tbl499id0_3">(<a href="7/100298_notes.pdf">PDF</a>) </td>
 </tr>
 <tr class="alt-row">
 <td headers="tbl499id0_1">Melting and Differentiation</td>
@@ -3410,15 +3410,15 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tr>
 <tr class="row">
 <td headers="tbl499id0_1">Basics of Convection</td>
-<td headers="tbl499id0_3">(<a href="7/240298_notes.pdf">PDF</a>) (Courtesy of Richard O'Connell and Bradford Hager. Used with permission.)</td>
+<td headers="tbl499id0_3">(<a href="7/240298_notes.pdf">PDF</a>) </td>
 </tr>
 <tr class="alt-row">
 <td headers="tbl499id0_1">Isotope Systems and Geochemistry</td>
-<td headers="tbl499id0_3">(<a href="7/030398_notes.pdf">PDF</a>) (Courtesy of Stan Hart and scribed by Jamie Kellogg.&nbsp; Used with permission.)</td>
+<td headers="tbl499id0_3">(<a href="7/030398_notes.pdf">PDF</a>) </td>
 </tr>
 <tr class="row">
 <td headers="tbl499id0_1">More on Mantle Dynamics</td>
-<td headers="tbl499id0_3">(<a href="7/170398_notes.pdf">PDF</a>) (Courtesy of Shijie Zhong. Used with permission.)</td>
+<td headers="tbl499id0_3">(<a href="7/170398_notes.pdf">PDF</a>) </td>
 </tr>
 <tr class="alt-row">
 <td headers="tbl499id0_1">Seismology Part I: Subduction Zones</td>
