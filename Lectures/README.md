@@ -47,7 +47,7 @@
    <li><a href="#course46">Seminar in Geophysics: Mantle Convection</a></li> 
   <li><a href="#course47">Modeling Environmental Complexity</a></li> 
  <li><a href="#course48">Paleoceanography</a></li>  
-   <li><a href="#course43">Principles of the Global Positioning System</a></li> 
+   <li><a href="#course49">Marine Chemistry</a></li> 
  <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
    <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
 
@@ -3595,6 +3595,115 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tbody>
 </table>
 </br>
+<h2 id="course49">Marine Chemistry</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Introduction</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Overview of the determinants of seawater composition (<a href="8/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Tools for studying marine geochemistry</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to stable isotopes (<a href="8/lecture_2_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to marine radiochemistry (<a href="8/lec_3_slides.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Physical setting: Atm., ocean circulation, hydrol. cycle</strong></td>
+</tr>
+<tr class="row">
+<td>Atmospheric circulation and water cycle (<a href="8/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ocean circulation (<a href="8/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Major constituents of seawater and controls</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Major ions and salinity (<a href="8/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Marine carbonate chemistry (<a href="8/lec_7_crblc2006.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Inputs to and outputs from the ocean</strong></td>
+</tr>
+<tr class="row">
+<td>Rivers and groundwater</td>
+</tr>
+<tr class="alt-row">
+<td>Hydrothermal processes (<a href="8/lec_9_redngs_hyd.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Non-conservative processes in estuaries/ groundwater/hydrothermal</td>
+</tr>
+<tr class="alt-row">
+<td>Gas exchange across the air-sea interface (<a href="8/lec_11_gas_exch.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Atmospheric-ocean interaction (<a href="8/lec_12_ocn_at_ed.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Biogeochemical cycling in the water column</strong></td>
+</tr>
+<tr class="row">
+<td>Primary production (1) (<a href="8/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Primary production (2) (<a href="8/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>New, export, and net community production (<a href="8/lecture15_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sinking particles and remineralization (1)</td>
+</tr>
+<tr class="row">
+<td>Sinking particles and remineralization (2) (<a href="8/lecture17_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantifying biogeochemical fluxes and rates</td>
+</tr>
+<tr class="row">
+<td><strong>Biogeochemical cycling in sediments</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Early diagenesis I (<a href="8/lec_19_nov_16_se.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Early diagenesis II and sediment distributions (<a href="8/lec_20_sdmnts_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Special topics</strong></td>
+</tr>
+<tr class="row">
+<td>Long-term cycles of carbon, oxygen and sulfur (<a href="8/lec_21_cos.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>P cycle (<a href="8/lec_22_nov_30_cy.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>N cycle (<a href="8/lec_23_nitrgn.pdf">PDF - 2.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Anthropogenic CO<sub>2</sub>&nbsp;(1)</td>
+</tr>
+<tr class="row">
+<td>Anthropogenic CO<sub>2</sub>&nbsp;(2) and review</td>
+</tr>
+</tbody>
+</table>
+</br>
 
