@@ -33,7 +33,7 @@
    <li><a href="#course32">Global Warming Science</a></li> 
 <li><a href="#course33">Hands-On Astronomy: Observing Stars and Planets</a></li>  
    <li><a href="#course34">Extrasolar Planets: Physics and Detection Techniques</a></li> 
-   <li><a href="#course27">Modern Navigation</a></li> 
+   <li><a href="#course35">Oral Communication in the Earth, Atmospheric, and Planetary Sciences</a></li> 
   <li><a href="#course28">Climate Physics and Chemistry</a></li> 
  <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
    <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
@@ -2479,3 +2479,70 @@
 <p>Lecture 18 (<a href="5/lecture18.pdf">PDF</a>)</p>
 
 </br>
+<h2 id="course35">Oral Communication in the Earth, Atmospheric, and Planetary Sciences</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Find good presentations and make presentation slides</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Rehearsal of elevator talk</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Presentation of elevator talk</td>
+<td>(<a href="5/MIT12_445F10_lec4.pdf">PDF</a>)
+<p>A template to make slides (zipped file is needed by the TEX file):&nbsp;<span class="nobr">(<a href="5/slides.tex">TEX</a>), (<a href="5/MIT12_445F10_slides.pdf">PDF - 1.5MB</a></span>), (<a href="5/12.445_figures.zip">ZIP - 1.8MB</a>) (This ZIP file contains 3 JPG, 1 AVI, 1 PNG and 1 PDF files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Rehearsal of short talk</td>
+<td>(<a href="5/MIT12_445F10_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Presentation of short talk</td>
+<td>(<a href="5/MIT12_445F10_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rehearsal of mid-length talk</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Presentation of mid-length talk</td>
+<td>(<a href="5/MIT12_445F10_lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The great debate, part 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The great debate, part 2</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>AGU talks round 1</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
