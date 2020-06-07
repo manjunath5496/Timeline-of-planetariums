@@ -45,7 +45,7 @@
  <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
    <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
    <li><a href="#course46">Seminar in Geophysics: Mantle Convection</a></li> 
-  <li><a href="#course41">Geodynamics</a></li> 
+  <li><a href="#course47">Modeling Environmental Complexity</a></li> 
  <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
    <li><a href="#course43">Principles of the Global Positioning System</a></li> 
  <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
@@ -3448,5 +3448,42 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </table>
 
 </br>
+<h2 id="course47">Modeling Environmental Complexity</h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="7/MIT12_086F14_intro.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT12_086F14_twolevels.pdf">From Microdynamics to Macrodynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="7/MIT12_086F14_rivers.pdf">River Networks (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT12_086F14_soc.pdf">Self-organized Criticality (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="7/MIT12_086F14_anomalous.pdf">Anomalous Diffusion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT12_086F14_percolation.pdf">Percolation Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="7/MIT12_086F14_networks.pdf">Random and Scale-free Networks (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT12_086F14_biocycle.pdf">Origin of Biogeochemical Cycles (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="7/MIT12_086F14_kinetics.pdf">Disordered Kinetics (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
