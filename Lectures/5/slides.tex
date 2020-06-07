@@ -1,0 +1,148 @@
+\documentclass[14pt,c,xcolor=dvipsnames]{beamer}
+\usepackage{beamerthemeCopenhagen}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{geometry}
+\usepackage{movie15}
+\usepackage{hyperref}
+%\usepackage{movie15}
+
+% Macros
+%\input /Users/amalcolm/mytex/macros.tex
+%\input /home/amalcolm/mytex/mathinputs.tex
+%\input /Users/amalcolm/mytex/mathshort.tex
+%\renewcommand{\vec}[1]{{\bf #1}}
+
+% Beamer Commands
+%\documentclass[14pt,c,xcolor=dvipsnames,handout]{beamer}
+%\usepackage{pgfpages}
+%\pgfpagesuselayout{4 on 1}[letterpaper, border shrink=5mm,landscape]
+
+% Macros
+%\input macros.tex
+%\renewcommand{\vec}[1]{{\bf #1}}
+
+% Beamer Commands
+\usefonttheme{structurebold}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}{}
+\setbeamertemplate{footnote}{}
+\setbeamercolor{footnote mark}{fg=white}
+\setbeamertemplate{frametitle}[default][center]
+\setbeamerfont{normal font}{series=\bfseries}
+\setbeamertemplate{itemize item}[circle]
+\setbeamertemplate{itemize subitem}[triangle]
+\setbeamercolor{itemize subitem}{fg=Mahogany}
+\setbeamerfont{itemize subitem}{size=\large}
+\setbeamerfont{itemize item}{size=\large}
+\setbeamerfont{itemize item}{series=\bfseries}
+\setbeamercolor{alerted text}{fg=Mahogany}
+\setbeamercolor{colormath}{fg=MidnightBlue}
+\setbeamerfont{institute}{size=\normalsize}
+\setbeamerfont{list label}{series=\bfseries}
+\setbeamerfont{enumerate item}{series=\bfseries}
+\setbeamerfont{framesubtitle}{size=\normalsize}
+\setbeamerfont{enumerate subitem}{series=\bfseries}
+\renewcommand{\seriesdefault}{bx}
+
+
+\newcommand{\WKBJfigpath}{/Users/amalcolm/Work/WKBJseries/Figures}
+\newcommand{\mstrut}[1]{\mbox{\rule{0mm}{#1}}}
+
+%\newcommand{\figpath}{/Users/amalcolm/Work/Work/Mines/multiples/Figures/slidefigs}
+%\newcommand{\labfigpath}{/Users/amalcolm/Work/Work/Mines/fish/GFslidefigs}
+%\newcommand{\moviefigpath}{/Users/amalcolm/Work/Work/Mines/fish/Movies}
+%\newcommand{\otherfigpath}{/Users/amalcolm/Work/Work/Mines/multiples/Figures/Syntheticfigs}
+%\newcommand{\UVAfigpath}{/Users/amalcolm/Work/Work/ULTRASOUND/Figures/slides}
+
+\newcommand{\saltfigpath}{/Users/amalcolm/Work/WKBJseries/Figures/NewWaveEllipseInc}
+\newcommand{\noincsaltfigpath}{/Users/amalcolm/Work/WKBJseries/Figures/NewWaveEllipseNoInc}
+\newcommand{\faultfigpath}{/Users/amalcolm/Work/WKBJseries/Figures/SmallWaveFault}
+\newcommand{\slantfigpath}{/Users/amalcolm/Work/WKBJseries/Figures/Slantmod/POS}
+
+\title{Mathematical and Numerical Modeling of Ultrasound Vibro-Acoustography}
+\author{\hspace*{-10mm} {\Large Alison Malcolm -- MIT}  \\ 
+ \hspace*{-6cm}
+$\mstrut{1cm}$ Collaborators:\\  
+\and Fernando Reitich\inst{1} \and \hspace*{-6mm} Jiaqi Yang\inst{1} \\
+\and Mostafa Fatemi\inst{2} \and James Greenleaf\inst{2}}
+\institute{\inst{1}University of Minnesota  \vspace*{-5mm} 
+\and \inst{2}Mayo Clinic College of Medicine }
+
+\begin{document}
+\boldmath
+
+\begin{frame}
+\maketitle
+\end{frame}
+
+\begin{frame}
+\frametitle{Oil Exploration}
+\includegraphics<1>[width=10cm]{reservoir_cartoon.jpg}
+\only<1>{\newline \small from \url{http://www.pgesafetyeducation.com/school/sseng/gas/index.html}}
+\only<2>{\hspace*{-1cm}}
+\includegraphics<2>[width=11cm]{Syncline.jpg}
+\only<2>{\newline \small Image courtesy of USGS.}
+\end{frame}
+
+\begin{frame}
+\frametitle{Summary so far}
+\large
+We use waves for:
+\pause
+\begin{itemize}
+\item CO$_2$ monitoring
+\pause
+\item Geothermal energy
+\item Determining deep Earth structure
+\item Finding (and producing) oil
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\hspace*{-1cm}
+\includemovie[repeat,autoplay,
+  poster,
+  text={\small Cube}
+]{12cm}{6.7cm}{cubemovie.avi}
+\end{frame}
+
+\begin{frame}
+\frametitle{Typical wave imaging}
+\framesubtitle{Radon Transform}
+\begin{columns}
+\begin{column}[l]{.5\textwidth}
+\includegraphics<1>[width=\textwidth]{64_slice_scanner.jpg}
+\includegraphics<2>[width=\textwidth]{MySheppLogan.png}
+\only<1>{
+{\footnotesize \url{http://en.wikipedia.org/wiki/File:64_slice_scanner.JPG}}
+\mbox{$f$ - absorption of material}
+$Rf$ - data
+}
+\only<2>{
+\small Shepp-Logan Phantom
+}
+\end{column}
+\hspace*{-1mm}
+\vline
+\hspace*{1mm}
+\begin{column}[r]{.5\textwidth}
+\only<1>{
+\centerline{\input RadonCartoon.pdf_t}
+\begin{equation*}
+Rf(\theta,s) = \int_{\Theta^\perp} f(x+s\theta) dx
+\end{equation*}
+}
+\only<2>{
+\mbox{Projection-Slice Theorem}
+\begin{equation*}
+\widehat{Rf}(\sigma) = (2\pi)^{(n-1)/2}\hat{f}(\sigma \theta)
+\end{equation*}
+back-project data along lines
+}
+\end{column}
+\end{columns}
+\centerline{\alert{\large Image difference in absorbance}$\mstrut{1cm}$}
+\end{frame}
+ 
+\end{document}
