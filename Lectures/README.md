@@ -15,7 +15,7 @@
  <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
 <li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
  <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
-  
+   <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   
 
 </ul>
@@ -1250,4 +1250,36 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course17">Strange Bedfellows: Science and Environmental Policy</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl69id0_1" scope="col">ASSIGNMENTS</th>
+<th id="tbl69id0_2" scope="col">SAMPLE STUDENT WORK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl69id0_1">Assignment 1 (<a href="3/assignment_1.pdf">PDF</a>)</td>
+<td headers="tbl69id0_2">Indiscriminately From the Skies (<a href="3/12_103_paper1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl69id0_1">Assignment 2 (<a href="3/assignment_2.pdf">PDF</a>)</td>
+<td headers="tbl69id0_2">DDT as an Endocrine Disruptor in Human and Nonhuman Test Cases (<a href="3/12_103_paper2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assignment 3 (<a href="3/assignment_3.pdf">PDF</a>)</td>
+<td>Lives on the Line: DDT, Malaria, and Infant Mortality (<a href="3/12_103_paper3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl69id0_1">Final Presentation</td>
+<td headers="tbl69id0_2">DDT Presentation (<a href="3/ddt_presentation.pdf">PDF</a>)&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>&nbsp;Grading Rubric for Presentations (<a href="3/present_rubric.pdf">PDF</a>)</p>
+
 </br>
