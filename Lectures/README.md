@@ -12,7 +12,8 @@
 <li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
 <li><a href="#course12">Radon Research in Multidisciplines: A Review</a></li>
 <li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li>
-  
+ <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
+<li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li> 
   
   
   
@@ -1022,5 +1023,40 @@
 <li>
 <p>U.S. Environmental Health Effects and Treatment of Mercury Exposure (<a href="2/navarro.pdf">PDF 1</a>) (<a href="2/navarro_ppt.pdf">PDF 2</a>)&nbsp;</p>
 </li>
+</ul>
+</br>
+<h2 id="course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction (<a href="3/session1a.pdf">PDF</a>)<br /><br />Neutron Activation Analysis Fundamental Concepts (<a href="3/session1b.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gamma Detection - Instrumentation Principles (<a href="3/session2a.pdf">PDF</a>)<br /><br />Neutron Activation Analysis&nbsp;- Applications: Trace Element Analysis of Geological, Biological and Environmental Materials (<a href="3/session2b.pdf">PDF</a>)<br /><br />Presentation and Report assignment (one per student): Epithermal,&nbsp;Delayed Neutron, Prompt Gamma Neutron Activation Analysis</td>
+</tr>
+<tr class="row">
+<td headers="col2">Experimental Procedures (<a href="3/session3a.pdf">PDF</a>)<br /><br />Hands-on Experience with Sample Preparation</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Hands-on Experience with Gamma Spectrometer in MIT-EAPS INAA Laboratory<br /><br />Trace Element Analysis by Neutron Activation Analysis - A Case Study of Environmental Samples Using the Instruments (<a href="3/session4a.pdf">PDF</a>)<br /><br />12.091 Review Assignment hand out</td>
+</tr>
+<tr class="row">
+<td headers="col2">Trace Element Analysis -&nbsp; Student's Presentations<br /><br />Trace Element Geochemistry -<br />Examples of Applications:<br />Mineralogy and Petrology,<br />Geological Studies done using MIT-EAPS INAA Laboratory<br /><br />Summary&nbsp;and Conclusions (<a href="3/session5a.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<ul>
+<li>Delayed Neutron Activation Analysis (<a href="3/delayednaa.pdf">PDF</a>)&nbsp;</li>
+<li>Epithermal Neutron Activation Analysis (<a href="3/enaa.pdf">PDF</a>)&nbsp;</li>
+<li>Prompt Neutron Activation Analysis&nbsp;(<a href="3/promptna.pdf">PDF</a>)&nbsp;</li>
 </ul>
 </br>
