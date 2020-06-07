@@ -7,7 +7,7 @@
 <li><a href="#course6">Computational Methods of Scientific Programming</a></li>
 <li><a href="#course7">Seminar in Environmental Science</a></li>
 <li><a href="#course8">Modeling Environmental Complexity</a></li>
-<li><a href="#course9">Synthesis of Polymers</a></li>
+<li><a href="#course9">The Environment of the Earth's Surface</a></li>
 <li><a href="#course10">Atmospheric Physics and Chemistry</a></li>
 <li><a href="#course11">Computational Quantum Mechanics of Molecular and Extended Systems</a></li>
 
@@ -830,3 +830,54 @@
 </tbody>
 </table>
 </br>
+<h2 id="course9">The Environment of the Earth's Surface</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="earthsurface_1.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction; Geology (<a href="earthsurface_2.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Geology; Topography (<a href="earthsurface_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Groundwater (<a href="earthsurface_4.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Rivers (<a href="earthsurface_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lakes (<a href="earthsurface_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Glaciers (<a href="earthsurface_7.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Coasts (<a href="earthsurface_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Deserts (<a href="earthsurface_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mass wasting (<a href="earthsurface_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Landscapes (<a href="earthsurface_11.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The hydrologic cycle, the sediment cycle, and the carbon cycles (<a href="earthsurface_12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
