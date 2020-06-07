@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Introduction to Geology</a></li>
-<li><a href="#course2">Chemical and Biological Reaction Engineering</a></li>
+<li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
 <li><a href="#course3">Electrochemical Energy Systems</a></li>
 <li><a href="#course4">Separation Processes for Biochemical Products</a></li>
 <li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
@@ -132,3 +132,101 @@
 </tbody>
 </table>
 </br>
+<h2 id="course2">Physics and Chemistry of the Terrestrial Planets</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and overview</td>
+</tr>
+<tr class="alt-row">
+<td>Solar system formation (<a href="MIT12_002f08_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Origin of elements (<a href="MIT12_002f08_lec3_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Geochronology (<a href="MIT12_002f08_lec5_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Age of the solar system (<a href="MIT12_002f08_lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mass and moment of inertia (<a href="MIT12_002f08_Lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rheology and seismology (<a href="MIT12_002f08_Lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Elastic stress strain relations (<a href="MIT12_002f08_Lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Seismic waves and wave equation (<a href="MIT12_002f08_Lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Structure of the planets from seismology (<a href="MIT12_002f08_Lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Heat and conduction (<a href="MIT12_002f08_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Heat convection (<a href="MIT12_002f08_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The error function (<a href="MIT12_002f08_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Oceanic subsidence and heat flow (<a href="MIT12_002f08_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Convective heat flow (<a href="MIT12_002f08_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cooling planets (<a href="MIT12_002f08_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Geomagnetism I (<a href="MIT12_002f08_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Geomagnetism II (<a href="MIT12_002f08_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polar wander and continental drift (<a href="MIT12_002f08_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Plate tectonics</td>
+</tr>
+<tr class="row">
+<td>Isostasy (<a href="MIT12_002f08_lec26.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gravity anomalies (<a href="MIT12_002f08_lec27_28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Topography and gravity data</td>
+</tr>
+<tr class="alt-row">
+<td>Planetary histories (<a href="MIT12_002f08_lec30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Planets (<a href="MIT12_002f08_lec31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mercury (<a href="MIT12_002f08_lec32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Moon (<a href="MIT12_002f08_lec33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Venus (<a href="MIT12_002f08_lec34.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
