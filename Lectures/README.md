@@ -18,7 +18,7 @@
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   <li><a href="#course18">Structure of Earth Materials</a></li> 
  <li><a href="#course19">Petrology</a></li>  
-   <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
+   <li><a href="#course20">Sedimentary Geology</a></li> 
   
 
 </ul>
@@ -1540,4 +1540,26 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course20">Sedimentary Geology</h2>
+
+<p>Lecture 1: The Nature, Description, and Classification of Sediments (<a href="1/ch1.pdf">PDF - 1.1 MB</a>)</p>
+<p>Lecture 2: Physics of Sedimentation (<a href="1/ch2_1.pdf">PDF 1 - 6.8 MB</a>) (<a href="1/ch2_2.pdf">PDF 2 - 8.3 MB</a>)</p>
+<p>Lecture 3: Sedimentary Structures (<a href="1/ch3.pdf">PDF - 4.1 MB</a>)</p>
+<p>Lectures 4-5: Siliciclastic Rocks (<a href="1/ch4.pdf">PDF - 1.7 MB</a>)</p>
+<p>Lectures 6-7: Carbonate Sediments and Rocks (<a href="1/ch5.pdf">PDF - 3.3 MB</a>)</p>
+<p>Lecture 8: Cherts and Evaporites (<a href="1/ch6.pdf">PDF</a>)</p>
+<p>Lecture 9: Diagenesis (<a href="1/ch7.pdf">PDF - 1.1 MB</a>)</p>
+<p>Lecture 10: Paleontology (<a href="1/ch9a.pdf">PDF 1 - 4.0 MB</a>) (<a href="1/ch9b.pdf">PDF 2</a>) (<a href="1/ch9c.pdf">PDF 3</a>)</p>
+<p>Lectures 11-12: Depositional Environments (<a href="1/ch10.pdf">PDF - 1.4 MB</a>)</p>
+<p>Lectures 13-14: Stratigraphy (<a href="1/ch8.pdf">PDF - 3.3 MB</a>)</p>
+<p>Lecture 15: Sedimentary Basins (<a href="1/ch11.pdf">PDF - 1.4 MB</a>)</p>
+<p>Lecture 16: Fossil Fuels (<a href="1/ch12.pdf">PDF</a>)</p>
+</br>
+
+<ul>
+<li>Roxana Safipour's report (<a href="1/safipour.pdf">PDF</a>)&nbsp;</li>
+<li>Sarah Slotznick's report (<a href="1/slotznick_1.pdf">PDF - 4.6 MB</a>)&nbsp;</li>
+</ul>
+
 </br>
