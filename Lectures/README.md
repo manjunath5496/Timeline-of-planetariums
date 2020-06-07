@@ -38,7 +38,7 @@
  <li><a href="#course37">Trace-Element Geochemistry</a></li>  
    <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
  <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
-   <li><a href="#course32">Global Warming Science</a></li> 
+   <li><a href="#course40">Introduction to Seismology</a></li> 
 
 
 
@@ -2762,4 +2762,109 @@
 <li><a href="5/MIT12_491S12_EquilibDynami.pdf">Equilibrium and dynamic evaporation experiments (PDF)</a></li>
 </ul>
 </br>
+<h2 id="course40">Introduction to Seismology</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introductory lecture</td>
+<td>(<a href="6/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stress and strain</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Relationship between stress and strain</p>
+<p>Equation of motion</p>
+<p>Wave equation</p>
+</td>
+<td>(<a href="6/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wave equation (cont.)</td>
+<td>(<a href="6/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>d'Alembert's solution</p>
+<p>Separation of variables</p>
+<p>Fourier transform</p>
+<p>Slowness</p>
+</td>
+<td>(<a href="6/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Travel time curves</td>
+<td>(<a href="6/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Travel time tomography</td>
+<td>(<a href="6/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Travel time tomography (cont.)</td>
+<td>(<a href="6/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Snell's law</td>
+<td>(<a href="6/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Critical and post-critical reflection</td>
+<td>(<a href="6/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Surface waves-ground roll</td>
+<td>(<a href="6/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Travel time tomography</td>
+<td>(<a href="6/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Travel time tomography (cont.)</p>
+<p>Model uniqueness</p>
+<p>Fresnel zones</p>
+</td>
+<td>(<a href="6/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Travel time tomography (cont.)</td>
+<td>(<a href="6/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Normal modes</td>
+<td>(<a href="6/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Anisotropy</td>
+<td>(<a href="6/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Earthquake</td>
+<td>(<a href="6/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Focal mechanics</td>
+<td>(<a href="6/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Focal mechanics (cont.)</td>
+<td>(<a href="6/lec19.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
 
