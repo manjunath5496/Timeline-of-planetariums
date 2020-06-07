@@ -43,7 +43,7 @@
  <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
    <li><a href="#course43">Principles of the Global Positioning System</a></li> 
  <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
-   <li><a href="#course40">Introduction to Seismology</a></li> 
+   <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
 
 
 </ul>
@@ -3329,3 +3329,66 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tbody>
 </table>
 </br>
+<h2 id="course45">Structure and Dynamics of the CMB Region</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction<br />Part I (<a href="7/lec1_1.pdf">PDF</a>)<br />Part II (<a href="7/lec1_2.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Overview Papers by Chin-Wu Chen (<a href="7/lec2_1.pdf">PDF</a>)<br /><br />The Core-Mantle Boundary Layer and Deep Earth Dynamics</td>
+</tr>
+<tr class="row">
+<td>The D'' Discontinuity and its Implications<br /><br />D'' Region and Chemical Interaction by Einat Lev (<a href="7/lec3_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ultralow Velocity Zone at the Core-Mantle Boundary<br /><br />ULVZ and CMB Reaction by Karin Louzada (<a href="7/lec4_2.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>ULVZ and Thermal Gradient Across CMB<br />by Erwan Mazarico (<a href="7/lec5_1.pdf">PDF</a>)<br /><br />Fuzzy Patches on the Earth's Core-Mantle Boundary? by Guangping Xu (<a href="7/lec5_2.pdf">PDF</a>)<br /><br />Seismic Detection of Rigid Zones at the Top of the Core by Chin-Wu Chen (<a href="7/lec5_3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Lower-mantle Solidus by Karin Louzada (<a href="7/lec6_1.pdf">PDF</a>)<br /><br />Solidus of Earth's Deep Mantle</td>
+</tr>
+<tr class="row">
+<td>D'' Anisotropy and Mineral Texture by Maureen Long (<a href="7/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>D'' Anisotropy and Mineral Texture (cont.) by Maureen Long (<a href="7/lec8_1.pdf">PDF</a>)<br /><br />Deformation of (Mg<sub>0.9</sub>Fe<sub>0.1</sub>)SiO<sub>3</sub><br />Perovskite Aggregates up to 32 GPa</td>
+</tr>
+<tr class="row">
+<td>Geodynamic Constraints by Guangping Xu (<a href="7/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>D'' Anisotropy and Mineral Texture and Plumes</td>
+</tr>
+<tr class="row">
+<td>Geochemical Constraints</td>
+</tr>
+<tr class="alt-row">
+<td>Core-mantle Coupling and Geomagnetic Field</td>
+</tr>
+<tr class="row">
+<td>Student Presentations</td>
+</tr>
+<tr class="alt-row">
+<td>Student Presentations</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
