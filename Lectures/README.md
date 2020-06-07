@@ -2643,3 +2643,5 @@
 </tbody>
 </table>
 </br>
+<p>Birle, J. D., G. V. Gibbs, et al. "<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s120" /><a href="5/AM53_807.pdf" data-smd-id="s121">Crustal Structure of Natural Olivines. (PDF - 1.1MB)</a>"&nbsp;<em>Amer Mineral</em>&nbsp;53 (1968): 807&ndash;24.</p>
+</br>
