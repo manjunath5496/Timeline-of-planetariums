@@ -50,7 +50,9 @@
    <li><a href="#course49">Marine Chemistry</a></li> 
  <li><a href="#course50">Fluid Dynamics of the Atmosphere and Ocean</a></li>  
    <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
-
+   <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
+ <li><a href="#course50">Fluid Dynamics of the Atmosphere and Ocean</a></li>  
+   <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Geology</h2>
@@ -3898,4 +3900,97 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course52">Quasi-Balanced Circulations in Oceans and Atmospheres</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+<th style="height: 13px;" scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Introduction</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Fundamental balance and conservations principles for quasi-balanced flow</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Equations of motion</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Circulation</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Potential vorticity</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Invertibility</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Potential vorticity and invertibility in the shallow water equations</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Quasigeostrophy and Pseudo-potential vorticity</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Quasi-geostrophic potential vorticity</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">An example of the application of "potential vorticity"</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Boundary conditions</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Eady edge waves</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">The superposition principle</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">The secondary circulation</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Higher-order balance systems</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Rossby waves</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Quasi-geostrophic Rossby waves</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Barotropic instability</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Barotropic instability (cont.)</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">The Charney-Stern theorem</td>
+<td style="height: 13px;">(<a href="8/MIT12_803F09_lec20.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
 </br>
