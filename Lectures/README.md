@@ -21,7 +21,7 @@
    <li><a href="#course20">Sedimentary Geology</a></li> 
   <li><a href="#course21">Structural Geology</a></li> 
  <li><a href="#course22">Analytical Techniques for Studying Environmental and Geologic Samples</a></li>  
-   <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
+   <li><a href="#course23">Electron Microprobe Analysis</a></li> 
   <li><a href="#course18">Structure of Earth Materials</a></li> 
  <li><a href="#course19">Petrology</a></li>  
    <li><a href="#course20">Sedimentary Geology</a></li> 
@@ -1730,4 +1730,34 @@
 </tbody>
 </table>
 </br>
+<h2 id="course23">Electron Microprobe Analysis</h2>
 
+<p>The lecture notes for this course are available in a single file (<a href="1/MIT12_141IAP12_coursenotes.pdf">PDF - 3.1MB</a>). The lecture slides files in the table are the slides shown in class.</p>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction; electron-specimen interactions; electron detectors; scanning electron imaging (backscattered and secondary electron, BSE and SE); cathodoluminescence (CL) imaging; qualitative analysis using BSE imaging and energy dispersive spectrometry (EDS).</td>
+<td>(<a href="1/MIT12_141IAP12_slides_day1.pdf">PDF - 2.9MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>X-ray generation, emission, detection and measurement; wavelength dispersive spectrometer (WDS); analyzing crystals and proportional counters; WDS signal processing with single channel analyzer; compositional imaging (X-ray mapping) using WDS</td>
+<td>(<a href="1/MIT12_141IAP12_slides_day2.pdf">PDF - 3.6MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Quantitative analysis using WDS; sample preparation; carbon coating; peak and background in WD spectra; detector settings through pulse height analysis; peak overlap corrections.</td>
+<td>(<a href="1/MIT12_141IAP12_slides_day3.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Matrix (ZAF) corrections in quantitative analysis; &phi;(&rho;z) corrections</td>
+<td>(<a href="1/MIT12_141IAP12_slides_day4.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
