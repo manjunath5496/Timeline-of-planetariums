@@ -32,7 +32,7 @@
  <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
    <li><a href="#course32">Global Warming Science</a></li> 
 <li><a href="#course33">Hands-On Astronomy: Observing Stars and Planets</a></li>  
-   <li><a href="#course26">Essentials of Geophysics</a></li> 
+   <li><a href="#course34">Extrasolar Planets: Physics and Detection Techniques</a></li> 
    <li><a href="#course27">Modern Navigation</a></li> 
   <li><a href="#course28">Climate Physics and Chemistry</a></li> 
  <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
@@ -2462,8 +2462,20 @@
 </table>
 </br>
 
+<h2 id="course34">Extrasolar Planets: Physics and Detection Techniques</h2>
 
+<p>Lecture 5 (<a href="5/lecture5.pdf">PDF</a>)</p>
+<p>Lecture 6 (<a href="5/lecture6.pdf">PDF</a>)</p>
+<p>Lecture 7 (<a href="5/lecture7.pdf">PDF</a>)</p>
+<p>Lecture 8 (<a href="5/lecture8.pdf">PDF</a>)</p>
+<p>Lecture 9 (<a href="5/lecture9.pdf">PDF</a>)</p>
+<p>Lecture 10 (<a href="5/lecture10.pdf">PDF</a>)</p>
+<p>Lecture 11 (<a href="5/lecture11.pdf">PDF</a>)</p>
+<p>Lecture 12 (<a href="5/lecture12.pdf">PDF</a>)</p>
+<p>Lecture 14 (<a href="5/lecture14.pdf">PDF</a>)</p>
+<p>Lecture 15 (<a href="5/lecture15.pdf">PDF</a>)</p>
+<p>Lecture 16 (<a href="5/lecture16.pdf">PDF</a>)</p>
+<p>Lecture 17 (<a href="5/lecture17.pdf">PDF</a>)</p>
+<p>Lecture 18 (<a href="5/lecture18.pdf">PDF</a>)</p>
 
-
-
-
+</br>
