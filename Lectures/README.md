@@ -35,7 +35,7 @@
    <li><a href="#course34">Extrasolar Planets: Physics and Detection Techniques</a></li> 
    <li><a href="#course35">Oral Communication in the Earth, Atmospheric, and Planetary Sciences</a></li> 
   <li><a href="#course36">Crosby Lectures in Geology: History of Africa</a></li> 
- <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
+ <li><a href="#course37">Trace-Element Geochemistry</a></li>  
    <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
  <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
    <li><a href="#course32">Global Warming Science</a></li> 
@@ -2586,7 +2586,60 @@
 </tbody>
 </table>
 </br>
+<h2 id="course37">Trace-Element Geochemistry</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="5/MIT12_479S13_lec1.pdf">Beginnings of geochemistry (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_479S13_lec2.pdf">Thermodynamic consideration of TE solid solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_479S13_lec3.pdf">Partition coefficient (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_479S13_lec4.pdf">Ionic model for bonding and the role of ionic radii in understanding the partitioning of trace elements between phases (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_479S13_lec5.pdf">Nomenclature for trace element classification (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_479S13_lec6.pdf">Determination of partition coefficients (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="5/MIT12_479S13_lec7.pdf">Determination of partition coefficients: discussion of experimental approach (PDF)</a></p>
+<p><a href="5/MIT12_479S13_lec7appendi.pdf">Appendix (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_479S13_lec8.pdf">More examples of experimental approaches for determination of TE partition coefficients (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_479S13_lec9.pdf">Trace element abundance variations in simple melt-solid systems (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_479S13_lec10.pdf">Fractional crystallization (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_479S13_lec11.pdf">Fractional melting (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_479S13_lec12.pdf">Complex melting models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT12_479S13_lec13.pdf">Constraints on melt models arising from disequilibrium in the Th-U decay system (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT12_479S13_lec14.pdf">Ion exchange chromatography (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
