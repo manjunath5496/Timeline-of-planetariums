@@ -46,7 +46,7 @@
    <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
    <li><a href="#course46">Seminar in Geophysics: Mantle Convection</a></li> 
   <li><a href="#course47">Modeling Environmental Complexity</a></li> 
- <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
+ <li><a href="#course48">Paleoceanography</a></li>  
    <li><a href="#course43">Principles of the Global Positioning System</a></li> 
  <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
    <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
@@ -3487,3 +3487,114 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tbody>
 </table>
 </br>
+<h2 id="course48">Paleoceanography</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">SLIDE&nbsp;SHOWS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Major paleoceanographic and paleoclimatic events of the past 2 million years</td>
+<td>(<a href="7/lec01.pdf">PDF</a>)</td>
+<td>(<a href="7/lec01_slide.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Oxygen isotope paleoclimatology</td>
+<td>(<a href="7/lec02.pdf">PDF</a>)</td>
+<td>(<a href="7/lec02_slide.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Oxygen isotope paleothermometry</td>
+<td>(<a href="7/lec03.pdf">PDF</a>)</td>
+<td>(<a href="7/lec03_slide.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Paleo-ecological temperature estimates</p>
+<p>Fundamentals of factor analysis: satellite image</p>
+</td>
+<td>
+<p>(<a href="7/lec04a.pdf">PDF 1</a>)</p>
+<p>(<a href="7/lec04b.pdf">PDF 2</a>)</p>
+</td>
+<td>(<a href="7/lec04_slide.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sea-level and climate change: coral reefs on stable and emerging islands</td>
+<td>(<a href="7/lec05.pdf">PDF</a>)</td>
+<td>(<a href="7/lec05_slide.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Glacial/interglacial 'oscillations': why? time-series analysis</td>
+<td>(<a href="7/lec06.pdf">PDF</a>)</td>
+<td>(<a href="7/lec06_slide.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Ice core evidence for climate change</td>
+<td>(<a href="7/lec07.pdf">PDF</a>)</td>
+<td>(<a href="7/lec07_slide.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ice core evidence for climate change (cont.)</td>
+<td>(<a href="7/lec08.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="7/lec08a_slide.pdf">PDF 1 - 1.1 MB</a>)</p>
+<p>(<a href="7/lec08b_slide.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Deep-ocean paleoceanography and ocean chemistry: links to atmospheric carbon dioxide and&nbsp;<sup>14</sup>C/<sup>12</sup>C</p>
+<p>The&nbsp;<sup>14</sup>C story</p>
+</td>
+<td>
+<p>(<a href="7/lec09.pdf">PDF 1</a>)</p>
+<p>(<a href="7/lec09a.pdf">PDF 2</a>)</p>
+</td>
+<td>
+<p>(<a href="7/lec09_1_slide.pdf">PDF 1</a>)</p>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/lec09_2_slide.pdf">PDF 2 - 1.5 MB</a>)</p>
+<p>(<a href="7/lec09a_slide.pdf">PDF 3 - 2.0 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Atmospheric CO<sub>2</sub>, ocean chemistry, and mechanisms of climate change</td>
+<td>(<a href="7/lec10.pdf">PDF</a>)</td>
+<td>(<a href="7/lec10_slide.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Continental evidence for glacial climate change</td>
+<td>(<a href="7/lec11.pdf">PDF</a>)</td>
+<td>(<a href="7/lec11_slide.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lifestyles of the small and calcareous</td>
+<td>(<a href="7/lec12.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Coral evidence for temperature, salinity, and nutrient changes</td>
+<td>(<a href="7/lec13.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to cenozoic palenoceanography</td>
+<td>(<a href="7/lec14.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Newer tracers</td>
+<td>(<a href="7/lec15.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
