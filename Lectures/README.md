@@ -22,7 +22,7 @@
   <li><a href="#course21">Structural Geology</a></li> 
  <li><a href="#course22">Analytical Techniques for Studying Environmental and Geologic Samples</a></li>  
    <li><a href="#course23">Electron Microprobe Analysis</a></li> 
-  <li><a href="#course18">Structure of Earth Materials</a></li> 
+  <li><a href="#course24">Molecular Biogeochemistry</a></li> 
  <li><a href="#course19">Petrology</a></li>  
    <li><a href="#course20">Sedimentary Geology</a></li> 
 
@@ -1761,3 +1761,70 @@
 </tbody>
 </table>
 </br>
+<h2 id="course24">Molecular Biogeochemistry</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Mass spectrometry for organic geochemists</td>
+<td>(<a href="1/MIT12_158F11_lec1.pdf">PDF - 1.4MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Biomarker concept &amp; acetogenic lipids</td>
+<td>(<a href="1/MIT12_158F11_lec2.pdf">PDF - 3.0MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Acyclic isoprenoids</td>
+<td>(<a href="1/MIT12_158F11_lec3.pdf">PDF - 2.3MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Hopanoids part 1</td>
+<td>(<a href="1/MIT12_158F11_lec4.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Hopanoids part 2</td>
+<td>(<a href="1/MIT12_158F11_lec5.pdf">PDF - 1.4MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Steroids part 1</td>
+<td>(<a href="1/MIT12_158F11_lec6.pdf">PDF - 3.3MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Steroids part 2</td>
+<td>(<a href="1/MIT12_158F11_lec7.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pigments</td>
+<td>(<a href="1/MIT12_158F11_lec8.pdf">PDF - 1.5MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Application of intact polar lipids as biomarkers</td>
+<td>(<a href="1/MIT12_158F11_lec9.pdf">PDF - 1.5MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Molecular biosignatures</td>
+<td>(<a href="1/MIT12_158F11_lec10.pdf">PDF - 2.6MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Petroleum formation and occurrence</td>
+<td>(<a href="1/MIT12_158F11_lec11.pdf">PDF - 2.2MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Oxygen deficiency in the past</td>
+<td>(<a href="1/MIT12_158F11_lec12.pdf">PDF - 1.9MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
