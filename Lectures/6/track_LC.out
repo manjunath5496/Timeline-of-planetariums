@@ -1,0 +1,873 @@
+
+ TRACK Version 1.12 GPS Kinematic trajectory program
+ Running with batch file: track.cmd
+*    31 satellites, at   96 epochs found in igs13134.sp3
+*     1 entries had no clock values
+Blk Numbers:  PRN01  3 PRN02  4 PRN03  3 PRN04  3 PRN05  3 PRN06  3 PRN07  3 PRN08  3
+Blk Numbers:  PRN09  3 PRN10  3 PRN11  4 PRN12  1 PRN13  4 PRN14  4 PRN15  2 PRN16  4
+Blk Numbers:  PRN17  2 PRN18  4 PRN19  4 PRN20  4 PRN21  4 PRN22  4 PRN23  4 PRN24  3
+Blk Numbers:  PRN25  3 PRN26  3 PRN27  3 PRN28  4 PRN29  3 PRN30  3 PRN31  3
+**WARNING** Interval from RX files is zero, using   1.00 s user interval
+Starting epoch count for MJD   53439.79166667 Start seconds       68399.99999979
+For file  1 last epoch found   2601
+Found  8 PRNS -> 02 04 10 13 30 29 06 26
+Maxiumum epoch errors: Seen    0.0007 sec, and Used   0.0007 sec
+For file  2 last epoch found   2594
+Found  8 PRNS -> 02 04 10 13 30 29 06 26
+Maxiumum epoch errors: Seen    0.0010 sec, and Used   0.0010 sec
+RX Comment at   5  3 10 19 15   53.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 16    4.000 STATIC MODE                             
+RX Comment at   5  3 10 19 16   10.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 18    6.000 STATIC MODE                             
+RX Comment at   5  3 10 19 20   47.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 21    0.000 STATIC MODE                             
+RX Comment at   5  3 10 19 21   59.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 22   53.000 STATIC MODE                             
+RX Comment at   5  3 10 19 23   52.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 23   54.000 STATIC MODE                             
+RX Comment at   5  3 10 19 24   53.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 25   46.000 STATIC MODE                             
+RX Comment at   5  3 10 19 26   46.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 27   16.000 STATIC MODE                             
+RX Comment at   5  3 10 19 28   16.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 30   43.000 STATIC MODE                             
+RX Comment at   5  3 10 19 31   43.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 32   26.000 STATIC MODE                             
+RX Comment at   5  3 10 19 33   26.000 KINEMATIC MODE                          
+RX Comment at   5  3 10 19 37   19.000 STATIC MODE                             
+RX Comment at   5  3 10 19 38   19.000 KINEMATIC MODE                          
+For file  3 last epoch found   2330
+Found  8 PRNS -> 02 04 10 13 30 29 06 26
+Maxiumum epoch errors: Seen    0.0004 sec, and Used   0.0004 sec
+
+TRACK SETUP PARAMETERS
+----------------------
+Batch File             : track.cmd
+SP3 File               : igs13134.sp3
+SUMMARY File           : track_LC.sum
+Rinex files            : mit0  Type STATIC      mit00690.05o
+Rinex files            : mit1  Type KINEMATIC   57000690.05o
+Rinex files            : rovr  Type KINEMATIC   rovr0690.05o
+SEARCH TYPE            : NONE
+FLOAT TYPE             : LC Start Iter  1 Sample   1 Limits  4.00 4.00 WL/LG SCALES  1.00 0.10 MAX Fit   25.0
+DATA ANALYSIS TYPES    : LC
+Data Noise L1,L2,P1,P2 GENERIC:   0.0100  0.0100    1.00    1.00 m
+Postion output sigma limit    :      1.000 m.
+Elevation angle cutoff        :     10.000 deg.
+SITE STOCHASTIC PROPERTIES
+SITE Type         Apriori XYZ (m)        XYZ Process noise (m/ep)   Atm Stats (m)
+mit0    F                                                           0.000  0.0000
+mit1    K    4.472    4.472    4.472     4.472    4.472    4.472    0.000  0.0000
+rovr    K    4.472    4.472    4.472     4.472    4.472    4.472    0.000  0.0000
+
+Ambiquity Search, Samples :  20 Relative Rank   10.0 Maximum Search  1000000
+IONOSPHERE CHARACTERIZATION:
+ION JUMP      1.00 cycles; ION PPM   1.00 ppm; ION Weight   0.01
+ION Height   350.0 km, ION Correlation length    300.0 km, ION correlated variance      6.80 cycles**2
+New Bias introuced for gaps larger than   1 epochs. Minimum Good data    20 epochs
+Data editing if RMS greater than  3.00 data sigmas
+MW-WL Jump limit    5.00 cycles
+SP3 File igs13134.sp3 contains  31 satellites at    96 epochs
+EXCLUDED PRNS: 05
+
+There are   2594 epochs to last ending time MJD   53439.82167824
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+POSITION ANALYSIS BASED ON P1 range
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.87  1.62  1.27 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.70    21.08    25.51 m. 
+Initial coordinates of rovr are XYZ     1530277.611   -4465380.358    4275215.769 m at Epoch        1
+Checking OW Widelaes
+Marking OW EX-WL slip at epoch   1086 Site 3 PRN 04 Size            3.37 Cycles
+Marking OW MW-WL slip at epoch   1086 Site 3 PRN 04 Size            7.33 Cycles
+Marking OW EX-WL slip at epoch   1533 Site 3 PRN 04 Size          -14.21 Cycles
+Marking OW MW-WL slip at epoch   1533 Site 3 PRN 04 Size          -14.96 Cycles
+Marking OW EX-WL slip at epoch   1957 Site 3 PRN 04 Size           -6.61 Cycles
+Marking OW MW-WL slip at epoch   1957 Site 3 PRN 04 Size           -5.35 Cycles
+Marking OW EX-WL slip at epoch   2237 Site 3 PRN 04 Size           14.33 Cycles
+Marking OW MW-WL slip at epoch   2237 Site 3 PRN 04 Size           19.61 Cycles
+Marking OW EX-WL slip at epoch   1071 Site 3 PRN 30 Size            5.71 Cycles
+Marking OW EX-WL slip at epoch   1574 Site 3 PRN 30 Size           51.92 Cycles
+Marking OW MW-WL slip at epoch   1574 Site 3 PRN 30 Size           42.12 Cycles
+Marking OW EX-WL slip at epoch   1454 Site 3 PRN 29 Size            9.84 Cycles
+Marking OW EX-WL slip at epoch   1071 Site 3 PRN 06 Size          -22.03 Cycles
+Marking OW MW-WL slip at epoch   1071 Site 3 PRN 06 Size          -19.22 Cycles
+Marking OW EX-WL slip at epoch   1937 Site 3 PRN 06 Size           18.76 Cycles
+Marking OW MW-WL slip at epoch   1937 Site 3 PRN 06 Size           16.04 Cycles
+Marking SD EX-WL slip at epoch   1448 Site 3 PRN 30 Size           -1.06 Cycles
+Marking SD EX-WL slip at epoch   1460 Site 3 PRN 30 Size            1.16 Cycles
+Marking SD EX-WL slip at epoch   1466 Site 3 PRN 30 Size           -1.07 Cycles
+Marking SD EX-WL slip at epoch   1754 Site 3 PRN 30 Size           -1.17 Cycles
+Marking SD EX-WL slip at epoch   1814 Site 3 PRN 30 Size            1.19 Cycles
+Marking SD EX-WL slip at epoch   1916 Site 3 PRN 30 Size           -1.12 Cycles
+Marking SD EX-WL slip at epoch   1920 Site 3 PRN 30 Size            1.17 Cycles
+Marking SD EX-WL slip at epoch   2162 Site 3 PRN 30 Size            1.14 Cycles
+Marking SD EX-WL slip at epoch   2180 Site 3 PRN 30 Size           -1.09 Cycles
+Marking SD EX-WL slip at epoch   1508 Site 3 PRN 29 Size            1.16 Cycles
+Marking SD EX-WL slip at epoch   1041 Site 3 PRN 06 Size           -1.09 Cycles
+Marking SD EX-WL slip at epoch   1544 Site 3 PRN 06 Size            1.13 Cycles
+Marking SD EX-WL slip at epoch   1772 Site 3 PRN 06 Size           -1.16 Cycles
+Marking SD EX-WL slip at epoch   1820 Site 3 PRN 06 Size            1.15 Cycles
+Marking SD EX-WL slip at epoch   1832 Site 3 PRN 06 Size           -1.14 Cycles
+Marking SD EX-WL slip at epoch   1838 Site 3 PRN 06 Size            1.21 Cycles
+BIAS FLAG REPORT: Type  INITIAL
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    INITIAL
+   1  1  PRN 02     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   2  1  PRN 04     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   3  1  PRN 10     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   4  1  PRN 13     656    1597    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   5  1  PRN 30     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   6  1  PRN 29     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   7  1  PRN 06     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   8  1  PRN 26    2280    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+   9  2  PRN 02     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+  10  2  PRN 04     656    2594    1       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  INITIAL
+  11  2  PRN 10     656    2594    1        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  INITIAL
+  12  2  PRN 13     656    1552    1       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  INITIAL
+  13  2  PRN 30     656    2594    1       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  INITIAL
+  14  2  PRN 29     656    2594    1       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  INITIAL
+  15  2  PRN 06     656    2594    1        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  INITIAL
+  16  2  PRN 26    2280    2594    1       183379.0        79081.0     9     8     1 WL Res +-    -0.389     0.408     0.125     0.029  INITIAL
+  17  3  PRN 02     676    2330    1            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  INITIAL
+  18  3  PRN 04     676    1054    1    -10816922.0     -8452210.0    17     2     1 WL Res +-     0.150     0.376     0.032     0.025  INITIAL
+  19  3  PRN 04    1086    1315    1    -10816933.0     -8452216.0    17     2     1 WL Res +-     0.358     0.660    -0.020     0.024  INITIAL
+  20  3  PRN 04    1533    1929    1    -10816924.0     -8452221.0    28     5     2 WL Res +-    -0.336     0.496    -0.130     0.145  INITIAL
+  21  3  PRN 04    1957    2163    1    -10816922.0     -8452224.0    23    11    10 WL Res +-     0.044     1.100    -0.032     0.071  INITIAL
+  22  3  PRN 04    2237    2330    1    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  INITIAL
+  23  3  PRN 10     676    2330    1     -1327300.0     -1022458.0    17     3     1 WL Res +-     0.478     0.210     0.137     0.011  INITIAL
+  24  3  PRN 13    1084    1281    1    -16944336.0    -13223310.0    17     4     1 WL Res +-    -0.266     1.042    -0.121     0.047  INITIAL
+  25  3  PRN 30     676     984    1    -16664803.0    -12995322.0    23     5     3 WL Res +-     0.294     1.034    -0.064     0.035  INITIAL
+  26  3  PRN 30    1071    1447    1    -16664807.0    -12995321.0    19     5     2 WL Res +-    -0.348     0.657    -0.056     0.043  INITIAL
+  27  3  PRN 30    1574    1753    1    -16664859.0    -12995322.0    17     5     1 WL Res +-    -0.474     0.559    -0.126     0.045  INITIAL
+  28  3  PRN 30    1754    1813    1    -16664863.0    -12995326.0    36     7     5 WL Res +-    -0.373     0.303    -0.014     0.078  INITIAL
+  29  3  PRN 30    1814    1915    1    -16664858.0    -12995321.0    37     7     5 WL Res +-     0.156     0.263    -0.088     0.071  INITIAL
+  30  3  PRN 30    1936    2161    1    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  INITIAL
+  31  3  PRN 29     676    1057    1    -23519190.0    -18281186.0    18     6     2 WL Res +-     0.432     0.667     0.137     0.063  INITIAL
+  32  3  PRN 29    1454    1507    1    -23519168.0    -18281160.0    35    15    14 WL Res +-    -0.372     0.657    -0.093     0.056  INITIAL
+  33  3  PRN 29    1508    2330    1    -23519171.0    -18281161.0    23     6     3 WL Res +-    -0.264     0.389     0.141     0.024  INITIAL
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  INITIAL
+  35  3  PRN 06    1071    1543    1    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  INITIAL
+  36  3  PRN 06    1544    1771    1    -20022728.0    -15581077.0    17    15     9 WL Res +-     0.369     0.396    -0.061     0.079  INITIAL
+  37  3  PRN 06    1772    1819    1    -20022721.0    -15581072.0    23    15    11 WL Res +-    -0.430     0.389    -0.002     0.037  INITIAL
+  38  3  PRN 06    1937    2330    1    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  INITIAL
+BIAS FLAG REPORT: Type  UNIFIED
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    UNIFIED
+   1  1  PRN 02     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   2  1  PRN 04     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   3  1  PRN 10     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   4  1  PRN 13     656    1597    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   5  1  PRN 30     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   6  1  PRN 29     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   7  1  PRN 06     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   8  1  PRN 26    2280    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+   9  2  PRN 02     656    2594    1            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+  10  2  PRN 04     656    2594    1       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  UNIFIED
+  11  2  PRN 10     656    2594    1        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  UNIFIED
+  12  2  PRN 13     656    1552    1       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  UNIFIED
+  13  2  PRN 30     656    2594    1       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  UNIFIED
+  14  2  PRN 29     656    2594    1       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  UNIFIED
+  15  2  PRN 06     656    2594    1        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  UNIFIED
+  16  2  PRN 26    2280    2594    1       183379.0        79081.0     9     8     1 WL Res +-    -0.389     0.408     0.125     0.029  UNIFIED
+  17  3  PRN 02     676    2330    1            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  UNIFIED
+  18  3  PRN 04     676    1054    1    -10816922.0     -8452210.0    17     2     1 WL Res +-     0.150     0.376     0.032     0.025  UNIFIED
+  19  3  PRN 04    1086    1315    1    -10816924.0     -8452221.0    17     2     1 WL Res +-   -13.642     0.660   -15.436     0.024  UNIFIED
+  20  3  PRN 04    1533    1929    1    -10816924.0     -8452221.0    28     5     2 WL Res +-    -0.336     0.496    -1.547     0.145  UNIFIED
+  21  3  PRN 04    1957    2163    1    -10816924.0     -8452221.0    23    11    10 WL Res +-     5.044     1.100     5.818     0.071  UNIFIED
+  22  3  PRN 04    2237    2330    1    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  UNIFIED
+  23  3  PRN 10     676    2330    1     -1327300.0     -1022458.0    17     3     1 WL Res +-     0.478     0.210     0.137     0.011  UNIFIED
+  24  3  PRN 13    1084    1281    1    -16944336.0    -13223310.0    17     4     1 WL Res +-    -0.266     1.042    -0.121     0.047  UNIFIED
+  25  3  PRN 30     676     984    1    -16664807.0    -12995321.0    23     5     3 WL Res +-     5.294     1.034     5.219     0.035  UNIFIED
+  26  3  PRN 30    1071    1447    1    -16664807.0    -12995321.0    19     5     2 WL Res +-    13.652     0.657    15.361     0.043  UNIFIED
+  27  3  PRN 30    1574    1753    1    -16664858.0    -12995321.0    17     5     1 WL Res +-    -0.474     0.559     0.158     0.045  UNIFIED
+  28  3  PRN 30    1754    1813    1    -16664858.0    -12995321.0    36     7     5 WL Res +-     0.627     0.303     2.120     0.078  UNIFIED
+  29  3  PRN 30    1814    1915    1    -16664858.0    -12995321.0    37     7     5 WL Res +-    -0.844     0.263     0.046     0.071  UNIFIED
+  30  3  PRN 30    1936    2161    1    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  UNIFIED
+  31  3  PRN 29     676    1057    1    -23519190.0    -18281186.0    18     6     2 WL Res +-     0.432     0.667     0.137     0.063  UNIFIED
+  32  3  PRN 29    1454    1507    1    -23519171.0    -18281161.0    35    15    14 WL Res +-     1.628     0.657     1.624     0.056  UNIFIED
+  33  3  PRN 29    1508    2330    1    -23519171.0    -18281161.0    23     6     3 WL Res +-    -0.264     0.389     0.141     0.024  UNIFIED
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  UNIFIED
+  35  3  PRN 06    1071    1543    1    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  UNIFIED
+  36  3  PRN 06    1544    1771    1    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.631     0.396    -0.778     0.079  UNIFIED
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     0.570     0.389    -0.136     0.037  UNIFIED
+  38  3  PRN 06    1937    2330    1    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  UNIFIED
+
+Starting FLOAT iteration at   1
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -1.392      0.674
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.980      0.421
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)     -0.689      0.416
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)      0.299      0.329
+BF_FLOAT   24   1282  3 PRN 13    1084   1281   1  Estimated Adjust. (m)     -0.292      0.392
+BF_FLOAT   19   1316  3 PRN 04    1086   1315   1  Estimated Adjust. (m)      5.269      0.325
+BF_FLOAT   26   1448  3 PRN 30    1071   1447   1  Estimated Adjust. (m)      1.811      0.604
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.104      0.997
+BF_FLOAT   35   1544  3 PRN 06    1071   1543   1  Estimated Adjust. (m)      0.622      0.430
+BF_FLOAT   12   1553  2 PRN 13     656   1552   1  Estimated Adjust. (m)     -0.265      0.182
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)      1.111      0.477
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)      0.580      0.320
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)      0.582      0.416
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)      0.041      0.280
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.719      0.384
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)     -0.575      0.222
+BF_FLOAT   30   2162  3 PRN 30    1936   2161   1  Estimated Adjust. (m)     -0.455      0.418
+BF_FLOAT   21   2164  3 PRN 04    1957   2163   1  Estimated Adjust. (m)     -2.244      0.154
+BF_FLOAT   22   2331  3 PRN 04    2237   2330   1  Estimated Adjust. (m)     -0.194      0.156
+BF_FLOAT   23   2331  3 PRN 10     676   2330   1  Estimated Adjust. (m)     -0.829      0.146
+BF_FLOAT   33   2331  3 PRN 29    1508   2330   1  Estimated Adjust. (m)      0.101      0.228
+BF_FLOAT   38   2331  3 PRN 06    1937   2330   1  Estimated Adjust. (m)     -0.648      0.363
+BF_FLOAT   10   2594  2 PRN 04     656   2594   1  Estimated Adjust. (m)     -0.004      0.047
+BF_FLOAT   11   2594  2 PRN 10     656   2594   1  Estimated Adjust. (m)      0.024      0.053
+BF_FLOAT   13   2594  2 PRN 30     656   2594   1  Estimated Adjust. (m)      0.059      0.124
+BF_FLOAT   14   2594  2 PRN 29     656   2594   1  Estimated Adjust. (m)      0.070      0.051
+BF_FLOAT   15   2594  2 PRN 06     656   2594   1  Estimated Adjust. (m)      0.016      0.088
+BF_FLOAT   16   2594  2 PRN 26    2280   2594   1  Estimated Adjust. (m)      0.995      0.063
+For  12271 Double differences: Average RMS      48.05 mm
+* BF  S   PRN    Epoch Range   F     Estimate dLC    Sig Limit Relative Rank  Fix Fcode Change L1    L2  Residual  L1      L2   Fits Best   LC    WL    LG
+  10  2  PRN 04   656  2594    3    -0.02 +-    0.44 SL   4.00 RR     438.58  T T ----- dL1,2     0    0 dL12     -0.03     0.19 Fits    0.8   0.0   0.7   0.1
+  11  2  PRN 10   656  2594    3     0.13 +-    0.49 SL   4.00 RR    4273.18  T T ----- dL1,2     0    0 dL12      0.23     0.18 Fits    1.0   0.1   0.9   0.1
+  12  2  PRN 13   656  1552    1    -1.39 +-    1.70 SL   4.00 RR       2.03  F F --R-- dL1,2     0    0 dL12     -2.48     0.20 Fits    2.1   1.9   0.2   0.0
+  13  2  PRN 30   656  2594    3     0.31 +-    1.16 SL   4.00 RR     154.81  T T ----- dL1,2     0    0 dL12      0.55     0.24 Fits    0.6   0.2   0.4   0.7
+  14  2  PRN 29   656  2594    3     0.37 +-    0.48 SL   4.00 RR      77.60  T T ----- dL1,2     0    0 dL12      0.66     0.27 Fits    2.2   1.3   0.5   3.3
+  15  2  PRN 06   656  2594    3     0.09 +-    0.82 SL   4.00 RR     670.01  T T ----- dL1,2     0    0 dL12      0.15     0.17 Fits    0.4   0.0   0.3   0.0
+  16  2  PRN 26  2280  2594    1     5.23 +-    0.59 SL   4.00 RR       4.10  F F --R-- dL1,2     5    4 dL12      0.77     0.61 Fits    3.6   1.3   2.2   0.5
+  18  3  PRN 04   676  1054    1    -3.62 +-    3.89 SL   4.00 RR       4.66  F F --R-- dL1,2     0    0 dL12     -6.44     0.15 Fits    2.9   2.6   0.2   1.6
+  19  3  PRN 04  1086  1315    1    27.69 +-    3.04 SL   4.00 RR       7.96  F F --R-- dL1,2    -2  -17 dL12     -1.68     1.36 Fits    4.5   0.3   4.2   0.0
+  20  3  PRN 04  1533  1929    1    -3.02 +-    2.07 SL   4.00 RR       1.73  F F --R-O dL1,2    -6   -6 dL12      0.63    -0.34 Fits    0.8   0.1   0.5   2.3
+  21  3  PRN 04  1957  2163    1   -11.79 +-    1.44 SL   4.00 RR       1.07  F F --R-O dL1,2    -1    5 dL12      1.19    -0.96 Fits    1.4   0.6   0.8   0.3
+  22  3  PRN 04  2237  2330    3    -1.02 +-    1.46 SL   4.00 RR      45.56  T T ----- dL1,2     0    0 dL12     -1.81    -0.13 Fits    1.8   1.4   0.0   4.5
+  23  3  PRN 10   676  2330    3    -4.36 +-    1.37 SL   4.00 RR      37.23  T T ----- dL1,2    -4   -3 dL12     -0.22    -0.52 Fits    6.6   0.0   6.2   3.5
+  24  3  PRN 13  1084  1281    1    -1.53 +-    3.67 SL   4.00 RR       2.95  F F --R-- dL1,2    -1   -1 dL12     -1.73    -0.27 Fits    0.7   0.2   0.1   4.6
+  25  3  PRN 30   676   984    1    -7.31 +-    6.30 SL   4.00 RR       2.19  F F S-R-- dL1,2     2    7 dL12      2.63     1.29 Fits    2.2   0.2   1.6   4.3
+  26  3  PRN 30  1071  1447    1     9.52 +-    5.64 SL   4.00 RR       1.35  F F S-RCO dL1,2     6    3 dL12      0.34     1.65 Fits  425.1   0.0   6.34187.2
+  27  3  PRN 30  1574  1753    1     5.84 +-    4.46 SL   4.00 RR       3.64  F F S-R-- dL1,2     5    4 dL12      1.86     0.53 Fits    1.2   0.2   0.9   1.4
+  28  3  PRN 30  1754  1813    1     3.06 +-    3.89 SL   4.00 RR       1.21  F F --R-O dL1,2     5    6 dL12      3.97    -0.37 Fits    2.5   1.0   1.5   0.0
+  29  3  PRN 30  1814  1915    1     3.78 +-    3.59 SL   4.00 RR       1.94  F F --R-O dL1,2     5    4 dL12     -1.81     0.16 Fits    0.7   0.2   0.4   0.7
+  30  3  PRN 30  1936  2161    1    -2.39 +-    3.91 SL   4.00 RR       4.05  F F --R-- dL1,2     0    0 dL12     -4.25     0.00 Fits    1.3   1.1   0.0   2.2
+  31  3  PRN 29   676  1057    1     1.57 +-    3.08 SL   4.00 RR       3.28  F F --R-O dL1,2     1    1 dL12      1.80     0.43 Fits    0.9   0.3   0.4   1.8
+  32  3  PRN 29  1454  1507    1     0.55 +-    9.32 SL   4.00 RR       2.61  F F S-R-O dL1,2     3    4 dL12      1.51     0.63 Fits    1.0   0.0   0.9   0.5
+  33  3  PRN 29  1508  2330    1     0.53 +-    2.13 SL   4.00 RR       3.09  F F --R-- dL1,2     1    1 dL12     -0.05     0.74 Fits    4.4   0.0   3.6   8.6
+  34  3  PRN 06   676  1040    1     5.15 +-    3.94 SL   4.00 RR       1.02  F F --R-- dL1,2     5    4 dL12      0.63     0.75 Fits    2.8   0.0   1.6  11.9
+  35  3  PRN 06  1071  1543    1     3.27 +-    4.02 SL   4.00 RR       2.54  F F S-R-- dL1,2     0    0 dL12      5.82    -0.31 Fits    2.6   2.0   0.6   0.0
+  36  3  PRN 06  1544  1771    1     3.05 +-    2.99 SL   4.00 RR       3.00  F F --R-- dL1,2     1    0 dL12      0.89     0.37 Fits    1.0   0.1   0.9   0.0
+  37  3  PRN 06  1772  1819    1     0.22 +-    2.62 SL   4.00 RR       1.49  F F --R-- dL1,2    -4   -3 dL12      7.92     0.57 Fits   11.4   8.5   2.1   7.7
+  38  3  PRN 06  1937  2330    1    -3.40 +-    3.40 SL   4.00 RR       7.56  F F --R-- dL1,2     0    0 dL12     -6.05    -0.29 Fits    3.3   3.0   0.3   0.2
+BIAS FLAG REPORT: Type  FLOAT01 
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FLOAT01 
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FLOAT01 
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FLOAT01 
+  12  2  PRN 13     656    1552    1       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FLOAT01 
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FLOAT01 
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FLOAT01 
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FLOAT01 
+  16  2  PRN 26    2280    2594    1       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FLOAT01 
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT01 
+  18  3  PRN 04     676    1054    1    -10816922.0     -8452210.0    17     2     1 WL Res +-     0.150     0.376     0.032     0.025  FLOAT01 
+  19  3  PRN 04    1086    1315    1    -10816922.0     -8452204.0    17     2     1 WL Res +-     1.358     0.660     4.380     0.024  FLOAT01 
+  20  3  PRN 04    1533    1929    1    -10816918.0     -8452215.0    28     5     2 WL Res +-     0.664     0.496     2.853     0.145  FLOAT01 
+  21  3  PRN 04    1957    2163    1    -10816923.0     -8452226.0    23    11    10 WL Res +-     0.044     1.100    -1.449     0.071  FLOAT01 
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FLOAT01 
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FLOAT01 
+  24  3  PRN 13    1084    1281    1    -16944335.0    -13223309.0    17     4     1 WL Res +-    -0.266     1.042     0.163     0.047  FLOAT01 
+  25  3  PRN 30     676     984    1    -16664809.0    -12995328.0    23     5     3 WL Res +-     1.294     1.034    -1.614     0.035  FLOAT01 
+  26  3  PRN 30    1071    1447    1    -16664813.0    -12995324.0    19     5     2 WL Res +-     1.652     0.657    -2.306     0.043  FLOAT01 
+  27  3  PRN 30    1574    1753    1    -16664863.0    -12995325.0    17     5     1 WL Res +-     0.526     0.559     0.024     0.045  FLOAT01 
+  28  3  PRN 30    1754    1813    1    -16664863.0    -12995327.0    36     7     5 WL Res +-    -1.373     0.303    -1.580     0.078  FLOAT01 
+  29  3  PRN 30    1814    1915    1    -16664863.0    -12995325.0    37     7     5 WL Res +-     1.156     0.263     0.062     0.071  FLOAT01 
+  30  3  PRN 30    1936    2161    1    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FLOAT01 
+  31  3  PRN 29     676    1057    1    -23519191.0    -18281187.0    18     6     2 WL Res +-     0.432     0.667    -0.147     0.063  FLOAT01 
+  32  3  PRN 29    1454    1507    1    -23519174.0    -18281165.0    35    15    14 WL Res +-     0.628     0.657    -0.510     0.056  FLOAT01 
+  33  3  PRN 29    1508    2330    1    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FLOAT01 
+  34  3  PRN 06     676    1040    1    -20022753.0    -15581079.0    17    15     9 WL Res +-     0.746     0.585    -0.142     0.033  FLOAT01 
+  35  3  PRN 06    1071    1543    1    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FLOAT01 
+  36  3  PRN 06    1544    1771    1    -20022727.0    -15581076.0    17    15     9 WL Res +-     0.369     0.396     0.222     0.079  FLOAT01 
+  37  3  PRN 06    1772    1819    1    -20022722.0    -15581073.0    23    15    11 WL Res +-     0.570     0.389    -0.136     0.037  FLOAT01 
+  38  3  PRN 06    1937    2330    1    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FLOAT01 
+POSITION ANALYSIS BASED ON FLOAT01 
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.00  0.00  0.00 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.75    20.24    24.89 m. 
+Initial coordinates of rovr are XYZ     1530294.602   -4465339.844    4275227.289 m at Epoch      865
+
+Starting FLOAT iteration at   2
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.846      0.196
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)     -0.487      0.212
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.303      0.083
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)     -0.372      0.153
+BF_FLOAT   24   1282  3 PRN 13    1084   1281   1  Estimated Adjust. (m)      0.918      0.291
+BF_FLOAT   19   1316  3 PRN 04    1086   1315   1  Estimated Adjust. (m)      0.720      0.194
+BF_FLOAT   26   1448  3 PRN 30    1071   1447   1  Estimated Adjust. (m)     -0.922      0.304
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)     -0.003      0.997
+BF_FLOAT   35   1544  3 PRN 06    1071   1543   1  Estimated Adjust. (m)      0.215      0.283
+BF_FLOAT   12   1553  2 PRN 13     656   1552   1  Estimated Adjust. (m)      0.004      0.002
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)     -0.276      0.205
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)      0.017      0.208
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)      0.146      0.200
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)      0.857      0.178
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)     -0.178      0.196
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)      0.207      0.127
+BF_FLOAT   30   2162  3 PRN 30    1936   2161   1  Estimated Adjust. (m)     -0.363      0.212
+BF_FLOAT   21   2164  3 PRN 04    1957   2163   1  Estimated Adjust. (m)      0.127      0.085
+BF_FLOAT   33   2331  3 PRN 29    1508   2330   1  Estimated Adjust. (m)      0.197      0.173
+BF_FLOAT   38   2331  3 PRN 06    1937   2330   1  Estimated Adjust. (m)     -0.213      0.196
+BF_FLOAT   16   2594  2 PRN 26    2280   2594   1  Estimated Adjust. (m)      0.005      0.003
+For  12271 Double differences: Average RMS      47.46 mm
+* BF  S   PRN    Epoch Range   F     Estimate dLC    Sig Limit Relative Rank  Fix Fcode Change L1    L2  Residual  L1      L2   Fits Best   LC    WL    LG
+  12  2  PRN 13   656  1552    3     0.02 +-    0.02 SL   4.00 RR   68116.71  T T ----- dL1,2     0    0 dL12      0.04     0.20 Fits    0.3   0.1   0.2   0.0
+  16  2  PRN 26  2280  2594    3     0.03 +-    0.03 SL   4.00 RR     770.69  T T ----- dL1,2     0    0 dL12      0.05     0.61 Fits    2.4   0.1   2.2   0.1
+  18  3  PRN 04   676  1054    1     1.59 +-    0.78 SL   4.00 RR       1.16  F F --R-- dL1,2     1    1 dL12      1.83     0.15 Fits   10.2   4.4   0.2  55.5
+  19  3  PRN 04  1086  1315    1     3.78 +-    1.82 SL   4.00 RR       4.33  F F --R-- dL1,2    11   13 dL12      2.79    -0.64 Fits    3.5   2.1   0.9   3.9
+  20  3  PRN 04  1533  1929    1     1.09 +-    1.18 SL   4.00 RR       1.43  F F --R-O dL1,2     6    7 dL12     -0.54    -0.34 Fits    2.0   0.2   0.5  13.3
+  21  3  PRN 04  1957  2163    1     0.67 +-    0.80 SL   4.00 RR       5.06  F F --R-- dL1,2    -2   -3 dL12     -0.34     1.04 Fits    1.0   0.1   0.9   0.0
+  24  3  PRN 13  1084  1281    1     4.82 +-    2.72 SL   4.00 RR       7.68  F F --R-- dL1,2     5    4 dL12      0.06     0.73 Fits    0.7   0.0   0.5   1.6
+  25  3  PRN 30   676   984    1    -4.44 +-    1.84 SL   4.00 RR       2.60  F F --R-- dL1,2    -7   -7 dL12     -0.91     1.29 Fits    2.2   0.2   1.6   3.9
+  26  3  PRN 30  1071  1447    1    -4.84 +-    2.84 SL   4.00 RR       4.06  F F --R-O dL1,2     2    5 dL12     -0.03     0.65 Fits    1.2   0.0   1.0   2.2
+  27  3  PRN 30  1574  1753    1    -1.45 +-    1.92 SL   4.00 RR       2.97  F F --R-- dL1,2     0    0 dL12     -2.58     0.53 Fits    2.6   1.7   0.9   0.3
+  28  3  PRN 30  1754  1813    1     0.77 +-    1.87 SL   4.00 RR       1.04  F F --R-O dL1,2    -3   -4 dL12      0.83    -0.37 Fits    1.8   0.2   1.5   1.1
+  29  3  PRN 30  1814  1915    1    -0.93 +-    1.83 SL   4.00 RR       1.26  F F --R-O dL1,2    -3   -2 dL12      4.87     0.16 Fits    8.3   6.4   0.4  14.9
+  30  3  PRN 30  1936  2161    1    -1.91 +-    1.98 SL   4.00 RR       4.30  F F --R-- dL1,2     0    0 dL12     -3.40     0.00 Fits    2.9   2.7   0.0   2.2
+  31  3  PRN 29   676  1057    1    -1.96 +-    1.43 SL   4.00 RR       1.13  F F --R-O dL1,2    -3   -2 dL12      3.05    -0.57 Fits    5.8   4.0   0.7  10.2
+  32  3  PRN 29  1454  1507    1    -0.02 +-    9.32 SL   4.00 RR       2.11  F F S-R-O dL1,2    -2   -2 dL12      1.97     0.63 Fits    1.1   0.0   0.9   1.5
+  33  3  PRN 29  1508  2330    1     1.03 +-    1.62 SL   4.00 RR       6.22  F F --R-- dL1,2     0    0 dL12      1.84     0.74 Fits    4.7   1.2   3.6   0.1
+  34  3  PRN 06   676  1040    1    -2.56 +-    1.98 SL   4.00 RR       1.64  F F --R-- dL1,2    -5   -4 dL12      3.98    -0.25 Fits    4.0   3.7   0.2   1.4
+  35  3  PRN 06  1071  1543    1     1.13 +-    2.65 SL   4.00 RR       8.70  F F --R-- dL1,2     0    0 dL12      2.01    -0.31 Fits    1.2   0.5   0.6   0.0
+  36  3  PRN 06  1544  1771    1     0.09 +-    1.95 SL   4.00 RR       2.59  F F --R-- dL1,2     1    1 dL12     -0.84     0.37 Fits    1.0   0.2   0.9   0.0
+  37  3  PRN 06  1772  1819    1     4.50 +-    1.67 SL   4.00 RR       1.49  F F --R-- dL1,2     4    3 dL12      0.48     1.57 Fits   16.4   0.1  16.3   0.3
+  38  3  PRN 06  1937  2330    3    -1.12 +-    1.83 SL   4.00 RR     124.68  T T ----- dL1,2     0    0 dL12     -1.99    -0.29 Fits    1.4   1.1   0.3   0.2
+BIAS FLAG REPORT: Type  FLOAT02 
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FLOAT02 
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FLOAT02 
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FLOAT02 
+  12  2  PRN 13     656    1552    3       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FLOAT02 
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FLOAT02 
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FLOAT02 
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FLOAT02 
+  16  2  PRN 26    2280    2594    3       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FLOAT02 
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT02 
+  18  3  PRN 04     676    1054    1    -10816923.0     -8452211.0    17     2     1 WL Res +-     0.150     0.376    -0.251     0.025  FLOAT02 
+  19  3  PRN 04    1086    1315    1    -10816933.0     -8452217.0    17     2     1 WL Res +-    -0.642     0.660    -1.303     0.024  FLOAT02 
+  20  3  PRN 04    1533    1929    1    -10816924.0     -8452222.0    28     5     2 WL Res +-    -1.336     0.496    -2.263     0.145  FLOAT02 
+  21  3  PRN 04    1957    2163    1    -10816921.0     -8452223.0    23    11    10 WL Res +-     1.044     1.100     0.401     0.071  FLOAT02 
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FLOAT02 
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FLOAT02 
+  24  3  PRN 13    1084    1281    1    -16944340.0    -13223313.0    17     4     1 WL Res +-     0.734     1.042     0.029     0.047  FLOAT02 
+  25  3  PRN 30     676     984    1    -16664802.0    -12995321.0    23     5     3 WL Res +-     1.294     1.034     0.369     0.035  FLOAT02 
+  26  3  PRN 30    1071    1447    1    -16664815.0    -12995329.0    19     5     2 WL Res +-     0.652     0.657    -1.039     0.043  FLOAT02 
+  27  3  PRN 30    1574    1753    1    -16664863.0    -12995325.0    17     5     1 WL Res +-     0.526     0.559     0.024     0.045  FLOAT02 
+  28  3  PRN 30    1754    1813    1    -16664860.0    -12995323.0    36     7     5 WL Res +-    -0.373     0.303     0.836     0.078  FLOAT02 
+  29  3  PRN 30    1814    1915    1    -16664860.0    -12995323.0    37     7     5 WL Res +-    -0.844     0.263    -0.521     0.071  FLOAT02 
+  30  3  PRN 30    1936    2161    1    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FLOAT02 
+  31  3  PRN 29     676    1057    1    -23519188.0    -18281185.0    18     6     2 WL Res +-    -0.568     0.667    -0.297     0.063  FLOAT02 
+  32  3  PRN 29    1454    1507    1    -23519172.0    -18281163.0    35    15    14 WL Res +-     0.628     0.657     0.057     0.056  FLOAT02 
+  33  3  PRN 29    1508    2330    1    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FLOAT02 
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  FLOAT02 
+  35  3  PRN 06    1071    1543    1    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FLOAT02 
+  36  3  PRN 06    1544    1771    1    -20022728.0    -15581077.0    17    15     9 WL Res +-     0.369     0.396    -0.061     0.079  FLOAT02 
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     1.570     0.389     0.014     0.037  FLOAT02 
+  38  3  PRN 06    1937    2330    3    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FLOAT02 
+POSITION ANALYSIS BASED ON FLOAT02 
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.00  0.00  0.00 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.72    20.52    25.29 m. 
+Initial coordinates of rovr are XYZ     1530295.358   -4465338.081    4275227.248 m at Epoch      748
+
+Starting FLOAT iteration at   3
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.161      0.196
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.373      0.212
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.197      0.083
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)      0.330      0.153
+BF_FLOAT   24   1282  3 PRN 13    1084   1281   1  Estimated Adjust. (m)     -0.001      0.291
+BF_FLOAT   19   1316  3 PRN 04    1086   1315   1  Estimated Adjust. (m)      0.299      0.194
+BF_FLOAT   26   1448  3 PRN 30    1071   1447   1  Estimated Adjust. (m)     -0.016      0.304
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.001      0.997
+BF_FLOAT   35   1544  3 PRN 06    1071   1543   1  Estimated Adjust. (m)      0.201      0.283
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)     -0.272      0.205
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)     -0.091      0.208
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)      0.117      0.200
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)      0.060      0.178
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.519      0.196
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)     -0.062      0.127
+BF_FLOAT   30   2162  3 PRN 30    1936   2161   1  Estimated Adjust. (m)     -0.175      0.102
+BF_FLOAT   21   2164  3 PRN 04    1957   2163   1  Estimated Adjust. (m)      0.048      0.077
+BF_FLOAT   33   2331  3 PRN 29    1508   2330   1  Estimated Adjust. (m)      0.011      0.027
+For  12271 Double differences: Average RMS      47.31 mm
+* BF  S   PRN    Epoch Range   F     Estimate dLC    Sig Limit Relative Rank  Fix Fcode Change L1    L2  Residual  L1      L2   Fits Best   LC    WL    LG
+  18  3  PRN 04   676  1054    1     1.04 +-    0.78 SL   4.00 RR       1.73  F F --R-- dL1,2    -1   -1 dL12      2.84     0.15 Fits   11.0  10.7   0.2   1.5
+  19  3  PRN 04  1086  1315    1     1.57 +-    1.82 SL   4.00 RR       7.43  F F --R-- dL1,2    -1   -2 dL12      0.27     0.36 Fits    1.4   0.0   0.3  11.4
+  20  3  PRN 04  1533  1929    1    -0.32 +-    1.18 SL   4.00 RR       1.17  F F --R-O dL1,2    -5   -6 dL12      0.89    -0.34 Fits    1.1   0.5   0.5   1.2
+  21  3  PRN 04  1957  2163    1     0.25 +-    0.72 SL   4.00 RR       4.86  F F --R-- dL1,2     1    1 dL12     -0.55     1.04 Fits    2.0   0.5   0.9   6.5
+  24  3  PRN 13  1084  1281    3     0.00 +-    2.72 SL   4.00 RR      18.53  T T ----- dL1,2     0    0 dL12     -0.01     0.73 Fits    0.5   0.0   0.5   0.4
+  25  3  PRN 30   676   984    1    -0.84 +-    1.84 SL   4.00 RR       1.08  F F --R-- dL1,2     1    1 dL12     -2.50     1.29 Fits    5.1   1.7   1.6  18.5
+  26  3  PRN 30  1071  1447    1    -0.08 +-    2.84 SL   4.00 RR       3.42  F F --R-O dL1,2    -7   -8 dL12      3.32     0.65 Fits    2.5   1.3   1.0   2.0
+  27  3  PRN 30  1574  1753    1    -1.43 +-    1.92 SL   4.00 RR       3.05  F F --R-- dL1,2     0    0 dL12     -2.55     0.53 Fits    2.5   1.6   0.9   0.3
+  28  3  PRN 30  1754  1813    1     0.61 +-    1.87 SL   4.00 RR       1.60  F F --R-O dL1,2     3    3 dL12     -1.91    -0.37 Fits    3.0   0.9   1.5   5.0
+  29  3  PRN 30  1814  1915    1     2.73 +-    1.83 SL   4.00 RR      11.25  F F ----O dL1,2     2    1 dL12     -0.68     0.16 Fits    0.5   0.1   0.4   0.3
+  30  3  PRN 30  1936  2161    1    -0.92 +-    0.95 SL   4.00 RR       3.66  F F --R-- dL1,2     0    0 dL12     -1.63     0.00 Fits    2.7   2.4   0.0   2.2
+  31  3  PRN 29   676  1057    1     1.73 +-    1.43 SL   4.00 RR       1.69  F F --R-O dL1,2     1    0 dL12     -1.45     0.43 Fits    2.3   0.9   0.4  10.0
+  32  3  PRN 29  1454  1507    1     0.01 +-    9.32 SL   4.00 RR       1.13  F F S-R-O dL1,2     0    0 dL12      0.01     0.63 Fits    1.0   0.0   0.9   1.0
+  33  3  PRN 29  1508  2330    3     0.06 +-    0.25 SL   4.00 RR      24.69  T T ----- dL1,2     0    0 dL12      0.10     0.74 Fits    3.7   0.1   3.6   0.1
+  34  3  PRN 06   676  1040    1     1.96 +-    1.98 SL   4.00 RR       4.64  F F --R-- dL1,2     0    0 dL12      3.49    -0.25 Fits    3.0   2.8   0.2   0.1
+  35  3  PRN 06  1071  1543    1     1.06 +-    2.65 SL   4.00 RR       9.57  F F --R-- dL1,2     0    0 dL12      1.88    -0.31 Fits    1.1   0.5   0.6   0.0
+  36  3  PRN 06  1544  1771    1    -0.48 +-    1.95 SL   4.00 RR       1.35  F F --R-- dL1,2     0    0 dL12     -0.85     0.37 Fits    1.1   0.2   0.9   0.6
+  37  3  PRN 06  1772  1819    1     0.31 +-    1.67 SL   4.00 RR       1.41  F F --R-- dL1,2     0    0 dL12      0.56     1.57 Fits   16.4   0.1  16.3   0.2
+BIAS FLAG REPORT: Type  FLOAT03 
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FLOAT03 
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FLOAT03 
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FLOAT03 
+  12  2  PRN 13     656    1552    3       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FLOAT03 
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FLOAT03 
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FLOAT03 
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FLOAT03 
+  16  2  PRN 26    2280    2594    3       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FLOAT03 
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT03 
+  18  3  PRN 04     676    1054    1    -10816922.0     -8452210.0    17     2     1 WL Res +-     0.150     0.376     0.032     0.025  FLOAT03 
+  19  3  PRN 04    1086    1315    1    -10816932.0     -8452215.0    17     2     1 WL Res +-     0.358     0.660     0.264     0.024  FLOAT03 
+  20  3  PRN 04    1533    1929    1    -10816919.0     -8452216.0    28     5     2 WL Res +-    -0.336     0.496     1.287     0.145  FLOAT03 
+  21  3  PRN 04    1957    2163    1    -10816922.0     -8452224.0    23    11    10 WL Res +-     1.044     1.100     0.118     0.071  FLOAT03 
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FLOAT03 
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FLOAT03 
+  24  3  PRN 13    1084    1281    3    -16944340.0    -13223313.0    17     4     1 WL Res +-     0.734     1.042     0.029     0.047  FLOAT03 
+  25  3  PRN 30     676     984    1    -16664803.0    -12995322.0    23     5     3 WL Res +-     1.294     1.034     0.086     0.035  FLOAT03 
+  26  3  PRN 30    1071    1447    1    -16664808.0    -12995321.0    19     5     2 WL Res +-     0.652     0.657     0.661     0.043  FLOAT03 
+  27  3  PRN 30    1574    1753    1    -16664863.0    -12995325.0    17     5     1 WL Res +-     0.526     0.559     0.024     0.045  FLOAT03 
+  28  3  PRN 30    1754    1813    1    -16664863.0    -12995326.0    36     7     5 WL Res +-    -0.373     0.303    -0.014     0.078  FLOAT03 
+  29  3  PRN 30    1814    1915    1    -16664862.0    -12995324.0    37     7     5 WL Res +-     0.156     0.263     0.196     0.071  FLOAT03 
+  30  3  PRN 30    1936    2161    1    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FLOAT03 
+  31  3  PRN 29     676    1057    1    -23519189.0    -18281185.0    18     6     2 WL Res +-     0.432     0.667     0.420     0.063  FLOAT03 
+  32  3  PRN 29    1454    1507    1    -23519172.0    -18281163.0    35    15    14 WL Res +-     0.628     0.657     0.057     0.056  FLOAT03 
+  33  3  PRN 29    1508    2330    3    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FLOAT03 
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  FLOAT03 
+  35  3  PRN 06    1071    1543    1    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FLOAT03 
+  36  3  PRN 06    1544    1771    1    -20022728.0    -15581077.0    17    15     9 WL Res +-     0.369     0.396    -0.061     0.079  FLOAT03 
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     1.570     0.389     0.014     0.037  FLOAT03 
+  38  3  PRN 06    1937    2330    3    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FLOAT03 
+POSITION ANALYSIS BASED ON FLOAT03 
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.00  0.00  0.00 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.69    20.53    25.36 m. 
+Initial coordinates of rovr are XYZ     1530295.821   -4465338.749    4275227.554 m at Epoch      748
+
+Starting FLOAT iteration at   4
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.273      0.196
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.366      0.212
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.309      0.083
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)     -0.145      0.153
+BF_FLOAT   19   1316  3 PRN 04    1086   1315   1  Estimated Adjust. (m)     -0.019      0.141
+BF_FLOAT   26   1448  3 PRN 30    1071   1447   1  Estimated Adjust. (m)      0.240      0.030
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.000      0.997
+BF_FLOAT   35   1544  3 PRN 06    1071   1543   1  Estimated Adjust. (m)      0.100      0.087
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)     -0.249      0.136
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)     -0.250      0.148
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)     -0.130      0.125
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)     -0.103      0.136
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.227      0.108
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)      0.454      0.026
+BF_FLOAT   30   2162  3 PRN 30    1936   2161   1  Estimated Adjust. (m)     -0.008      0.004
+BF_FLOAT   21   2164  3 PRN 04    1957   2163   1  Estimated Adjust. (m)      0.038      0.007
+For  12271 Double differences: Average RMS      47.42 mm
+* BF  S   PRN    Epoch Range   F     Estimate dLC    Sig Limit Relative Rank  Fix Fcode Change L1    L2  Residual  L1      L2   Fits Best   LC    WL    LG
+  18  3  PRN 04   676  1054    1     1.63 +-    0.78 SL   4.00 RR       1.19  F F --R-- dL1,2     1    1 dL12      1.89     0.15 Fits   10.4   4.7   0.2  55.5
+  19  3  PRN 04  1086  1315    3    -0.10 +-    1.31 SL   4.00 RR      37.81  T T ----- dL1,2     1    1 dL12     -1.18     0.36 Fits    1.3   0.7   0.3   3.1
+  20  3  PRN 04  1533  1929    1     2.39 +-    0.24 SL   4.00 RR      10.22  F F ----O dL1,2     4    4 dL12      0.25    -0.34 Fits    1.8   0.6   0.5   7.8
+  21  3  PRN 04  1957  2163    1     0.20 +-    0.07 SL   4.00 RR       8.52  F F --R-- dL1,2     0    0 dL12      0.35     1.04 Fits    5.8   4.6   0.9   2.8
+  25  3  PRN 30   676   984    1    -1.43 +-    1.84 SL   4.00 RR       2.70  F F --R-- dL1,2     0    0 dL12     -2.55     1.29 Fits    3.9   1.7   1.6   6.2
+  26  3  PRN 30  1071  1447    1     1.26 +-    0.28 SL   4.00 RR       2.61  F F --R-- dL1,2     3    3 dL12     -0.76     0.65 Fits    9.3   4.1   1.0  43.1
+  27  3  PRN 30  1574  1753    1    -1.31 +-    1.27 SL   4.00 RR       1.55  F F --R-- dL1,2     0    0 dL12     -2.33     0.53 Fits    3.8   2.9   0.9   0.3
+  28  3  PRN 30  1754  1813    1    -0.68 +-    1.17 SL   4.00 RR       1.18  F F --R-O dL1,2    -1   -1 dL12     -0.22    -0.37 Fits    2.3   0.0   1.5   7.1
+  29  3  PRN 30  1814  1915    1     1.19 +-    1.01 SL   4.00 RR       1.22  F F --R-O dL1,2     1    1 dL12      1.12     0.16 Fits    1.4   1.0   0.4   0.1
+  30  3  PRN 30  1936  2161    3    -0.04 +-    0.04 SL   4.00 RR    8622.63  T T ----- dL1,2     0    0 dL12     -0.08     0.00 Fits    0.6   0.4   0.0   2.2
+  31  3  PRN 29   676  1057    1    -0.76 +-    1.43 SL   4.00 RR       1.10  F F --R-O dL1,2     0    1 dL12      2.17    -0.57 Fits    5.0   2.0   0.7  22.2
+  32  3  PRN 29  1454  1507    1     0.00 +-    9.32 SL   4.00 RR       1.12  F F S-R-O dL1,2     0    0 dL12      0.00     0.63 Fits    1.0   0.0   0.9   1.0
+  34  3  PRN 06   676  1040    1     1.92 +-    1.98 SL   4.00 RR       4.89  F F --R-- dL1,2     0    0 dL12      3.42    -0.25 Fits    2.9   2.7   0.2   0.1
+  35  3  PRN 06  1071  1543    1     0.52 +-    0.82 SL   4.00 RR       3.90  F F --R-- dL1,2     0    0 dL12      0.93    -0.31 Fits    1.7   1.1   0.6   0.0
+  36  3  PRN 06  1544  1771    1    -1.31 +-    1.39 SL   4.00 RR       2.41  F F --R-- dL1,2    -1   -1 dL12     -1.34     0.37 Fits    2.1   0.8   0.9   4.1
+  37  3  PRN 06  1772  1819    1    -0.54 +-    1.27 SL   4.00 RR       1.46  F F --R-- dL1,2     0    0 dL12     -0.96     1.57 Fits   16.8   0.5  16.3   0.2
+BIAS FLAG REPORT: Type  FLOAT04 
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FLOAT04 
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FLOAT04 
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FLOAT04 
+  12  2  PRN 13     656    1552    3       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FLOAT04 
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FLOAT04 
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FLOAT04 
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FLOAT04 
+  16  2  PRN 26    2280    2594    3       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FLOAT04 
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT04 
+  18  3  PRN 04     676    1054    1    -10816923.0     -8452211.0    17     2     1 WL Res +-     0.150     0.376    -0.251     0.025  FLOAT04 
+  19  3  PRN 04    1086    1315    3    -10816933.0     -8452216.0    17     2     1 WL Res +-     0.358     0.660    -0.020     0.024  FLOAT04 
+  20  3  PRN 04    1533    1929    1    -10816923.0     -8452220.0    28     5     2 WL Res +-    -0.336     0.496    -0.130     0.145  FLOAT04 
+  21  3  PRN 04    1957    2163    1    -10816922.0     -8452224.0    23    11    10 WL Res +-     1.044     1.100     0.118     0.071  FLOAT04 
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FLOAT04 
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FLOAT04 
+  24  3  PRN 13    1084    1281    3    -16944340.0    -13223313.0    17     4     1 WL Res +-     0.734     1.042     0.029     0.047  FLOAT04 
+  25  3  PRN 30     676     984    1    -16664803.0    -12995322.0    23     5     3 WL Res +-     1.294     1.034     0.086     0.035  FLOAT04 
+  26  3  PRN 30    1071    1447    1    -16664811.0    -12995324.0    19     5     2 WL Res +-     0.652     0.657     0.094     0.043  FLOAT04 
+  27  3  PRN 30    1574    1753    1    -16664863.0    -12995325.0    17     5     1 WL Res +-     0.526     0.559     0.024     0.045  FLOAT04 
+  28  3  PRN 30    1754    1813    1    -16664862.0    -12995325.0    36     7     5 WL Res +-    -0.373     0.303    -0.014     0.078  FLOAT04 
+  29  3  PRN 30    1814    1915    1    -16664863.0    -12995325.0    37     7     5 WL Res +-     0.156     0.263    -0.088     0.071  FLOAT04 
+  30  3  PRN 30    1936    2161    3    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FLOAT04 
+  31  3  PRN 29     676    1057    1    -23519189.0    -18281186.0    18     6     2 WL Res +-    -0.568     0.667    -0.580     0.063  FLOAT04 
+  32  3  PRN 29    1454    1507    1    -23519172.0    -18281163.0    35    15    14 WL Res +-     0.628     0.657     0.057     0.056  FLOAT04 
+  33  3  PRN 29    1508    2330    3    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FLOAT04 
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  FLOAT04 
+  35  3  PRN 06    1071    1543    1    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FLOAT04 
+  36  3  PRN 06    1544    1771    1    -20022727.0    -15581076.0    17    15     9 WL Res +-     0.369     0.396     0.222     0.079  FLOAT04 
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     1.570     0.389     0.014     0.037  FLOAT04 
+  38  3  PRN 06    1937    2330    3    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FLOAT04 
+POSITION ANALYSIS BASED ON FLOAT04 
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.00  0.00  0.00 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.68    20.49    25.49 m. 
+Initial coordinates of rovr are XYZ     1530295.857   -4465338.676    4275227.367 m at Epoch      748
+
+Starting FLOAT iteration at   5
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.268      0.196
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.372      0.212
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.198      0.083
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)      0.225      0.153
+BF_FLOAT   26   1448  3 PRN 30    1071   1447   1  Estimated Adjust. (m)     -0.056      0.012
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.000      0.997
+BF_FLOAT   35   1544  3 PRN 06    1071   1543   1  Estimated Adjust. (m)      0.023      0.008
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)     -0.301      0.127
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)     -0.203      0.138
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)     -0.080      0.117
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)     -0.163      0.127
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.056      0.102
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)      0.011      0.024
+BF_FLOAT   21   2164  3 PRN 04    1957   2163   1  Estimated Adjust. (m)      0.033      0.007
+For  12271 Double differences: Average RMS      47.72 mm
+* BF  S   PRN    Epoch Range   F     Estimate dLC    Sig Limit Relative Rank  Fix Fcode Change L1    L2  Residual  L1      L2   Fits Best   LC    WL    LG
+  18  3  PRN 04   676  1054    1     1.04 +-    0.78 SL   4.00 RR       1.72  F F --R-- dL1,2    -1   -1 dL12      2.85     0.15 Fits   11.1  10.8   0.2   1.5
+  20  3  PRN 04  1533  1929    1     0.06 +-    0.23 SL   4.00 RR     201.55  F F ----O dL1,2     0    0 dL12      0.10    -0.34 Fits    0.6   0.1   0.5   0.8
+  21  3  PRN 04  1957  2163    3     0.17 +-    0.07 SL   4.00 RR      16.95  T T ----- dL1,2     0    0 dL12      0.31     1.04 Fits    4.8   3.6   0.9   2.8
+  25  3  PRN 30   676   984    1    -1.41 +-    1.84 SL   4.00 RR       2.72  F F --R-- dL1,2     0    0 dL12     -2.50     1.29 Fits    3.9   1.7   1.6   6.2
+  26  3  PRN 30  1071  1447    1    -0.29 +-    0.11 SL   4.00 RR       2.15  F F --R-- dL1,2     0    0 dL12     -0.52     0.65 Fits    8.1   6.6   1.0   4.8
+  27  3  PRN 30  1574  1753    1    -1.58 +-    1.18 SL   4.00 RR       1.02  F F --R-- dL1,2     0    0 dL12     -2.81     0.53 Fits    5.7   4.8   0.9   0.3
+  28  3  PRN 30  1754  1813    1    -0.42 +-    1.10 SL   4.00 RR       1.41  F F --R-O dL1,2     0    0 dL12     -0.75    -0.37 Fits    1.9   0.4   1.5   0.0
+  29  3  PRN 30  1814  1915    1     0.29 +-    0.95 SL   4.00 RR      10.35  F F ----O dL1,2     0    0 dL12      0.52     0.16 Fits    0.8   0.3   0.4   1.5
+  31  3  PRN 29   676  1057    1     1.18 +-    1.43 SL   4.00 RR       3.15  F F --R-O dL1,2     0   -1 dL12     -1.43     0.43 Fits    1.8   0.9   0.4   4.7
+  32  3  PRN 29  1454  1507    1     0.00 +-    9.32 SL   4.00 RR       1.12  F F S-R-O dL1,2     0    0 dL12      0.00     0.63 Fits    1.0   0.0   0.9   1.0
+  34  3  PRN 06   676  1040    1     1.95 +-    1.98 SL   4.00 RR       4.70  F F --R-- dL1,2     0    0 dL12      3.48    -0.25 Fits    3.0   2.8   0.2   0.1
+  35  3  PRN 06  1071  1543    3     0.12 +-    0.07 SL   4.00 RR     125.70  T T ----- dL1,2     0    0 dL12      0.21    -0.31 Fits    2.3   1.7   0.6   0.0
+  36  3  PRN 06  1544  1771    1    -1.07 +-    1.29 SL   4.00 RR       1.58  F F --R-- dL1,2     0    0 dL12     -1.90     0.37 Fits    3.5   1.9   0.9   8.0
+  37  3  PRN 06  1772  1819    1    -0.86 +-    1.19 SL   4.00 RR       1.34  F F --R-- dL1,2     0    0 dL12     -1.53     1.57 Fits   17.7   1.4  16.3   0.2
+BIAS FLAG REPORT: Type  FLOAT05 
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FLOAT05 
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FLOAT05 
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FLOAT05 
+  12  2  PRN 13     656    1552    3       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FLOAT05 
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FLOAT05 
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FLOAT05 
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FLOAT05 
+  16  2  PRN 26    2280    2594    3       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FLOAT05 
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT05 
+  18  3  PRN 04     676    1054    1    -10816922.0     -8452210.0    17     2     1 WL Res +-     0.150     0.376     0.032     0.025  FLOAT05 
+  19  3  PRN 04    1086    1315    3    -10816933.0     -8452216.0    17     2     1 WL Res +-     0.358     0.660    -0.020     0.024  FLOAT05 
+  20  3  PRN 04    1533    1929    1    -10816923.0     -8452220.0    28     5     2 WL Res +-    -0.336     0.496    -0.130     0.145  FLOAT05 
+  21  3  PRN 04    1957    2163    3    -10816922.0     -8452224.0    23    11    10 WL Res +-     1.044     1.100     0.118     0.071  FLOAT05 
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FLOAT05 
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FLOAT05 
+  24  3  PRN 13    1084    1281    3    -16944340.0    -13223313.0    17     4     1 WL Res +-     0.734     1.042     0.029     0.047  FLOAT05 
+  25  3  PRN 30     676     984    1    -16664803.0    -12995322.0    23     5     3 WL Res +-     1.294     1.034     0.086     0.035  FLOAT05 
+  26  3  PRN 30    1071    1447    1    -16664811.0    -12995324.0    19     5     2 WL Res +-     0.652     0.657     0.094     0.043  FLOAT05 
+  27  3  PRN 30    1574    1753    1    -16664863.0    -12995325.0    17     5     1 WL Res +-     0.526     0.559     0.024     0.045  FLOAT05 
+  28  3  PRN 30    1754    1813    1    -16664862.0    -12995325.0    36     7     5 WL Res +-    -0.373     0.303    -0.014     0.078  FLOAT05 
+  29  3  PRN 30    1814    1915    1    -16664863.0    -12995325.0    37     7     5 WL Res +-     0.156     0.263    -0.088     0.071  FLOAT05 
+  30  3  PRN 30    1936    2161    3    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FLOAT05 
+  31  3  PRN 29     676    1057    1    -23519189.0    -18281185.0    18     6     2 WL Res +-     0.432     0.667     0.420     0.063  FLOAT05 
+  32  3  PRN 29    1454    1507    1    -23519172.0    -18281163.0    35    15    14 WL Res +-     0.628     0.657     0.057     0.056  FLOAT05 
+  33  3  PRN 29    1508    2330    3    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FLOAT05 
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  FLOAT05 
+  35  3  PRN 06    1071    1543    3    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FLOAT05 
+  36  3  PRN 06    1544    1771    1    -20022727.0    -15581076.0    17    15     9 WL Res +-     0.369     0.396     0.222     0.079  FLOAT05 
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     1.570     0.389     0.014     0.037  FLOAT05 
+  38  3  PRN 06    1937    2330    3    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FLOAT05 
+POSITION ANALYSIS BASED ON FLOAT05 
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.00  0.00  0.00 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.68    20.49    25.48 m. 
+Initial coordinates of rovr are XYZ     1530295.808   -4465338.704    4275227.501 m at Epoch      748
+
+Starting FLOAT iteration at   6
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.273      0.196
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.367      0.212
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.309      0.083
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)     -0.145      0.153
+BF_FLOAT   26   1448  3 PRN 30    1071   1447   1  Estimated Adjust. (m)     -0.086      0.006
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.000      0.997
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)     -0.314      0.127
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)     -0.218      0.138
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)     -0.092      0.117
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)     -0.176      0.127
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.046      0.102
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)      0.008      0.024
+For  12271 Double differences: Average RMS      48.59 mm
+* BF  S   PRN    Epoch Range   F     Estimate dLC    Sig Limit Relative Rank  Fix Fcode Change L1    L2  Residual  L1      L2   Fits Best   LC    WL    LG
+  18  3  PRN 04   676  1054    1     1.63 +-    0.78 SL   4.00 RR       1.19  F F --R-- dL1,2     1    1 dL12      1.89     0.15 Fits   10.4   4.7   0.2  55.5
+  20  3  PRN 04  1533  1929    1     0.04 +-    0.23 SL   4.00 RR     251.19  F F ----O dL1,2     0    0 dL12      0.08    -0.34 Fits    0.6   0.1   0.5   0.8
+  25  3  PRN 30   676   984    1    -1.43 +-    1.84 SL   4.00 RR       2.70  F F --R-- dL1,2     0    0 dL12     -2.55     1.29 Fits    3.9   1.7   1.6   6.2
+  26  3  PRN 30  1071  1447    3    -0.45 +-    0.06 SL   4.00 RR      13.31  T T ----- dL1,2    -1   -1 dL12      0.20     0.65 Fits    8.1   1.7   1.0  53.8
+  27  3  PRN 30  1574  1753    1    -1.65 +-    1.18 SL   4.00 RR       1.03  F F --R-- dL1,2    -1   -1 dL12     -1.94     0.53 Fits    6.1   2.3   0.9  29.2
+  28  3  PRN 30  1754  1813    1    -0.48 +-    1.10 SL   4.00 RR       1.21  F F --R-O dL1,2     0    0 dL12     -0.86    -0.37 Fits    2.0   0.5   1.5   0.0
+  29  3  PRN 30  1814  1915    1     0.24 +-    0.95 SL   4.00 RR      13.99  F F ----O dL1,2     0    0 dL12      0.43     0.16 Fits    0.7   0.2   0.4   1.5
+  31  3  PRN 29   676  1057    1    -0.76 +-    1.43 SL   4.00 RR       1.10  F F --R-O dL1,2     0    1 dL12      2.17    -0.57 Fits    5.0   2.0   0.7  22.2
+  32  3  PRN 29  1454  1507    1     0.00 +-    9.32 SL   4.00 RR       1.12  F F S-R-- dL1,2     0    0 dL12      0.00     0.63 Fits    1.0   0.0   0.9   1.0
+  34  3  PRN 06   676  1040    1     1.93 +-    1.98 SL   4.00 RR       4.87  F F --R-- dL1,2     0    0 dL12      3.43    -0.25 Fits    2.9   2.7   0.2   0.1
+  36  3  PRN 06  1544  1771    1    -1.15 +-    1.29 SL   4.00 RR       1.44  F F --R-- dL1,2     0    0 dL12     -2.04     0.37 Fits    3.8   2.2   0.9   8.0
+  37  3  PRN 06  1772  1819    1    -0.93 +-    1.19 SL   4.00 RR       1.31  F F --R-- dL1,2     0    0 dL12     -1.65     1.57 Fits   18.0   1.7  16.3   0.2
+BIAS FLAG REPORT: Type  FLOAT06 
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FLOAT06 
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FLOAT06 
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FLOAT06 
+  12  2  PRN 13     656    1552    3       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FLOAT06 
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FLOAT06 
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FLOAT06 
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FLOAT06 
+  16  2  PRN 26    2280    2594    3       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FLOAT06 
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT06 
+  18  3  PRN 04     676    1054    1    -10816923.0     -8452211.0    17     2     1 WL Res +-     0.150     0.376    -0.251     0.025  FLOAT06 
+  19  3  PRN 04    1086    1315    3    -10816933.0     -8452216.0    17     2     1 WL Res +-     0.358     0.660    -0.020     0.024  FLOAT06 
+  20  3  PRN 04    1533    1929    1    -10816923.0     -8452220.0    28     5     2 WL Res +-    -0.336     0.496    -0.130     0.145  FLOAT06 
+  21  3  PRN 04    1957    2163    3    -10816922.0     -8452224.0    23    11    10 WL Res +-     1.044     1.100     0.118     0.071  FLOAT06 
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FLOAT06 
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FLOAT06 
+  24  3  PRN 13    1084    1281    3    -16944340.0    -13223313.0    17     4     1 WL Res +-     0.734     1.042     0.029     0.047  FLOAT06 
+  25  3  PRN 30     676     984    1    -16664803.0    -12995322.0    23     5     3 WL Res +-     1.294     1.034     0.086     0.035  FLOAT06 
+  26  3  PRN 30    1071    1447    3    -16664810.0    -12995323.0    19     5     2 WL Res +-     0.652     0.657     0.378     0.043  FLOAT06 
+  27  3  PRN 30    1574    1753    1    -16664862.0    -12995324.0    17     5     1 WL Res +-     0.526     0.559     0.308     0.045  FLOAT06 
+  28  3  PRN 30    1754    1813    1    -16664862.0    -12995325.0    36     7     5 WL Res +-    -0.373     0.303    -0.014     0.078  FLOAT06 
+  29  3  PRN 30    1814    1915    1    -16664863.0    -12995325.0    37     7     5 WL Res +-     0.156     0.263    -0.088     0.071  FLOAT06 
+  30  3  PRN 30    1936    2161    3    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FLOAT06 
+  31  3  PRN 29     676    1057    1    -23519189.0    -18281186.0    18     6     2 WL Res +-    -0.568     0.667    -0.580     0.063  FLOAT06 
+  32  3  PRN 29    1454    1507    1    -23519172.0    -18281163.0    35    15    14 WL Res +-     0.628     0.657     0.057     0.056  FLOAT06 
+  33  3  PRN 29    1508    2330    3    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FLOAT06 
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  FLOAT06 
+  35  3  PRN 06    1071    1543    3    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FLOAT06 
+  36  3  PRN 06    1544    1771    1    -20022727.0    -15581076.0    17    15     9 WL Res +-     0.369     0.396     0.222     0.079  FLOAT06 
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     1.570     0.389     0.014     0.037  FLOAT06 
+  38  3  PRN 06    1937    2330    3    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FLOAT06 
+POSITION ANALYSIS BASED ON FLOAT06 
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.00  0.00  0.00 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.68    20.50    25.45 m. 
+Initial coordinates of rovr are XYZ     1530295.857   -4465338.676    4275227.367 m at Epoch      748
+
+Starting FLOAT iteration at   7
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.268      0.196
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.372      0.212
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.198      0.083
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)      0.225      0.153
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.000      0.997
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)     -0.209      0.127
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)     -0.220      0.138
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)     -0.093      0.117
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)     -0.178      0.127
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.045      0.102
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)      0.008      0.024
+For  12271 Double differences: Average RMS      48.73 mm
+* BF  S   PRN    Epoch Range   F     Estimate dLC    Sig Limit Relative Rank  Fix Fcode Change L1    L2  Residual  L1      L2   Fits Best   LC    WL    LG
+  18  3  PRN 04   676  1054    1     1.04 +-    0.78 SL   4.00 RR       1.72  F F --R-- dL1,2    -1   -1 dL12      2.85     0.15 Fits   11.1  10.8   0.2   1.5
+  20  3  PRN 04  1533  1929    1     0.04 +-    0.23 SL   4.00 RR     256.67  F F ----O dL1,2     0    0 dL12      0.07    -0.34 Fits    0.6   0.1   0.5   0.8
+  25  3  PRN 30   676   984    1    -1.41 +-    1.84 SL   4.00 RR       2.72  F F --R-- dL1,2     0    0 dL12     -2.50     1.29 Fits    3.9   1.7   1.6   6.2
+  27  3  PRN 30  1574  1753    1    -1.10 +-    1.18 SL   4.00 RR       1.41  F F --R-- dL1,2     1    1 dL12     -2.95     0.53 Fits    6.6   5.3   0.9   3.7
+  28  3  PRN 30  1754  1813    1    -0.49 +-    1.10 SL   4.00 RR       1.18  F F --R-O dL1,2     0    0 dL12     -0.87    -0.37 Fits    2.1   0.5   1.5   0.0
+  29  3  PRN 30  1814  1915    1     0.24 +-    0.95 SL   4.00 RR      14.46  F F ----O dL1,2     0    0 dL12      0.42     0.16 Fits    0.7   0.2   0.4   1.5
+  31  3  PRN 29   676  1057    1     1.18 +-    1.43 SL   4.00 RR       3.15  F F --R-O dL1,2     0   -1 dL12     -1.43     0.43 Fits    1.8   0.9   0.4   4.7
+  32  3  PRN 29  1454  1507    1     0.00 +-    9.32 SL   4.00 RR       1.12  F F S-R-- dL1,2     0    0 dL12      0.00     0.63 Fits    1.0   0.0   0.9   1.0
+  34  3  PRN 06   676  1040    1     1.95 +-    1.98 SL   4.00 RR       4.70  F F --R-- dL1,2     0    0 dL12      3.48    -0.25 Fits    3.0   2.8   0.2   0.1
+  36  3  PRN 06  1544  1771    1    -1.15 +-    1.29 SL   4.00 RR       1.43  F F --R-- dL1,2     0    0 dL12     -2.05     0.37 Fits    3.9   2.2   0.9   8.0
+  37  3  PRN 06  1772  1819    1    -0.93 +-    1.19 SL   4.00 RR       1.31  F F --R-- dL1,2     0    0 dL12     -1.66     1.57 Fits   18.0   1.7  16.3   0.2
+BIAS FLAG REPORT: Type  FLOAT07 
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FLOAT07 
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FLOAT07 
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FLOAT07 
+  12  2  PRN 13     656    1552    3       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FLOAT07 
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FLOAT07 
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FLOAT07 
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FLOAT07 
+  16  2  PRN 26    2280    2594    3       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FLOAT07 
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FLOAT07 
+  18  3  PRN 04     676    1054    1    -10816922.0     -8452210.0    17     2     1 WL Res +-     0.150     0.376     0.032     0.025  FLOAT07 
+  19  3  PRN 04    1086    1315    3    -10816933.0     -8452216.0    17     2     1 WL Res +-     0.358     0.660    -0.020     0.024  FLOAT07 
+  20  3  PRN 04    1533    1929    1    -10816923.0     -8452220.0    28     5     2 WL Res +-    -0.336     0.496    -0.130     0.145  FLOAT07 
+  21  3  PRN 04    1957    2163    3    -10816922.0     -8452224.0    23    11    10 WL Res +-     1.044     1.100     0.118     0.071  FLOAT07 
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FLOAT07 
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FLOAT07 
+  24  3  PRN 13    1084    1281    3    -16944340.0    -13223313.0    17     4     1 WL Res +-     0.734     1.042     0.029     0.047  FLOAT07 
+  25  3  PRN 30     676     984    1    -16664803.0    -12995322.0    23     5     3 WL Res +-     1.294     1.034     0.086     0.035  FLOAT07 
+  26  3  PRN 30    1071    1447    3    -16664810.0    -12995323.0    19     5     2 WL Res +-     0.652     0.657     0.378     0.043  FLOAT07 
+  27  3  PRN 30    1574    1753    1    -16664863.0    -12995325.0    17     5     1 WL Res +-     0.526     0.559     0.024     0.045  FLOAT07 
+  28  3  PRN 30    1754    1813    1    -16664862.0    -12995325.0    36     7     5 WL Res +-    -0.373     0.303    -0.014     0.078  FLOAT07 
+  29  3  PRN 30    1814    1915    1    -16664863.0    -12995325.0    37     7     5 WL Res +-     0.156     0.263    -0.088     0.071  FLOAT07 
+  30  3  PRN 30    1936    2161    3    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FLOAT07 
+  31  3  PRN 29     676    1057    1    -23519189.0    -18281185.0    18     6     2 WL Res +-     0.432     0.667     0.420     0.063  FLOAT07 
+  32  3  PRN 29    1454    1507    1    -23519172.0    -18281163.0    35    15    14 WL Res +-     0.628     0.657     0.057     0.056  FLOAT07 
+  33  3  PRN 29    1508    2330    3    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FLOAT07 
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  FLOAT07 
+  35  3  PRN 06    1071    1543    3    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FLOAT07 
+  36  3  PRN 06    1544    1771    1    -20022727.0    -15581076.0    17    15     9 WL Res +-     0.369     0.396     0.222     0.079  FLOAT07 
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     1.570     0.389     0.014     0.037  FLOAT07 
+  38  3  PRN 06    1937    2330    3    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FLOAT07 
+POSITION ANALYSIS BASED ON FLOAT07 
+Kinematic site mit1 appears static  Coordinate RMS XYZ   0.00  0.00  0.00 m,  Apriori coordinates bad: Diff XYZ  -2.51 -0.02  0.92 m
+Initial coordinates of mit1 are XYZ     1530275.103   -4465380.380    4275216.691 m
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ     13.69    20.49    25.47 m. 
+Initial coordinates of rovr are XYZ     1530295.808   -4465338.704    4275227.501 m at Epoch      748
+BIAS FLAG REPORT: Type  FINAL
+. #   Site  PRN   Start   Stop  Fixd      L1 cycles      L2 cycles      DD Bias Refs           Mean MW-WL     +-     Mean Ion     +-    FINAL
+   1  1  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   2  1  PRN 04     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   3  1  PRN 10     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   4  1  PRN 13     656    1597    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   5  1  PRN 30     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   6  1  PRN 29     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   7  1  PRN 06     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   8  1  PRN 26    2280    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+   9  2  PRN 02     656    2594    3            0.0            0.0     0     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+  10  2  PRN 04     656    2594    3       -51414.0       -49476.0     9     2     1 WL Res +-     0.192     0.224    -0.006     0.020  FINAL
+  11  2  PRN 10     656    2594    3        43563.0        34836.0     9     3     1 WL Res +-     0.177     0.191    -0.002     0.009  FINAL
+  12  2  PRN 13     656    1552    3       -52029.0       -47599.0     9     4     1 WL Res +-     0.202     0.477    -0.004     0.047  FINAL
+  13  2  PRN 30     656    2594    3       -22764.0       -21068.0     9     5     1 WL Res +-     0.235     0.384    -0.022     0.026  FINAL
+  14  2  PRN 29     656    2594    3       517640.0       423134.0     9     6     1 WL Res +-     0.270     0.370    -0.034     0.018  FINAL
+  15  2  PRN 06     656    2594    3        97926.0        79174.0     9     7     1 WL Res +-     0.175     0.305     0.003     0.024  FINAL
+  16  2  PRN 26    2280    2594    3       183374.0        79077.0     9     8     1 WL Res +-     0.611     0.408    -0.009     0.029  FINAL
+  17  3  PRN 02     676    2330    3            0.0            0.0    -1     0     0 WL Res +-     0.000     0.000     0.000     0.000  FINAL
+  18  3  PRN 04     676    1054    1    -10816922.0     -8452210.0    17     2     1 WL Res +-     0.150     0.376     0.032     0.025  FINAL
+  19  3  PRN 04    1086    1315    3    -10816933.0     -8452216.0    17     2     1 WL Res +-     0.358     0.660    -0.020     0.024  FINAL
+  20  3  PRN 04    1533    1929    1    -10816923.0     -8452220.0    28     5     2 WL Res +-    -0.336     0.496    -0.130     0.145  FINAL
+  21  3  PRN 04    1957    2163    3    -10816922.0     -8452224.0    23    11    10 WL Res +-     1.044     1.100     0.118     0.071  FINAL
+  22  3  PRN 04    2237    2330    3    -10816936.0     -8452224.0    17    10     9 WL Res +-    -0.130     0.895     0.040     0.019  FINAL
+  23  3  PRN 10     676    2330    3     -1327296.0     -1022455.0    17     3     1 WL Res +-    -0.522     0.210    -0.013     0.011  FINAL
+  24  3  PRN 13    1084    1281    3    -16944340.0    -13223313.0    17     4     1 WL Res +-     0.734     1.042     0.029     0.047  FINAL
+  25  3  PRN 30     676     984    1    -16664803.0    -12995322.0    23     5     3 WL Res +-     1.294     1.034     0.086     0.035  FINAL
+  26  3  PRN 30    1071    1447    3    -16664810.0    -12995323.0    19     5     2 WL Res +-     0.652     0.657     0.378     0.043  FINAL
+  27  3  PRN 30    1574    1753    1    -16664863.0    -12995325.0    17     5     1 WL Res +-     0.526     0.559     0.024     0.045  FINAL
+  28  3  PRN 30    1754    1813    1    -16664862.0    -12995325.0    36     7     5 WL Res +-    -0.373     0.303    -0.014     0.078  FINAL
+  29  3  PRN 30    1814    1915    1    -16664863.0    -12995325.0    37     7     5 WL Res +-     0.156     0.263    -0.088     0.071  FINAL
+  30  3  PRN 30    1936    2161    3    -16664871.0    -12995331.0    17    13     9 WL Res +-     0.000     0.734     0.061     0.041  FINAL
+  31  3  PRN 29     676    1057    1    -23519189.0    -18281185.0    18     6     2 WL Res +-     0.432     0.667     0.420     0.063  FINAL
+  32  3  PRN 29    1454    1507    1    -23519172.0    -18281163.0    35    15    14 WL Res +-     0.628     0.657     0.057     0.056  FINAL
+  33  3  PRN 29    1508    2330    3    -23519172.0    -18281162.0    23     6     3 WL Res +-     0.736     0.389     0.007     0.024  FINAL
+  34  3  PRN 06     676    1040    1    -20022748.0    -15581075.0    17    15     9 WL Res +-    -0.254     0.585    -0.009     0.033  FINAL
+  35  3  PRN 06    1071    1543    3    -20022726.0    -15581076.0    17    15     9 WL Res +-    -0.308     0.384     0.002     0.042  FINAL
+  36  3  PRN 06    1544    1771    1    -20022727.0    -15581076.0    17    15     9 WL Res +-     0.369     0.396     0.222     0.079  FINAL
+  37  3  PRN 06    1772    1819    1    -20022726.0    -15581076.0    23    15    11 WL Res +-     1.570     0.389     0.014     0.037  FINAL
+  38  3  PRN 06    1937    2330    3    -20022746.0    -15581076.0    17     7     1 WL Res +-    -0.292     0.543     0.009     0.019  FINAL
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+ Creating track.NEU.mit1.LC
+ Creating track.NEU.rovr.LC
+BF_FLOAT   29   1813  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.243      0.602
+BF_FLOAT   37   1771  3 PRN 06    1772   1819   1  Estimated Adjust. (m)      0.721      0.512
+BF_FLOAT   28   1753  3 PRN 30    1754   1813   1  Estimated Adjust. (m)      0.723      0.393
+BF_FLOAT   27   1573  3 PRN 30    1574   1753   1  Estimated Adjust. (m)      0.490      0.180
+BF_FLOAT   36   1543  3 PRN 06    1544   1771   1  Estimated Adjust. (m)      0.652      0.187
+BF_FLOAT   20   1532  3 PRN 04    1533   1929   1  Estimated Adjust. (m)      0.008      0.024
+BF_FLOAT   32   1453  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.000      0.979
+BF_FLOAT   18    675  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.309      0.083
+BF_FLOAT   25    675  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.349      0.160
+BF_FLOAT   31    675  3 PRN 29     676   1057   1  Estimated Adjust. (m)     -0.147      0.153
+BF_FLOAT   34    675  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.370      0.212
+There are  2 kinematic sites in this analysis;    6 parameters per epoch to be estimated
+BF_FLOAT   25    985  3 PRN 30     676    984   1  Estimated Adjust. (m)     -0.272      0.196
+BF_FLOAT   34   1041  3 PRN 06     676   1040   1  Estimated Adjust. (m)      0.369      0.212
+BF_FLOAT   18   1055  3 PRN 04     676   1054   1  Estimated Adjust. (m)      0.308      0.083
+BF_FLOAT   31   1058  3 PRN 29     676   1057   1  Estimated Adjust. (m)     -0.147      0.153
+BF_FLOAT   32   1508  3 PRN 29    1454   1507   1  Estimated Adjust. (m)      0.000      0.997
+BF_FLOAT   27   1754  3 PRN 30    1574   1753   1  Estimated Adjust. (m)     -0.313      0.127
+BF_FLOAT   36   1772  3 PRN 06    1544   1771   1  Estimated Adjust. (m)     -0.216      0.138
+BF_FLOAT   28   1814  3 PRN 30    1754   1813   1  Estimated Adjust. (m)     -0.091      0.117
+BF_FLOAT   37   1820  3 PRN 06    1772   1819   1  Estimated Adjust. (m)     -0.175      0.127
+BF_FLOAT   29   1916  3 PRN 30    1814   1915   1  Estimated Adjust. (m)      0.047      0.102
+BF_FLOAT   20   1930  3 PRN 04    1533   1929   1  Estimated Adjust. (m)      0.008      0.024
+SITE     mit1 Average XYZ from     2594 epochs  1530275.3622-4465380.3555 4275216.7111 m
+SITE     rovr Average XYZ from      675 epochs  1530277.6112-4465380.3580 4275215.7693 m
+     mit1   1530275.103 -4465380.380  4275216.691  STATIC Position from   1939 epochs
+     rovr   1530295.762 -4465338.480  4275227.298  STATIC Position from    328 epochs
+TRACK Residual statistics for Analysis LC              
+STATISTICS BY PRN for site mit1 DataTypes LC              
+TYPE     Site  DT    ALL    02    04    06    10    13    26    29    30
+PMEAN     mit1 LC    0.0   0.1  -0.7  -0.2  -0.1   1.2   2.5   0.2  -0.2
+RRMS      mit1 LC    7.1   4.8   8.2   8.5   5.3  10.1   7.2   5.1   7.3
+PNUM      mit1 LC  12846  1939  1939  1939  1939   897   315  1939  1939
+STATISTICS BY PRN for site rovr DataTypes LC              
+TYPE     Site  DT    ALL    02    04    06    10    13    26    29    30
+PMEAN     rovr LC    0.0   1.1  -0.2   0.1  -1.0  -1.3   3.6  -0.2  -0.2
+RRMS      rovr LC   11.6  12.5  10.0  12.8  12.7  22.5   7.1   6.7  11.0
+PNUM      rovr LC  10824  1939  1591  1792  1939   218   264  1543  1538
+STATISTICS BY Elevation for site mit1 DataTypes LC              
+TYPE     Site  DT      00-05 05-10 10-15 15-20 20-25 25-30 30-35 35-40 40-45 45-50 50-55 55-60 60-65 65-70 70-75 75-80 80-85 85-90
+EMEAN     mit1 LC        0.0   0.0   1.8  -0.8   1.9  -2.3   1.7   4.9   0.0   0.0   0.0   0.0   0.4  -0.6  -1.3   1.8  -0.3   0.0
+ERMS      mit1 LC        0.0   0.0   8.5   7.1   6.5   9.6   6.8   7.7   0.0   0.0   0.0   0.0   4.6   5.0   5.5   6.1   3.8   0.0
+ENUM      mit1 LC          0     0   734  2888  1658  2198  1390   100     0     0     0     0   511  1040   600   824   903     0
+STATISTICS BY Elevation for site rovr DataTypes LC              
+TYPE     Site  DT      00-05 05-10 10-15 15-20 20-25 25-30 30-35 35-40 40-45 45-50 50-55 55-60 60-65 65-70 70-75 75-80 80-85 85-90
+EMEAN     rovr LC        0.0   0.0   0.2  -0.7   1.0  -1.3   0.9   4.9   0.0   0.0   0.0   0.0  -1.7   2.7  -1.0  -0.7  -0.7   0.0
+ERMS      rovr LC        0.0   0.0   6.9  11.7  10.8  13.3   7.7   7.7   0.0   0.0   0.0   0.0  20.6   8.7   5.0  11.5  15.0   0.0
+ENUM      rovr LC          0     0   619  1494  1567  1924  1242   100     0     0     0     0   511  1040   600   824   903     0

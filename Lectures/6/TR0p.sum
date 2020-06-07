@@ -1,0 +1,91 @@
+SUMMARY FILE: Track Vers 1.23 Run 2010/05/02 12:13
+BATCH FILE: track.cmd RunDay   RunWeek  
+ STRING Options                    
+
+TRACK SETUP PARAMETERS
+----------------------
+Batch File             : track.cmd
+SP3 File               : igu15773_12.sp3
+SUMMARY File           : TR0p.sum
+Rinex files            : mit0  Type STATIC      mit00900.10o
+Rinex files            : rovr  Type KINEMATIC   rovr0900.10o
+SEARCH TYPE            : NONE
+FLOAT TYPE             : LC Start Iter  1 Sample   1 Limits  1.00 1.00 WL/LG SCALES  1.00 1.00 MAX Fit   25.0
+DATA ANALYSIS TYPES    : P1+P2
+Data Noise L1,L2,P1,P2 GENERIC:   0.0030  0.0030    1.00    1.00 m, Weight  0.50
+Postion output sigma limit    :   1000.000 m.
+Elevation angle cutoff        :     10.000 deg.
+MTT Mapping function and seasonal model used
+Process noise time unit: per sqrt(epoch)
+SITE STOCHASTIC PROPERTIES
+SITE Type         Apriori XYZ (m)        XYZ Process noise (m/Re) Atm Stats (m,m/Re) Hgt m/(m/s)
+mit0    F                                                           0.000  0.00000  0.00000
+rovr    K    4.472    4.472    4.472     4.472    4.472    4.472    0.000  0.00000  0.00000
+SITE   ARP N    ARP E    APR U (m) dL1 N    dL1 E    dL1 U     dL2 N    dL2 E    dL2 U     Antenna               PCV  #El #Az
+mit0   0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    NONE                       0   0
+rovr   0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    NONE                       0   0
+
+Ambiquity Search, Samples :  20 Relative Rank   20.0 Maximum Search  1000000
+IONOSPHERE CHARACTERIZATION:
+ION JUMP      0.50 cycles; ION PPM   1.00 ppm; ION Weight   0.01
+ION Height   350.0 km, ION Correlation length    300.0 km, ION correlated variance      6.80 cycles**2
+New Bias introduced for gaps larger than   1 epochs. Minimum Good data    20 epochs
+Data editing if RMS greater than  3.00 data sigmas
+MW-WL Jump limit    5.00 cycles
+SP3 File igu15773_12.sp3 contains  32 satellites at   192 epochs
+
+BIAS FLAG REPORT: Type  FINAL
+.  # Site  S  PRN      Start    Stop Fixd      L1 cycles      L2 cycles      DD Bias Refs        MW-WL      +-       EX-WL      +-    FINAL
+   1 mit0  1  PRN 02       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   2 mit0  1  PRN 08       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   3 mit0  1  PRN 15       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   4 mit0  1  PRN 10       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   5 mit0  1  PRN 05       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   6 mit0  1  PRN 29       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   7 mit0  1  PRN 18       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   8 mit0  1  PRN 21       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   9 mit0  1  PRN 24       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+  10 mit0  1  PRN 26    1114    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+  11 rovr  2  PRN 02       7    1348   03       473052.0       380207.0    12     2     1 WL     0.098     0.361     0.018     0.032  FINAL
+  12 rovr  2  PRN 08       1    1365   03            0.0            0.0    -1     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+  13 rovr  2  PRN 15       7    1311   03      -127600.0      -115816.0    11     3     1 WL     0.013     0.305     0.001     0.021  FINAL
+  14 rovr  2  PRN 15    1317    1365   03      -127600.0      -115816.0    16     5     3 WL    -0.196     0.675     0.003     0.047  FINAL
+  15 rovr  2  PRN 10       7    1350   03       429174.0       341420.0    11     4     1 WL    -0.019     0.344     0.006     0.026  FINAL
+  16 rovr  2  PRN 05       1    1365   03       307870.0       239666.0    11     5     1 WL     0.031     0.293     0.002     0.023  FINAL
+  17 rovr  2  PRN 29       6     692   03       221690.0       181378.0    13     6     3 WL     0.030     0.402     0.012     0.031  FINAL
+  18 rovr  2  PRN 29     696    1304   03       221690.0       181378.0    16     6     5 WL     0.031     0.406    -0.002     0.027  FINAL
+  19 rovr  2  PRN 18      67     116   03      -319603.0      -254215.0    16     7     5 WL    -0.434     0.402    -0.056     0.028  FINAL
+  20 rovr  2  PRN 18     150     211   03      -319595.0      -254208.0    13     7     3 WL    -0.123     0.746    -0.084     0.043  FINAL
+  21 rovr  2  PRN 18     721     748   03     -2136508.0      -797362.0    12     7     2 WL    -0.301     0.505     0.041     0.055  FINAL
+  22 rovr  2  PRN 18     772     974   03     -2304619.0      -815858.0    13     7     3 WL    -0.019     0.411    -0.019     0.036  FINAL
+  23 rovr  2  PRN 18     978    1307   03     -2304619.0      -815858.0    13     7     3 WL    -0.127     0.484    -0.029     0.052  FINAL
+  24 rovr  2  PRN 21     248    1315   03      -971793.0      -769090.0    13     8     3 WL     0.102     0.357    -0.012     0.031  FINAL
+  25 rovr  2  PRN 21    1342    1365   03      -971793.0      -769090.0    16     8     5 WL     0.165     0.486    -0.057     0.042  FINAL
+  26 rovr  2  PRN 24     229     692   03      -445912.0      -345109.0    13     9     3 WL    -0.040     0.437    -0.006     0.046  FINAL
+  27 rovr  2  PRN 24     697    1315   03      -445912.0      -345109.0    13     9     3 WL    -0.057     0.419    -0.012     0.038  FINAL
+  28 rovr  2  PRN 24    1325    1365   03      -445912.0      -345109.0    15     9     4 WL     0.151     0.472    -0.003     0.058  FINAL
+  29 rovr  2  PRN 26    1114    1151   03       -72760.0        15321.0    13    10     3 WL    -0.033     0.525    -0.071     0.063  FINAL
+
+Position Estimates and Adjustments  at epoch
+SITE      X (m)        dX      +-        Y (m)        dX      +-        Z (m)        dX      +-      Lat (deg)       dN (m)   +-    Long (deg)       dE (m)    +-   Height (m)    dH      +- 
+mit0  1529212.6400   0.0000  0.0000 -4465745.4400   0.0000  0.0000  4275073.9800   0.0000  0.0000    42.357913067   0.0000  0.0000  288.902827649   0.0000  0.0000    13.4909   0.0000  0.0000
+STATIC rovr PT00001 2010  3 31 14 56   45.0 to  15 19  28.0 LLH    42.357866746  288.902851584    12.8847  +-  0.000004660 0.000003488 deg   0.0229 (m), Num  1363
+rovr  1529214.3134  -0.0358  1.0288 -4465744.9810   0.1468  1.5582  4275073.2453  -0.0880  4.3953    42.357907525   0.0363  2.5765  288.902848670   0.0136  0.7782    13.0756  -0.1705  3.9448
+
+TRACK Residual statistics for Analysis P1+P2           
+STATISTICS BY PRN for site rovr DataTypes P1+P2           
+TYPE     Site  DT    ALL    02    05    08    10    15    18    21    24    26    29
+PMEAN     rovr P1    0.0  -8.3 -10.3 -13.8-104.4 -71.2 174.9 161.1 -63.1-264.8  52.7
+PMEAN     rovr P2    0.0  54.1  50.3 -81.3 138.8  11.7-280.5 -12.0 -11.8 342.1 -23.6
+RRMS      rovr P1  358.4 329.9 253.9 399.7 394.5 257.0 412.3 369.9 360.4 605.9 348.7
+RRMS      rovr P2  358.4 314.9 261.6 363.0 373.3 268.9 387.9 436.4 387.7 278.7 328.4
+PNUM      rovr P1  10993  1342  1365  1365  1344  1354   673  1092  1124    38  1296
+PNUM      rovr P2  10993  1342  1365  1365  1344  1354   673  1092  1124    38  1296
+STATISTICS BY Elevation for site rovr DataTypes P1+P2           
+TYPE     Site  DT      00-05 05-10 10-15 15-20 20-25 25-30 30-35 35-40 40-45 45-50 50-55 55-60 60-65 65-70 70-75 75-80 80-85 85-90
+EMEAN     rovr P1        0.0   0.0  62.5  41.2 -78.5  22.3   6.7-198.7  11.2  32.5  -4.1   0.0 -68.9 -86.9 -24.9   0.0   0.0   0.0
+EMEAN     rovr P2        0.0   0.0-141.4-137.9 106.6  23.4  27.6 -19.5   5.7  18.6   9.1   0.0   2.9  49.4 -88.3   0.0   0.0   0.0
+ERMS      rovr P1        0.0   0.0 554.3 407.5 390.4 368.5 368.9 185.2 337.4 321.3 234.5   0.0 247.5 233.4 345.6   0.0   0.0   0.0
+ERMS      rovr P2        0.0   0.0 516.2 375.0 358.3 401.5 360.6 702.0 338.6 308.7 240.1   0.0 256.9 239.1 362.2   0.0   0.0   0.0
+ENUM      rovr P1          0     0   150  1926  1362  2380  1158     2   400  1612   649     0   580   599   175     0     0     0
+ENUM      rovr P2          0     0   150  1926  1362  2380  1158     2   400  1612   649     0   580   599   175     0     0     0

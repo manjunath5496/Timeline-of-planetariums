@@ -1,0 +1,364 @@
+
+ TRACK Version 1.23 GPS Kinematic trajectory program
+ Running with batch file: track.cmd
+ DAY and WEEK Options    
+ STRING       Options                    
+SP3c version file
+*    32 satellites, at  192 epochs found in igu15773_12.sp3
+*   192 entries had no clock values
+Blk Numbers:  PRN01  6 PRN02  5 PRN03  3 PRN04  3 PRN05  6 PRN06  3 PRN07  6 PRN08  3
+Blk Numbers:  PRN09  3 PRN10  3 PRN11  4 PRN12  6 PRN13  4 PRN14  4 PRN15  6 PRN16  4
+Blk Numbers:  PRN17  6 PRN18  4 PRN19  5 PRN20  4 PRN21  4 PRN22  5 PRN23  5 PRN24  3
+Blk Numbers:  PRN25  3 PRN26  3 PRN27  3 PRN28  4 PRN29  6 PRN30  3 PRN31  6 PRN32  3
+Initial site positions and baseline lengths
+Sites   1 mit0    1529212.6400   -4465745.4400    4275073.9800
+Sites   2 rovr    1529212.6400   -4465745.4400    4275073.9800
+Baseline lengths from mit0
+rovr-mit0        0.000 m
+**WARNING** Interval from RX files is zero, using   1.00 s user interval
+Starting epoch count for MJD   55286.62273148 Start seconds      140204.00000007
+For site mit0 last epoch found   1381
+Found 11 PRNS -> 02 08 15 10 05 29 18 21 24 27 26
+Maxiumum epoch errors: Seen    0.0029 sec, and Used   0.0029 sec
+For site rovr last epoch found   1365
+Found 11 PRNS -> 02 08 15 10 05 29 18 21 24 27 26
+Maxiumum epoch errors: Seen    0.0086 sec, and Used   0.0086 sec
+
+TRACK SETUP PARAMETERS
+----------------------
+Batch File             : track.cmd
+SP3 File               : igu15773_12.sp3
+SUMMARY File           : TR02.sum
+Rinex files            : mit0  Type STATIC      mit00900.10o
+Rinex files            : rovr  Type KINEMATIC   rovr0900.10o
+SEARCH TYPE            : NONE
+FLOAT TYPE             : LC Start Iter  1 Sample   1 Limits  1.00 1.00 WL/LG SCALES  1.00 1.00 MAX Fit   25.0
+DATA ANALYSIS TYPES    : LC
+DATA ANALYSIS TYPES    : L1+L2
+Data Noise L1,L2,P1,P2 GENERIC:   0.0030  0.0030    1.00    1.00 m, Weight  0.50
+Postion output sigma limit    :   1000.000 m.
+Elevation angle cutoff        :     10.000 deg.
+MTT Mapping function and seasonal model used
+Process noise time unit: per sqrt(epoch)
+SITE STOCHASTIC PROPERTIES
+SITE Type         Apriori XYZ (m)        XYZ Process noise (m/Re) Atm Stats (m,m/Re) Hgt m/(m/s)
+mit0    F                                                           0.000  0.00000  0.00000
+rovr    K    4.472    4.472    4.472     4.472    4.472    4.472    0.000  0.00000  0.00000
+SITE   ARP N    ARP E    APR U (m) dL1 N    dL1 E    dL1 U     dL2 N    dL2 E    dL2 U     Antenna               PCV  #El #Az
+mit0   0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    NONE                       0   0
+rovr   0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    0.0000   0.0000   0.0000    NONE                       0   0
+
+Ambiquity Search, Samples :  20 Relative Rank   20.0 Maximum Search  1000000
+IONOSPHERE CHARACTERIZATION:
+ION JUMP      0.50 cycles; ION PPM   1.00 ppm; ION Weight   0.01
+ION Height   350.0 km, ION Correlation length    300.0 km, ION correlated variance      6.80 cycles**2
+New Bias introduced for gaps larger than   1 epochs. Minimum Good data    20 epochs
+Data editing if RMS greater than  3.00 data sigmas
+MW-WL Jump limit    5.00 cycles
+SP3 File igu15773_12.sp3 contains  32 satellites at   192 epochs
+
+There are   1365 epochs to last ending time MJD   55286.63851852
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+POSITION ANALYSIS BASED ON PC range
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ      6.22    15.66    14.23 m. 
+Initial coordinates of rovr are XYZ     1529212.683   -4465745.349    4275073.926 m at Epoch        1
+Checking OW Widelanes
+MilliSec WL Jump Epoch      9 Site rovr SVS  2 Res   0.41 Total 1739100.41      0.00 cyc
+MilliSec WL Jump Epoch      9 Site rovr SVS  8 Res   0.23 Total 1739099.77      0.00 cyc
+MilliSec WL Jump Epoch      9 Site rovr SVS 15 Res   0.23 Total 1739100.23      0.00 cyc
+MilliSec WL Jump Epoch      9 Site rovr SVS 10 Res   0.15 Total 1739100.15      0.00 cyc
+MilliSec WL Jump Epoch      9 Site rovr SVS  5 Res   0.52 Total 1739100.52      0.00 cyc
+MilliSec WL Jump Epoch      9 Site rovr SVS 29 Res   0.20 Total 1739099.80      0.00 cyc
+Marking OW EX-WL slip at epoch    721 2010 03 31 15 08 44.0 Site rovr PRN 18 Size     -1119864.22 Cycles
+Marking OW MW-WL slip at epoch    721 2010 03 31 15 08 44.0 Site rovr PRN 18 Size      1273759.00 Cycles
+Marking OW EX-WL slip at epoch    772 2010 03 31 15 09 35.0 Site rovr PRN 18 Size      -144374.42 Cycles
+Marking OW MW-WL slip at epoch    772 2010 03 31 15 09 35.0 Site rovr PRN 18 Size       149615.43 Cycles
+Removing short segments of data
+BIAS Set for PRN08 Site rovr Duration     1364 epochs, BF #   12
+BIAS FLAG REPORT: Type  INITIAL
+.  # Site  S  PRN      Start    Stop Fixd      L1 cycles      L2 cycles      DD Bias Refs        MW-WL      +-       EX-WL      +-    INITIAL
+   1 mit0  1  PRN 02       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   2 mit0  1  PRN 08       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   3 mit0  1  PRN 15       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   4 mit0  1  PRN 10       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   5 mit0  1  PRN 05       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   6 mit0  1  PRN 29       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   7 mit0  1  PRN 18       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   8 mit0  1  PRN 21       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+   9 mit0  1  PRN 24       1    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+  10 mit0  1  PRN 26    1114    1365   01            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+  11 rovr  2  PRN 02       7    1348   01       473052.0       380207.0    12     2     1 WL     0.098     0.361     0.018     0.032  INITIAL
+  12 rovr  2  PRN 08       1    1365   01            0.0            0.0    -1     0     0 WL     0.000     0.000     0.000     0.000  INITIAL
+  13 rovr  2  PRN 15       7    1311   01      -127600.0      -115816.0    11     3     1 WL     0.013     0.305     0.001     0.021  INITIAL
+  14 rovr  2  PRN 15    1317    1365   01      -127600.0      -115816.0    16     5     3 WL    -0.196     0.675     0.003     0.047  INITIAL
+  15 rovr  2  PRN 10       7    1350   01       429174.0       341420.0    11     4     1 WL    -0.019     0.344     0.006     0.026  INITIAL
+  16 rovr  2  PRN 05       1    1365   01       307870.0       239666.0    11     5     1 WL     0.031     0.293     0.002     0.023  INITIAL
+  17 rovr  2  PRN 29       6     692   01       221690.0       181378.0    13     6     3 WL     0.030     0.402     0.012     0.031  INITIAL
+  18 rovr  2  PRN 29     696    1304   01       221690.0       181378.0    16     6     5 WL     0.031     0.406    -0.002     0.027  INITIAL
+  19 rovr  2  PRN 18      67     116   01      -319603.0      -254215.0    16     7     5 WL    -0.434     0.402    -0.056     0.028  INITIAL
+  20 rovr  2  PRN 18     150     211   01      -319595.0      -254208.0    13     7     3 WL    -0.123     0.746    -0.084     0.043  INITIAL
+  21 rovr  2  PRN 18     721     748   01     -2136508.0      -797362.0    12     7     2 WL    -0.301     0.505     0.041     0.055  INITIAL
+  22 rovr  2  PRN 18     772     974   01     -2304619.0      -815858.0    13     7     3 WL    -0.019     0.411    -0.019     0.036  INITIAL
+  23 rovr  2  PRN 18     978    1307   01     -2304619.0      -815858.0    13     7     3 WL    -0.127     0.484    -0.029     0.052  INITIAL
+  24 rovr  2  PRN 21     248    1315   01      -971793.0      -769090.0    13     8     3 WL     0.102     0.357    -0.012     0.031  INITIAL
+  25 rovr  2  PRN 21    1342    1365   01      -971793.0      -769090.0    16     8     5 WL     0.165     0.486    -0.057     0.042  INITIAL
+  26 rovr  2  PRN 24     229     692   01      -445912.0      -345109.0    13     9     3 WL    -0.040     0.437    -0.006     0.046  INITIAL
+  27 rovr  2  PRN 24     697    1315   01      -445912.0      -345109.0    13     9     3 WL    -0.057     0.419    -0.012     0.038  INITIAL
+  28 rovr  2  PRN 24    1325    1365   01      -445912.0      -345109.0    15     9     4 WL     0.151     0.472    -0.003     0.058  INITIAL
+  29 rovr  2  PRN 26    1114    1151   01       -72760.0        15321.0    13    10     3 WL    -0.033     0.525    -0.071     0.063  INITIAL
+
+Starting FLOAT iteration at   1
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+BF_FLOAT: Ambiguities added   18 parameters
+BF_FLOAT     11    1365 rovr PRN 02       7   1348 01 NP   4 Estimated Adjust. (m)      0.123      0.086
+BF_FLOAT     13    1365 rovr PRN 15       7   1311 01 NP   5 Estimated Adjust. (m)      0.206      0.149
+BF_FLOAT     14    1365 rovr PRN 15    1317   1365 01 NP   6 Estimated Adjust. (m)      0.234      0.149
+BF_FLOAT     15    1365 rovr PRN 10       7   1350 01 NP   7 Estimated Adjust. (m)      0.030      0.019
+BF_FLOAT     16    1365 rovr PRN 05       1   1365 01 NP   8 Estimated Adjust. (m)      0.100      0.062
+BF_FLOAT     17    1365 rovr PRN 29       6    692 01 NP   9 Estimated Adjust. (m)      0.180      0.148
+BF_FLOAT     18    1365 rovr PRN 29     696   1304 01 NP  10 Estimated Adjust. (m)      0.150      0.148
+BF_FLOAT     19    1365 rovr PRN 18      67    116 01 NP  11 Estimated Adjust. (m)      0.083      0.118
+BF_FLOAT     20    1365 rovr PRN 18     150    211 01 NP  12 Estimated Adjust. (m)      0.107      0.116
+BF_FLOAT     21    1365 rovr PRN 18     721    748 01 NP  13 Estimated Adjust. (m)      0.002      0.108
+BF_FLOAT     22    1365 rovr PRN 18     772    974 01 NP  14 Estimated Adjust. (m)      0.029      0.106
+BF_FLOAT     23    1365 rovr PRN 18     978   1307 01 NP  15 Estimated Adjust. (m)      0.028      0.103
+BF_FLOAT     24    1365 rovr PRN 21     248   1315 01 NP  16 Estimated Adjust. (m)      0.008      0.076
+BF_FLOAT     25    1365 rovr PRN 21    1342   1365 01 NP  17 Estimated Adjust. (m)      0.137      0.095
+BF_FLOAT     26    1365 rovr PRN 24     229    692 01 NP  18 Estimated Adjust. (m)      0.017      0.077
+BF_FLOAT     27    1365 rovr PRN 24     697   1315 01 NP  19 Estimated Adjust. (m)      0.013      0.077
+BF_FLOAT     28    1365 rovr PRN 24    1325   1365 01 NP  20 Estimated Adjust. (m)      0.136      0.095
+BF_FLOAT     29    1365 rovr PRN 26    1114   1151 01 NP  21 Estimated Adjust. (m)      0.127      0.125
+For   5544 Double differences: Average RMS      12.01 mm
+* BF Site  PRN        Epoch Range     F     Estimate dLC       SigLim Relative Rank  Fix Fcode Change   L1   L2 Residual  L1       L2   Fits   Best    LC    WL    LG
+  15 rovr  PRN 10       7    1350    11     0.16 +-    0.18 SL   1.00 RR    4580.32  F F ----O dL1,2     0    0 dL12      0.28    -0.02 Fits    1.1   1.0   0.0   0.1
+  16 rovr  PRN 05       1    1365    11     0.52 +-    0.58 SL   1.00 RR    2231.83  F F ----O dL1,2     0    0 dL12      0.93     0.03 Fits    1.9   1.9   0.0   0.0
+  24 rovr  PRN 21     248    1315    11     0.04 +-    0.71 SL   1.00 RR   35513.85  F F ----O dL1,2     0    0 dL12      0.07     0.10 Fits    0.3   0.0   0.1   0.2
+  26 rovr  PRN 24     229     692    11     0.09 +-    0.72 SL   1.00 RR  149343.40  F F ----O dL1,2     0    0 dL12      0.16    -0.04 Fits    0.1   0.0   0.0   0.0
+  27 rovr  PRN 24     697    1315    11     0.07 +-    0.72 SL   1.00 RR   58399.07  F F ----O dL1,2     0    0 dL12      0.12    -0.06 Fits    0.1   0.0   0.0   0.1
+  11 rovr  PRN 02       7    1348    03     0.65 +-    0.80 SL   1.00 RR     364.94  T T ----- dL1,2     0    0 dL12      1.15     0.10 Fits    2.1   1.7   0.1   0.3
+  13 rovr  PRN 15       7    1311    03    -0.04 +-    0.14 SL   1.00 RR 1228746.90  T T ----- dL1,2     0    0 dL12     -0.08     0.01 Fits    0.1   0.1   0.0   0.0
+  17 rovr  PRN 29       6     692    03    -0.05 +-    0.10 SL   1.00 RR   36305.86  T T ----- dL1,2     0    0 dL12     -0.10     0.03 Fits    0.4   0.3   0.0   0.2
+  18 rovr  PRN 29     696    1304    11    -0.14 +-    0.02 SL   1.00 RR     480.37  F F ----O dL1,2     0    0 dL12     -0.25     0.03 Fits    5.1   5.1   0.0   0.0
+  23 rovr  PRN 18     978    1307    01    -0.26 +-    0.03 SL   1.00 RR       5.20  F F --R-- dL1,2     0    0 dL12     -0.46    -0.13 Fits   13.8  13.4   0.1   0.3
+  22 rovr  PRN 18     772     974    01    -0.28 +-    0.04 SL   1.00 RR      10.20  F F --R-- dL1,2     0    0 dL12     -0.49    -0.02 Fits   14.3  14.1   0.0   0.3
+  20 rovr  PRN 18     150     211    03     0.07 +-    0.07 SL   1.00 RR     153.02  T T ----- dL1,2     0    0 dL12      0.13    -0.12 Fits    4.6   0.6   0.0   3.9
+  21 rovr  PRN 18     721     748    01    -0.43 +-    0.08 SL   1.00 RR       1.42  F F --R-- dL1,2     0    0 dL12     -0.76    -0.30 Fits   20.8  19.9   0.4   0.6
+  19 rovr  PRN 18      67     116    11    -0.06 +-    0.08 SL   1.00 RR     126.67  F F ----O dL1,2     0    0 dL12     -0.10    -0.43 Fits    5.5   0.3   1.2   4.0
+  29 rovr  PRN 26    1114    1151    03    -0.03 +-    0.10 SL   1.00 RR     549.89  T T ----- dL1,2     0    0 dL12     -0.05    -0.03 Fits    1.3   0.1   0.0   1.2
+  14 rovr  PRN 15    1317    1365    11     0.14 +-    0.21 SL   1.00 RR    1168.01  F F ----O dL1,2     0    0 dL12      0.26    -0.20 Fits    0.8   0.7   0.1   0.0
+  28 rovr  PRN 24    1325    1365    11     0.38 +-    0.61 SL   1.00 RR     214.23  F F ----O dL1,2     0    0 dL12      0.67     0.15 Fits    1.0   0.9   0.1   0.0
+  25 rovr  PRN 21    1342    1365    11     0.41 +-    0.62 SL   1.00 RR      49.48  F F ----O dL1,2     0    0 dL12      0.73     0.16 Fits    3.0   1.0   0.1   1.9
+BIAS FLAG REPORT: Type  FLOAT01 
+.  # Site  S  PRN      Start    Stop Fixd      L1 cycles      L2 cycles      DD Bias Refs        MW-WL      +-       EX-WL      +-    FLOAT01 
+   1 mit0  1  PRN 02       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   2 mit0  1  PRN 08       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   3 mit0  1  PRN 15       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   4 mit0  1  PRN 10       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   5 mit0  1  PRN 05       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   6 mit0  1  PRN 29       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   7 mit0  1  PRN 18       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   8 mit0  1  PRN 21       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+   9 mit0  1  PRN 24       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+  10 mit0  1  PRN 26    1114    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+  11 rovr  2  PRN 02       7    1348   03       473052.0       380207.0    12     2     1 WL     0.098     0.361     0.018     0.032  FLOAT01 
+  12 rovr  2  PRN 08       1    1365   03            0.0            0.0    -1     0     0 WL     0.000     0.000     0.000     0.000  FLOAT01 
+  13 rovr  2  PRN 15       7    1311   03      -127600.0      -115816.0    11     3     1 WL     0.013     0.305     0.001     0.021  FLOAT01 
+  14 rovr  2  PRN 15    1317    1365   11      -127600.0      -115816.0    16     5     3 WL    -0.196     0.675     0.003     0.047  FLOAT01 
+  15 rovr  2  PRN 10       7    1350   11       429174.0       341420.0    11     4     1 WL    -0.019     0.344     0.006     0.026  FLOAT01 
+  16 rovr  2  PRN 05       1    1365   11       307870.0       239666.0    11     5     1 WL     0.031     0.293     0.002     0.023  FLOAT01 
+  17 rovr  2  PRN 29       6     692   03       221690.0       181378.0    13     6     3 WL     0.030     0.402     0.012     0.031  FLOAT01 
+  18 rovr  2  PRN 29     696    1304   11       221690.0       181378.0    16     6     5 WL     0.031     0.406    -0.002     0.027  FLOAT01 
+  19 rovr  2  PRN 18      67     116   11      -319603.0      -254215.0    16     7     5 WL    -0.434     0.402    -0.056     0.028  FLOAT01 
+  20 rovr  2  PRN 18     150     211   03      -319595.0      -254208.0    13     7     3 WL    -0.123     0.746    -0.084     0.043  FLOAT01 
+  21 rovr  2  PRN 18     721     748   01     -2136508.0      -797362.0    12     7     2 WL    -0.301     0.505     0.041     0.055  FLOAT01 
+  22 rovr  2  PRN 18     772     974   01     -2304619.0      -815858.0    13     7     3 WL    -0.019     0.411    -0.019     0.036  FLOAT01 
+  23 rovr  2  PRN 18     978    1307   01     -2304619.0      -815858.0    13     7     3 WL    -0.127     0.484    -0.029     0.052  FLOAT01 
+  24 rovr  2  PRN 21     248    1315   11      -971793.0      -769090.0    13     8     3 WL     0.102     0.357    -0.012     0.031  FLOAT01 
+  25 rovr  2  PRN 21    1342    1365   11      -971793.0      -769090.0    16     8     5 WL     0.165     0.486    -0.057     0.042  FLOAT01 
+  26 rovr  2  PRN 24     229     692   11      -445912.0      -345109.0    13     9     3 WL    -0.040     0.437    -0.006     0.046  FLOAT01 
+  27 rovr  2  PRN 24     697    1315   11      -445912.0      -345109.0    13     9     3 WL    -0.057     0.419    -0.012     0.038  FLOAT01 
+  28 rovr  2  PRN 24    1325    1365   11      -445912.0      -345109.0    15     9     4 WL     0.151     0.472    -0.003     0.058  FLOAT01 
+  29 rovr  2  PRN 26    1114    1151   03       -72760.0        15321.0    13    10     3 WL    -0.033     0.525    -0.071     0.063  FLOAT01 
+POSITION ANALYSIS BASED ON FLOAT01 
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ      6.17    15.70    14.03 m. 
+Initial coordinates of rovr are XYZ     1529215.786   -4465744.177    4275072.914 m at Epoch      150
+
+Starting FLOAT iteration at   2
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+BF_FLOAT: Ambiguities added   13 parameters
+BF_FLOAT     14    1365 rovr PRN 15    1317   1365 11 NP   4 Estimated Adjust. (m)      0.028      0.022
+BF_FLOAT     15    1365 rovr PRN 10       7   1350 11 NP   5 Estimated Adjust. (m)     -0.001      0.001
+BF_FLOAT     16    1365 rovr PRN 05       1   1365 11 NP   6 Estimated Adjust. (m)      0.007      0.001
+BF_FLOAT     18    1365 rovr PRN 29     696   1304 11 NP   7 Estimated Adjust. (m)     -0.026      0.002
+BF_FLOAT     19    1365 rovr PRN 18      67    116 11 NP   8 Estimated Adjust. (m)     -0.011      0.009
+BF_FLOAT     21    1365 rovr PRN 18     721    748 01 NP   9 Estimated Adjust. (m)     -0.081      0.008
+BF_FLOAT     22    1365 rovr PRN 18     772    974 01 NP  10 Estimated Adjust. (m)     -0.053      0.004
+BF_FLOAT     23    1365 rovr PRN 18     978   1307 01 NP  11 Estimated Adjust. (m)     -0.050      0.003
+BF_FLOAT     24    1365 rovr PRN 21     248   1315 11 NP  12 Estimated Adjust. (m)     -0.043      0.002
+BF_FLOAT     25    1365 rovr PRN 21    1342   1365 11 NP  13 Estimated Adjust. (m)      0.077      0.067
+BF_FLOAT     26    1365 rovr PRN 24     229    692 11 NP  14 Estimated Adjust. (m)     -0.038      0.002
+BF_FLOAT     27    1365 rovr PRN 24     697   1315 11 NP  15 Estimated Adjust. (m)     -0.043      0.002
+BF_FLOAT     28    1365 rovr PRN 24    1325   1365 11 NP  16 Estimated Adjust. (m)      0.071      0.065
+For   5544 Double differences: Average RMS      12.09 mm
+* BF Site  PRN        Epoch Range     F     Estimate dLC       SigLim Relative Rank  Fix Fcode Change   L1   L2 Residual  L1       L2   Fits   Best    LC    WL    LG
+  15 rovr  PRN 10       7    1350    03     0.00 +-    0.01 SL   1.00 RR 5992383.36  T T ----- dL1,2     0    0 dL12     -0.01    -0.02 Fits    0.1   0.0   0.0   0.1
+  16 rovr  PRN 05       1    1365    03     0.04 +-    0.01 SL   1.00 RR  122460.77  T T ----- dL1,2     0    0 dL12      0.07     0.03 Fits    0.5   0.5   0.0   0.0
+  18 rovr  PRN 29     696    1304    03    -0.11 +-    0.01 SL   1.00 RR    1132.94  T T ----- dL1,2     0    0 dL12     -0.20     0.03 Fits    3.5   3.5   0.0   0.0
+  24 rovr  PRN 21     248    1315    03    -0.11 +-    0.01 SL   1.00 RR     851.87  T T ----- dL1,2     0    0 dL12     -0.19     0.10 Fits    3.5   3.3   0.1   0.2
+  27 rovr  PRN 24     697    1315    03    -0.01 +-    0.01 SL   1.00 RR  468003.88  T T ----- dL1,2     0    0 dL12     -0.03    -0.06 Fits    0.2   0.1   0.0   0.1
+  26 rovr  PRN 24     229     692    03    -0.04 +-    0.01 SL   1.00 RR   36618.01  T T ----- dL1,2     0    0 dL12     -0.07    -0.04 Fits    0.5   0.5   0.0   0.0
+  23 rovr  PRN 18     978    1307    03     0.03 +-    0.02 SL   1.00 RR   27599.70  T T ----- dL1,2     0    0 dL12      0.05    -0.13 Fits    0.6   0.2   0.1   0.3
+  22 rovr  PRN 18     772     974    03     0.02 +-    0.03 SL   1.00 RR   88692.71  T T ----- dL1,2     0    0 dL12      0.03    -0.02 Fits    0.4   0.1   0.0   0.3
+  21 rovr  PRN 18     721     748    03    -0.13 +-    0.07 SL   1.00 RR     253.59  T T ----- dL1,2     0    0 dL12     -0.23    -0.30 Fits    2.8   1.9   0.4   0.6
+  19 rovr  PRN 18      67     116    03    -0.02 +-    0.08 SL   1.00 RR     163.80  T T ----- dL1,2     0    0 dL12     -0.03    -0.43 Fits    5.2   0.0   1.2   4.0
+  14 rovr  PRN 15    1317    1365    03     0.07 +-    0.20 SL   1.00 RR   15424.55  T T ----- dL1,2     0    0 dL12      0.12    -0.20 Fits    0.2   0.2   0.1   0.0
+  28 rovr  PRN 24    1325    1365    03     0.12 +-    0.24 SL   1.00 RR    1623.44  T T ----- dL1,2     0    0 dL12      0.21     0.15 Fits    0.5   0.4   0.1   0.0
+  25 rovr  PRN 21    1342    1365    03     0.03 +-    0.06 SL   1.00 RR     943.75  T T ----- dL1,2     0    0 dL12      0.05     0.16 Fits    2.1   0.1   0.1   1.9
+BIAS FLAG REPORT: Type  FLOAT02 
+.  # Site  S  PRN      Start    Stop Fixd      L1 cycles      L2 cycles      DD Bias Refs        MW-WL      +-       EX-WL      +-    FLOAT02 
+   1 mit0  1  PRN 02       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   2 mit0  1  PRN 08       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   3 mit0  1  PRN 15       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   4 mit0  1  PRN 10       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   5 mit0  1  PRN 05       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   6 mit0  1  PRN 29       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   7 mit0  1  PRN 18       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   8 mit0  1  PRN 21       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+   9 mit0  1  PRN 24       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+  10 mit0  1  PRN 26    1114    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+  11 rovr  2  PRN 02       7    1348   03       473052.0       380207.0    12     2     1 WL     0.098     0.361     0.018     0.032  FLOAT02 
+  12 rovr  2  PRN 08       1    1365   03            0.0            0.0    -1     0     0 WL     0.000     0.000     0.000     0.000  FLOAT02 
+  13 rovr  2  PRN 15       7    1311   03      -127600.0      -115816.0    11     3     1 WL     0.013     0.305     0.001     0.021  FLOAT02 
+  14 rovr  2  PRN 15    1317    1365   03      -127600.0      -115816.0    16     5     3 WL    -0.196     0.675     0.003     0.047  FLOAT02 
+  15 rovr  2  PRN 10       7    1350   03       429174.0       341420.0    11     4     1 WL    -0.019     0.344     0.006     0.026  FLOAT02 
+  16 rovr  2  PRN 05       1    1365   03       307870.0       239666.0    11     5     1 WL     0.031     0.293     0.002     0.023  FLOAT02 
+  17 rovr  2  PRN 29       6     692   03       221690.0       181378.0    13     6     3 WL     0.030     0.402     0.012     0.031  FLOAT02 
+  18 rovr  2  PRN 29     696    1304   03       221690.0       181378.0    16     6     5 WL     0.031     0.406    -0.002     0.027  FLOAT02 
+  19 rovr  2  PRN 18      67     116   03      -319603.0      -254215.0    16     7     5 WL    -0.434     0.402    -0.056     0.028  FLOAT02 
+  20 rovr  2  PRN 18     150     211   03      -319595.0      -254208.0    13     7     3 WL    -0.123     0.746    -0.084     0.043  FLOAT02 
+  21 rovr  2  PRN 18     721     748   03     -2136508.0      -797362.0    12     7     2 WL    -0.301     0.505     0.041     0.055  FLOAT02 
+  22 rovr  2  PRN 18     772     974   03     -2304619.0      -815858.0    13     7     3 WL    -0.019     0.411    -0.019     0.036  FLOAT02 
+  23 rovr  2  PRN 18     978    1307   03     -2304619.0      -815858.0    13     7     3 WL    -0.127     0.484    -0.029     0.052  FLOAT02 
+  24 rovr  2  PRN 21     248    1315   03      -971793.0      -769090.0    13     8     3 WL     0.102     0.357    -0.012     0.031  FLOAT02 
+  25 rovr  2  PRN 21    1342    1365   03      -971793.0      -769090.0    16     8     5 WL     0.165     0.486    -0.057     0.042  FLOAT02 
+  26 rovr  2  PRN 24     229     692   03      -445912.0      -345109.0    13     9     3 WL    -0.040     0.437    -0.006     0.046  FLOAT02 
+  27 rovr  2  PRN 24     697    1315   03      -445912.0      -345109.0    13     9     3 WL    -0.057     0.419    -0.012     0.038  FLOAT02 
+  28 rovr  2  PRN 24    1325    1365   03      -445912.0      -345109.0    15     9     4 WL     0.151     0.472    -0.003     0.058  FLOAT02 
+  29 rovr  2  PRN 26    1114    1151   03       -72760.0        15321.0    13    10     3 WL    -0.033     0.525    -0.071     0.063  FLOAT02 
+POSITION ANALYSIS BASED ON FLOAT02 
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ      6.19    15.64    14.03 m. 
+Initial coordinates of rovr are XYZ     1529215.662   -4465744.045    4275072.664 m at Epoch        7
+
+Starting FLOAT iteration at   3
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+For   5544 Double differences: Average RMS      14.89 mm
+* BF Site  PRN        Epoch Range     F     Estimate dLC       SigLim Relative Rank  Fix Fcode Change   L1   L2 Residual  L1       L2   Fits   Best    LC    WL    LG
+BIAS FLAG REPORT: Type  FLOAT03 
+.  # Site  S  PRN      Start    Stop Fixd      L1 cycles      L2 cycles      DD Bias Refs        MW-WL      +-       EX-WL      +-    FLOAT03 
+   1 mit0  1  PRN 02       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   2 mit0  1  PRN 08       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   3 mit0  1  PRN 15       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   4 mit0  1  PRN 10       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   5 mit0  1  PRN 05       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   6 mit0  1  PRN 29       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   7 mit0  1  PRN 18       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   8 mit0  1  PRN 21       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+   9 mit0  1  PRN 24       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+  10 mit0  1  PRN 26    1114    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+  11 rovr  2  PRN 02       7    1348   03       473052.0       380207.0    12     2     1 WL     0.098     0.361     0.018     0.032  FLOAT03 
+  12 rovr  2  PRN 08       1    1365   03            0.0            0.0    -1     0     0 WL     0.000     0.000     0.000     0.000  FLOAT03 
+  13 rovr  2  PRN 15       7    1311   03      -127600.0      -115816.0    11     3     1 WL     0.013     0.305     0.001     0.021  FLOAT03 
+  14 rovr  2  PRN 15    1317    1365   03      -127600.0      -115816.0    16     5     3 WL    -0.196     0.675     0.003     0.047  FLOAT03 
+  15 rovr  2  PRN 10       7    1350   03       429174.0       341420.0    11     4     1 WL    -0.019     0.344     0.006     0.026  FLOAT03 
+  16 rovr  2  PRN 05       1    1365   03       307870.0       239666.0    11     5     1 WL     0.031     0.293     0.002     0.023  FLOAT03 
+  17 rovr  2  PRN 29       6     692   03       221690.0       181378.0    13     6     3 WL     0.030     0.402     0.012     0.031  FLOAT03 
+  18 rovr  2  PRN 29     696    1304   03       221690.0       181378.0    16     6     5 WL     0.031     0.406    -0.002     0.027  FLOAT03 
+  19 rovr  2  PRN 18      67     116   03      -319603.0      -254215.0    16     7     5 WL    -0.434     0.402    -0.056     0.028  FLOAT03 
+  20 rovr  2  PRN 18     150     211   03      -319595.0      -254208.0    13     7     3 WL    -0.123     0.746    -0.084     0.043  FLOAT03 
+  21 rovr  2  PRN 18     721     748   03     -2136508.0      -797362.0    12     7     2 WL    -0.301     0.505     0.041     0.055  FLOAT03 
+  22 rovr  2  PRN 18     772     974   03     -2304619.0      -815858.0    13     7     3 WL    -0.019     0.411    -0.019     0.036  FLOAT03 
+  23 rovr  2  PRN 18     978    1307   03     -2304619.0      -815858.0    13     7     3 WL    -0.127     0.484    -0.029     0.052  FLOAT03 
+  24 rovr  2  PRN 21     248    1315   03      -971793.0      -769090.0    13     8     3 WL     0.102     0.357    -0.012     0.031  FLOAT03 
+  25 rovr  2  PRN 21    1342    1365   03      -971793.0      -769090.0    16     8     5 WL     0.165     0.486    -0.057     0.042  FLOAT03 
+  26 rovr  2  PRN 24     229     692   03      -445912.0      -345109.0    13     9     3 WL    -0.040     0.437    -0.006     0.046  FLOAT03 
+  27 rovr  2  PRN 24     697    1315   03      -445912.0      -345109.0    13     9     3 WL    -0.057     0.419    -0.012     0.038  FLOAT03 
+  28 rovr  2  PRN 24    1325    1365   03      -445912.0      -345109.0    15     9     4 WL     0.151     0.472    -0.003     0.058  FLOAT03 
+  29 rovr  2  PRN 26    1114    1151   03       -72760.0        15321.0    13    10     3 WL    -0.033     0.525    -0.071     0.063  FLOAT03 
+After FLOAT03  remapping the ambiguities
+POSITION ANALYSIS BASED ON FLOAT03 
+Kinematic site rovr appears dyanamic  Coordinate RMS XYZ      6.19    15.64    14.03 m. 
+Initial coordinates of rovr are XYZ     1529215.665   -4465744.044    4275072.673 m at Epoch        7
+BIAS FLAG REPORT: Type  FINAL
+.  # Site  S  PRN      Start    Stop Fixd      L1 cycles      L2 cycles      DD Bias Refs        MW-WL      +-       EX-WL      +-    FINAL
+   1 mit0  1  PRN 02       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   2 mit0  1  PRN 08       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   3 mit0  1  PRN 15       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   4 mit0  1  PRN 10       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   5 mit0  1  PRN 05       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   6 mit0  1  PRN 29       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   7 mit0  1  PRN 18       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   8 mit0  1  PRN 21       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+   9 mit0  1  PRN 24       1    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+  10 mit0  1  PRN 26    1114    1365   03            0.0            0.0     0     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+  11 rovr  2  PRN 02       7    1348   03       473052.0       380207.0    12     2     1 WL     0.098     0.361     0.018     0.032  FINAL
+  12 rovr  2  PRN 08       1    1365   03            0.0            0.0    -1     0     0 WL     0.000     0.000     0.000     0.000  FINAL
+  13 rovr  2  PRN 15       7    1311   03      -127600.0      -115816.0    11     3     1 WL     0.013     0.305     0.001     0.021  FINAL
+  14 rovr  2  PRN 15    1317    1365   03      -127600.0      -115816.0    16     5     3 WL    -0.196     0.675     0.003     0.047  FINAL
+  15 rovr  2  PRN 10       7    1350   03       429174.0       341420.0    11     4     1 WL    -0.019     0.344     0.006     0.026  FINAL
+  16 rovr  2  PRN 05       1    1365   03       307870.0       239666.0    11     5     1 WL     0.031     0.293     0.002     0.023  FINAL
+  17 rovr  2  PRN 29       6     692   03       221690.0       181378.0    13     6     3 WL     0.030     0.402     0.012     0.031  FINAL
+  18 rovr  2  PRN 29     696    1304   03       221690.0       181378.0    16     6     5 WL     0.031     0.406    -0.002     0.027  FINAL
+  19 rovr  2  PRN 18      67     116   03      -319603.0      -254215.0    16     7     5 WL    -0.434     0.402    -0.056     0.028  FINAL
+  20 rovr  2  PRN 18     150     211   03      -319595.0      -254208.0    13     7     3 WL    -0.123     0.746    -0.084     0.043  FINAL
+  21 rovr  2  PRN 18     721     748   03     -2136508.0      -797362.0    12     7     2 WL    -0.301     0.505     0.041     0.055  FINAL
+  22 rovr  2  PRN 18     772     974   03     -2304619.0      -815858.0    13     7     3 WL    -0.019     0.411    -0.019     0.036  FINAL
+  23 rovr  2  PRN 18     978    1307   03     -2304619.0      -815858.0    13     7     3 WL    -0.127     0.484    -0.029     0.052  FINAL
+  24 rovr  2  PRN 21     248    1315   03      -971793.0      -769090.0    13     8     3 WL     0.102     0.357    -0.012     0.031  FINAL
+  25 rovr  2  PRN 21    1342    1365   03      -971793.0      -769090.0    16     8     5 WL     0.165     0.486    -0.057     0.042  FINAL
+  26 rovr  2  PRN 24     229     692   03      -445912.0      -345109.0    13     9     3 WL    -0.040     0.437    -0.006     0.046  FINAL
+  27 rovr  2  PRN 24     697    1315   03      -445912.0      -345109.0    13     9     3 WL    -0.057     0.419    -0.012     0.038  FINAL
+  28 rovr  2  PRN 24    1325    1365   03      -445912.0      -345109.0    15     9     4 WL     0.151     0.472    -0.003     0.058  FINAL
+  29 rovr  2  PRN 26    1114    1151   03       -72760.0        15321.0    13    10     3 WL    -0.033     0.525    -0.071     0.063  FINAL
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+ Creating TR02.NEU.mit0.LC
+ Creating TR02.NEU.rovr.LC
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+SITE     rovr Average XYZ from       95 epochs    1529214.0330  -4465748.0917   4275070.9155 m
+     rovr   1529215.804 -4465744.070  4275072.579  STATIC Position from    754 epochs
+
+TRACK Residual statistics for Analysis LC              
+STATISTICS BY PRN for site rovr DataTypes LC              
+TYPE     Site  DT    ALL    02    05    08    10    15    18    21    24    26    29
+PMEAN     rovr LC    0.0  -2.6   1.2   4.3  -1.1  -2.7   2.2  -3.4  -3.0  23.8   4.4
+RRMS      rovr LC    9.0   8.2   4.1  10.4   8.6   4.9  12.4   8.9   7.3  22.8   9.1
+PNUM      rovr LC  10993  1342  1365  1365  1344  1354   673  1092  1124    38  1296
+STATISTICS BY Elevation for site rovr DataTypes LC              
+TYPE     Site  DT      00-05 05-10 10-15 15-20 20-25 25-30 30-35 35-40 40-45 45-50 50-55 55-60 60-65 65-70 70-75 75-80 80-85 85-90
+EMEAN     rovr LC        0.0   0.0   9.1   3.6  -2.3  -2.9  -1.7   2.7   0.8   4.0   0.9   0.0  -4.7  -1.5   0.0   0.0   0.0   0.0
+ERMS      rovr LC        0.0   0.0  16.6  11.2   9.0   8.0   8.0   0.1   6.2   8.2   3.4   0.0   5.3   4.3   2.5   0.0   0.0   0.0
+ENUM      rovr LC          0     0   150  1926  1362  2380  1158     2   400  1612   649     0   580   599   175     0     0     0
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+ Creating TR02.NEU.mit0.L1+L2
+ Creating TR02.NEU.rovr.L1+L2
+Increasing total parameters to    3 from    3 used in float analysis
+There are  1 kinematic sites in this analysis;    3 parameters per epoch to be estimated
+SITE     rovr Average XYZ from       94 epochs    1529214.0174  -4465748.0779   4275070.9082 m
+     rovr   1529215.801 -4465744.064  4275072.573  STATIC Position from    754 epochs
+
+TRACK Residual statistics for Analysis L1+L2           
+STATISTICS BY PRN for site rovr DataTypes L1+L2           
+TYPE     Site  DT    ALL    02    05    08    10    15    18    21    24    26    29
+PMEAN     rovr L1    0.0  -2.3   0.8   1.3   2.1  -4.0   1.5  -2.8  -2.1   5.6   5.4
+PMEAN     rovr L2    0.0  -1.3   1.8  -1.3   4.2  -2.9  -2.4  -4.1  -2.7  -5.9   6.7
+RRMS      rovr L1    6.2   4.8   3.1   4.9   4.5   5.4   6.0   6.0   5.0   9.2   8.5
+RRMS      rovr L2    7.5   5.1   3.7   6.4   5.2   6.1   8.6   6.3   6.7   9.8  10.5
+PNUM      rovr L1  10993  1342  1365  1365  1344  1354   673  1092  1124    38  1296
+PNUM      rovr L2  10993  1342  1365  1365  1344  1354   673  1092  1124    38  1296
+STATISTICS BY Elevation for site rovr DataTypes L1+L2           
+TYPE     Site  DT      00-05 05-10 10-15 15-20 20-25 25-30 30-35 35-40 40-45 45-50 50-55 55-60 60-65 65-70 70-75 75-80 80-85 85-90
+EMEAN     rovr L1        0.0   0.0   2.8   1.4   0.0  -2.5   0.2  -0.1  -0.3   4.5   1.4   0.0  -6.0  -2.9  -1.1   0.0   0.0   0.0
+EMEAN     rovr L2        0.0   0.0  -8.9  -1.2   2.5  -2.6  -0.6  -0.1  -0.3   5.8   3.1   0.0  -6.0  -1.1   1.0   0.0   0.0   0.0
+ERMS      rovr L1        0.0   0.0   6.6   5.3   4.4   6.2   4.1   1.8   3.2   7.9   2.8   0.0   5.5   5.1   2.7   0.0   0.0   0.0
+ERMS      rovr L2        0.0   0.0   7.2   7.0   5.3   7.0   5.6   1.3   3.7   9.7   3.2   0.0   6.0   5.5   2.9   0.0   0.0   0.0
+ENUM      rovr L1          0     0   150  1926  1362  2380  1158     2   400  1612   649     0   580   599   175     0     0     0
+ENUM      rovr L2          0     0   150  1926  1362  2380  1158     2   400  1612   649     0   580   599   175     0     0     0
