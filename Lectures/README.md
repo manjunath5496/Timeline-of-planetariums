@@ -55,7 +55,7 @@
    <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
     <li><a href="#course55">Dynamics of the Atmosphere</a></li> 
    <li><a href="#course56">Tropical Meteorology</a></li> 
- <li><a href="#course53">Atmospheric Chemistry</a></li>  
+ <li><a href="#course57">General Circulation of the Earth's Atmosphere</a></li>  
    <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
  
 </ul>
@@ -4174,5 +4174,45 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <p>7.1. Structure and Climatology (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_StrClim.pdf">PDF - 1.8MB</a>)*<br />7.2. Steady-State Physics (<a href="8/MIT12_811S11_lecture_19.pdf">PDF - 1.2MB</a>) (<a href="8/MIT12_811S11_lecture_20.pdf">PDF - 1.5MB</a>)<br />7.3. Inner Core Dynamics (<a href="8/MIT12_811S11_lecture_21.pdf">PDF</a>)<br />7.4. Time-dependent, Axisymmetric Model Phrased in R Space (<a href="8/MIT12_811S11_lecture_22.pdf">PDF - 1.3MB</a>)<br />7.5. Motion (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_23.pdf">PDF</a>)<br />7.6. Ocean Interaction (<a href="8/MIT12_811S11_lecture_24.pdf">PDF - 3.2MB</a>)<br />7.7. Effects of Environmental Wind Shear (<a href="8/MIT12_811S11_lecture_24.pdf">PDF - 3.2MB</a>)<br />7.6. Genesis (<a href="8/MIT12_811S11_lecture_24.pdf">PDF - 3.2MB</a>)</p>
 </br>
 
+<h2 id="course57">General Circulation of the Earth's Atmosphere</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="8/section1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Analysis Techniques (<a href="8/section2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Angular Momentum and Kinetic Energy Budgets&nbsp;<span class="nobr">(<a href="8/section3.pdf">PDF - 2.0 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>The Water Vapor Budget (<a href="8/section4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Heat Budget&nbsp;<span class="nobr">(<a href="8/section5.pdf">PDF - 1.7 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Spectral Analysis&nbsp;<span class="nobr">(<a href="8/section6.pdf">PDF - 1.3 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Forcing of the Zonal Mean Circulations&nbsp;<span class="nobr">(<a href="8/section7.pdf">PDF - 2.4 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>The Energy Cycle&nbsp;<span class="nobr">(<a href="8/section8.pdf">PDF - 3.1 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Numerical Models (<a href="8/section9.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
 
