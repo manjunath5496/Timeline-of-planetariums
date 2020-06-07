@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Introduction to Geology</a></li>
 <li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
-<li><a href="#course3">Electrochemical Energy Systems</a></li>
+<li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
 <li><a href="#course4">Separation Processes for Biochemical Products</a></li>
 <li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
 <li><a href="#course6">Integrated Chemical Engineering II</a></li>
@@ -229,4 +229,103 @@
 </table>
 
 </br>
+<h2 id="course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course Overview (<a href="lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tractions (<a href="lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress Tensor (<a href="lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stress Tensor (cont.) (<a href="lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress Tensor in Different Coordinate Systems (<a href="lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pore Fluid Pressure (<a href="lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Newton's Second Law (<a href="lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stress in the Earth (<a href="lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress Rotation (<a href="lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sandbox Tectonics (<a href="lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sandbox Tectonics - Simple Theory (<a href="lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Displacement Gradients (<a href="lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Measurement of Displacement Gradient Tensor (<a href="lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Strain (<a href="lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Elasticity (<a href="lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Simple Example: Uniaxial Strain (<a href="lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Special Cases (<a href="lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dislocation in Elastic Halfspace Model of the Earthquake Cycle (<a href="lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress and Strain from a Screw Dislocation (<a href="lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Plates (<a href="lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Plates (cont.) (<a href="lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Plates (cont.) (<a href="lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Plates Summary and Fluids (<a href="lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fluids (cont.) (<a href="lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Navier Stokes Equation (<a href="lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Growth and Decay of Boundary Undulations (<a href="lec26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Flow in Porous Media (<a href="lec27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Time Dependent Porous Flow (<a href="lec28.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 
