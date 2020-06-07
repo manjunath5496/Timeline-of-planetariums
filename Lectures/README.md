@@ -52,7 +52,7 @@
    <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
    <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
  <li><a href="#course53">Atmospheric Chemistry</a></li>  
-   <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
+   <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Geology</h2>
@@ -4070,6 +4070,65 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </table>
 </br>
 
-
-
-
+<h2 id="course54">Introduction to Observational Physical Oceanography</h2>
+<table class="tablewidth75" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Some Physical Properties of Sea Water (<a href="8/course_notes_1b.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Rotation 101: Some Basics (<a href="8/course_notes_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Rotation 101 (cont.): Effects of Rotation on a Sphere: f- and &beta;-planes (<a href="8/course_notes_3a.pdf">PDF</a>)<br /><br />Earth's Gravity Field and Sea Level (<a href="8/course_notes_3b.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ekman layers, Friction&nbsp;and Geostrophic Flow (<a href="8/course_notes_4n.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Wind-Driven Circulation: Stommel's Gyre&nbsp;and Sverdrup's Balance (<a href="8/course_notes_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Stress in the Ocean (<a href="8/course_notes_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Observations of the Gulf Stream in the N. Atlantic (<a href="8/course_notes_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Global Hydrographic Climatology (<a href="8/gbl_hgpc_atlas.pdf">PDF</a>)<br /><br /><span class="subsubhead">Supporting Files</span><br />atlas_test.m (<a href="8/atlas_test.m">M</a>)<br />ghc_Ni.mat (<a href="8/ghc_Ni.mat">MAT - 21.1 MB</a>)<br />ghc_Oxkg.mat (<a href="8/ghc_Oxkg.mat">MAT - 21.1 MB</a>)<br />ghc_Ph.mat (<a href="8/ghc_Ph.mat">MAT - 21.1 MB</a>)<br />ghc_pr.mat (<a href="8/ghc_pr.mat">MAT - 63.4 MB</a>)<br />ghc_Sil.mat (<a href="8/ghc_Sil.mat">MAT - 21.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Equatorial Twists to Mid-Latitude Dynamics (<a href="8/course_notes_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Large Scale Thermohaline Circulation: Some Thermodynamics (<a href="8/course_notes_9n.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Thermohaline Circulation (<a href="8/course_notes_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Another Wrinkle on Observations of the Abyssal Ocean: Geothermal Heating&nbsp;and Hydrothermal Vents (<a href="8/course_notes_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Tidal Forces (<a href="8/course_notes_15n.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction to "Waves" and Time Dependent Motion (<a href="8/course_notes_16n.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Internal Waves (<a href="8/course_notes_17n.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Final Exam</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p class="subhead">coriolis.m (<a href="8/coriolis.m">M</a>)</p>
+<p>phyprop.zip (<a href="8/phyprop.zip">ZIP</a>) (The ZIP file contains: 38 .m files.)</p>
+</br>
