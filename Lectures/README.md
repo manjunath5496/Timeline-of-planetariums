@@ -30,7 +30,7 @@
  <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
    <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
  <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
-   <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
+   <li><a href="#course32">Global Warming Science</a></li> 
 
 </ul>
 <p>&nbsp;</p>
@@ -2340,6 +2340,66 @@
 </tbody>
 </table>
 </br>
+<h2 id="course32">Global Warming Science</h2>
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec3-1.pdf">Paleoclimate I (PDF - 1.4MB)</a>&nbsp;&amp;&nbsp;<a href="5/MIT12_340S12_lec3-2.pdf">Paleoclimate 2 (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_340S12_lec4.pdf">The Instrumental Record (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec5.pdf">Atmospheric Composition and Greenhouse Gases (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec8.pdf">Radiative-Convective Equilibrium I (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec9.pdf">Radiative-Convective Equilibrium II (PDF - 2.3MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec10.pdf">The Circulation of the Atmosphere and Oceans I (PDF - 3.0MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec11.pdf">The Circulation of the Atmosphere and Oceans II (PDF - 4.9MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 16px;">
+<td style="height: 16px;"><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_340S12_lec12.pdf">Non-CO<sub>2</sub>&nbsp;Greenhouse Gases (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_340S12_lec13.pdf">The Earth's Carbon Cycle (PDF - 2.4MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec14.pdf">Aerosols (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec15.pdf">Climate Sensitivity, Forcings, and Feedbacks (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec17.pdf">Cloud, Water Vapor, Ice Albedo, and Other Feedbacks (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec18.pdf">Climate Models I: General Concept, History, and Design (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_340S12_lec19.pdf">Climate Models II: Parameterizations (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT12_340S12_lec20.pdf">Climate Models III: Predictions and Projections (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec21.pdf">Climate Change Mitigation and Some Links to Adaptation (PDF - 3.4MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="5/MIT12_340S12_lec22.pdf">Geoengineering (PDF - 1.9MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
