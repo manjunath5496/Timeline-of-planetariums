@@ -59,7 +59,10 @@
    <li><a href="#course58">Atmospheric Radiation</a></li> 
   <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
    <li><a href="#course60">Climate Physics and Chemistry</a></li> 
- 
+  <li><a href="#course61">GPS: Where Are You?</a></li>  
+   <li><a href="#course58">Atmospheric Radiation</a></li> 
+  <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
+   <li><a href="#course60">Climate Physics and Chemistry</a></li> 
  
  
  
@@ -4465,4 +4468,61 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tbody>
 </table>
 </br>
+
+<h2 id="course61">GPS: Where Are You?</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+<th scope="col">SLIDE&nbsp;SHOWS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to seminar and what we want to during the semester. Definitions of latitude / longitude and height. Astronomical latitude and longitude determination. Set to have measurements done before Lec #2. Write up needed for next class&nbsp;</td>
+<td>(<a href="9/sem01.pdf">PDF</a>)</td>
+<td>(<a href="9/sem01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>We examine the results from exercise 1 &mdash; determination of the latitude and longitude of MIT campus</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Discussion of results and techniques used to measure positions geometrically. How do you measure position without gravity? Geometric systems that use distance measurement. How to do this. How do you make maps and what is significance. Exercise 2 is set</td>
+<td>(<a href="9/sem03.pdf">PDF</a>)</td>
+<td>(<a href="9/sem03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discuss the results of the circle measurements. Start looking at how GPS works</td>
+<td>(<a href="9/sem04.pdf">PDF</a>)</td>
+<td>(<a href="9/sem04.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Fieldwork in the circle. Use the theodolite to make the measurements. Students to reduce the results by the next class</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Discussion of circle results obtained</td>
+<td>(<a href="9/sem07.pdf">PDF 1</a>) (<a href="9/circl_data_sol08.pdf">PDF 2</a>) Proj_3_08.m (<a href="9/Proj_3_08.m">M</a>)</td>
+<td>(<a href="9/sem07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>GPS candy hunt. Before Lec #9, students bring in reports on the applications of GPS (for good and bad). Spring UROP discussions</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>UROP discussions (cont.)</td>
+<td>&nbsp;</td>
+<td>(<a href="9/sem09.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
