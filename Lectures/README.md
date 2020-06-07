@@ -60,7 +60,7 @@
   <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
    <li><a href="#course60">Climate Physics and Chemistry</a></li> 
   <li><a href="#course61">GPS: Where Are You?</a></li>  
-   <li><a href="#course58">Atmospheric Radiation</a></li> 
+   <li><a href="#course62">Inference from Data and Models</a></li> 
   <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
    <li><a href="#course60">Climate Physics and Chemistry</a></li> 
  
@@ -4522,7 +4522,46 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tbody>
 </table>
 </br>
+<h2 id="course62">Inference from Data and Models</h2>
 
+<p>Table of Contents (<a href="9/tabl_of_content2.pdf">PDF</a>)</p>
+<p>Preface (<a href="9/preface_2.pdf">PDF</a>)</p>
+<p>Chapter 1 - Frequency Domain Formulation (<a href="9/tsamsfmt_chap1.pdf">PDF - 1.4 MB</a>)</p>
 
+<p>1.1 Fourier Transforms and Delta Functions (<a href="9/tsamsfmt_1_1.pdf">PDF</a>)</p>
+<p>1.2 Fourier Series and Time-Limited Functions (<a href="9/tsamsfmt_1_2.pdf">PDF</a>)</p>
+<p>1.3 The Sampling Theorem (<a href="9/tsamsfmt_1_3.pdf">PDF</a>)</p>
+<p>1.4 Discrete Observations (<a href="9/tsamsfmt_1_4.pdf">PDF</a>)</p>
+<p>1.5 Aliasing (<a href="9/tsamsfmt_1_5.pdf">PDF</a>)</p>
+<p>1.6 Discrete Fourier Analysis (<a href="9/tsamsfmt_1_6.pdf">PDF</a>)</p>
+<p>1.7 Identities and Difference Equations (<a href="9/tsamsfmt_1_7.pdf">PDF</a>)</p>
+<p>1.8 Circular Convolution (<a href="9/tsamsfmt1_8.pdf">PDF</a>)</p>
+<p>1.9 Fourier Series as Least-Squares (<a href="9/tsamsfmt_1_9.pdf">PDF</a>)</p>
+<p>1.10 Stochastic Processes (<a href="9/tsamsfmt_1_10.pdf">PDF</a>)</p>
+<p>1.11 Spectral Estimation (<a href="9/tsamsfmt_1_11.pdf">PDF</a>)</p>
+<p>1.12 The Blackman-Tukey Method (<a href="9/tsamsfmt_1_12.pdf">PDF</a>)</p>
+<p>1.13 Colored Processes (<a href="9/tsamsfmt_1_13.pdf">PDF</a>)</p>
+<p>1.14 The Multitaper Idea (<a href="9/tsamsfmt_1_14.pdf">PDF</a>)</p>
+<p>1.15 Spectral Peaks (<a href="9/tsamsfmt_1_15.pdf">PDF</a>)</p>
+<p>1.16 Spectrograms (<a href="9/tsamsfmt_1_16.pdf">PDF</a>)</p>
+<p>1.17 Effects of Timing Errors (<a href="9/tsamsfmt_1_17.pdf">PDF</a>)</p>
+<p>1.18 Cross-Spectra and Coherence (<a href="9/tsamsfmt_1_18.pdf">PDF</a>)</p>
+<p>1.19 Simulation (<a href="9/tsamsfmt_1_19.pdf">PDF</a>)</p>
 
+<p dir="ltr">Chapter 2 - Time Domain Methods (<a href="9/tsamsfmt_chap2.pdf">PDF</a>)</p>
 
+<p dir="ltr">2.1 Representations-1 (<a href="9/tsamsfmt2_1.pdf">PDF</a>)</p>
+<p dir="ltr">2.2 Geometric Interpretation (<a href="9/tsamsfmt2_2.pdf">PDF</a>)</p>
+<p dir="ltr">2.3 Representations-2 (<a href="9/tsamsfmt2_3.pdf">PDF</a>)</p>
+<p dir="ltr">2.4 Spectral Estimation from ARMA Forms (<a href="9/tsamsfmt2_4.pdf">PDF</a>)</p>
+<p dir="ltr">2.5 Karhunen-Lo&egrave;ve Theorem and Singular Spectrum Analysis (<a href="9/tsamsfmt2_5.pdf">PDF</a>)</p>
+<p dir="ltr">2.6 Wiener and Kalman Filters (<a href="9/tsamsfmt2_6.pdf">PDF</a>)</p>
+<p dir="ltr">2.7 Gauss-Markov Theorem (<a href="9/tsamsfmt2_7.pdf">PDF</a>)</p>
+<p dir="ltr">2.8 Trend Determination (<a href="9/tsamsfmt2_8.pdf">PDF</a>)</p>
+<p dir="ltr">2.9 EOFs, SVD (<a href="9/tsamsfmt2_9.pdf">PDF</a>)</p>
+
+<p dir="ltr">Chapter 3 - Examples of Applications in Climate (<a href="9/tsamsfmt_chap3.pdf">PDF</a>)</p>
+
+<p dir="ltr">3.1 References (<a href="9/tsamsfmt_3_1.pdf">PDF</a>)</p>
+
+</br>
