@@ -56,7 +56,7 @@
     <li><a href="#course55">Dynamics of the Atmosphere</a></li> 
    <li><a href="#course56">Tropical Meteorology</a></li> 
  <li><a href="#course57">General Circulation of the Earth's Atmosphere</a></li>  
-   <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
+   <li><a href="#course58">Atmospheric Radiation</a></li> 
  
 </ul>
 <p>&nbsp;</p>
@@ -4214,5 +4214,90 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </table>
 
 </br>
+<h2 id="course58">Atmospheric Radiation</h2>
 
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course overview and role of radiation in climate system (S and M)</td>
+<td>(<a href="8/overview.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lecture 1</h3>
+<p>- Global energy Budget<br />- Chemical composition and radiative effects<br />- Thermal structure of the atmosphere</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Physics of radiation (S)</td>
+<td>(<a href="8/thermo.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lecture 2</h3>
+<p>- Thermodynamic concepts<br />- Energy levels in molecules</p>
+</td>
+</tr>
+<tr class="row">
+<td>Molecular spectroscopy (S)</td>
+<td>(<a href="8/absorption.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lecture 3</h3>
+<p>- Absorbtion and emission rules<br />- Spectra (rotational, vibrational, electronic)<br />- Line shapes</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Equation of radiative transfer (M)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/radiative_transf.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lecture 4</h3>
+<p>- Derivation - special cases</p>
+<h3 class="subsubhead">Lecture 5</h3>
+<p>- Fluxes and simple solutions - radiative equilibrium approximation</p>
+</td>
+</tr>
+<tr class="row">
+<td>Modeling atmospheric transmission and emission (M)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/atmos_trans_emis.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lecture 6</h3>
+<p>- The HITRAN data base and applications</p>
+<h3 class="subsubhead">Lecture 7</h3>
+<p>- Band models (weak line, strong line, random, regular, k Distribution)</p>
+<h3 class="subsubhead">Lecture 8</h3>
+<p>- MODTRAN - R.M.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Scattering of radiation by molecules and particles (M)</p>
+<p>Multiple scattering (M)</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/scattering.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lecture 9</h3>
+<p>- Single scattering<br />- Size distributions<br />- Mie scattering (Exercise 4)</p>
+<h3 class="subsubhead">Lecture 10</h3>
+<p>- Discrete ordinates</p>
+</td>
+</tr>
+<tr class="row">
+<td>Remote sensing (M)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/remote_sensing.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lecture 11</h3>
+<p>- Scattered sunlight (observations from ground, from satellite)<br />- Retrieval of gases, particulate information, surface properties</p>
+<h3 class="subsubhead">Lecture 12</h3>
+<p>- Thermal emission<br />- Weighting functions<br />- Temperature and water vapor retrieval<br />- Limb scanning</p>
+<h3 class="subsubhead">Lecture 13</h3>
+<p>- Application of MODTRAN to remote sensing</p>
+<h3 class="subsubhead">Lecture 14</h3>
+<p>- Miscellaneous topics and summary (microwave remote sensing, active remote sensing - LIDAR and RADAR)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
