@@ -3,7 +3,7 @@
 <li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
 <li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
 <li><a href="#course4">Geobiology</a></li>
-<li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
+<li><a href="#course5">Theoretical Environmental Analysis</a></li>
 <li><a href="#course6">Integrated Chemical Engineering II</a></li>
 <li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
 <li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
@@ -428,8 +428,40 @@
 </tbody>
 </table>
 </br>
-
-
-
+<h2 id="course5">Theoretical Environmental Analysis</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT12_009JS15_1intro.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_009JS15_2-5volcano.pdf">Plate Tectonics: The Volcanic Source (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_009JS15_6-9response.pdf">Short-term Evolution Atmospheric CO<sub>2</sub>&nbsp;(PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_009JS15_10-12rivers.pdf">Scaling Laws for Rivers and Runoff (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_009JS15_13-17glacial.pdf">Natural Climate Change: Glacial Cycles (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_009JS15_18-23priodc.pdf">Quantitative Analysis of Periodic Phenomena (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT12_009JS15_24-25ecoorg.pdf">Ecological Organization (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT12_009JS15_26ecosystem.pdf">Ecosystem Stability (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
