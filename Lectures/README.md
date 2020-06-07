@@ -53,6 +53,11 @@
    <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
  <li><a href="#course53">Atmospheric Chemistry</a></li>  
    <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
+    <li><a href="#course55">Dynamics of the Atmosphere</a></li> 
+   <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
+ <li><a href="#course53">Atmospheric Chemistry</a></li>  
+   <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
+ 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Geology</h2>
@@ -4132,3 +4137,25 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <p class="subhead">coriolis.m (<a href="8/coriolis.m">M</a>)</p>
 <p>phyprop.zip (<a href="8/phyprop.zip">ZIP</a>) (The ZIP file contains: 38 .m files.)</p>
 </br>
+<h2 id="course55">Dynamics of the Atmosphere</h2>
+
+<p>Table of Contents (<a href="8/table_of_contnt.pdf">PDF</a>)</p>
+<p>Preface (<a href="8/preface.pdf">PDF</a>)</p>
+<p>Chapter 1: Introductory Remarks (<a href="8/chapter_1.pdf">PDF</a>)</p>
+<p>Chapter 2: Simple Energy Balance Climate Models (<a href="8/chapter_2.pdf">PDF</a>)</p>
+<p>Chapter 3: Effect of Transport on Composition (<a href="8/chapter_3.pdf">PDF</a>)</p>
+<p>Chapter 4: Statics of a Rotating System (<a href="8/chapter_4.pdf">PDF</a>)</p>
+<p>Chapter 5: Observed Atmospheric Structures (<a href="8/chapter_5.pdf">PDF - 1.6 MB</a>)</p>
+<p>Chapter 6: Equations of Motion (<a href="8/chapter_6.pdf">PDF</a>)</p>
+<p>Chapter 7: Symmetric Circulation Models (<a href="8/chapter_7.pdf">PDF - 1.0 MB</a>)</p>
+<p>Chapter 8: Internal Gravity Waves: Basics (<a href="8/chapter_8.pdf">PDF</a>)</p>
+<p>Chapter 9: Atmospheric Tides (<a href="8/chapter_9.pdf">PDF</a>)</p>
+<p>Chapter 10: Variable Basic States (<a href="8/chapter_10.pdf">PDF</a>)</p>
+<p>Chapter 11: Rossby Waves (<a href="8/chapter_11.pdf">PDF</a>)</p>
+<p>Chapter 12: Vorticity and Quasi-Geostrophy (<a href="8/chapter_12.pdf">PDF</a>)</p>
+<p>Chapter 13: The Generation of Eddies by Instability (<a href="8/chapter_13.pdf">PDF</a>)</p>
+<p>Postscript (<a href="8/postscript.pdf">PDF</a>)</p>
+<p>References (<a href="8/references.pdf">PDF</a>)</p>
+</br>
+
+
