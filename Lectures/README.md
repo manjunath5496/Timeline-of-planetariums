@@ -8,7 +8,7 @@
 <li><a href="#course7">Seminar in Environmental Science</a></li>
 <li><a href="#course8">Modeling Environmental Complexity</a></li>
 <li><a href="#course9">The Environment of the Earth's Surface</a></li>
-<li><a href="#course10">Atmospheric Physics and Chemistry</a></li>
+<li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
 <li><a href="#course11">Computational Quantum Mechanics of Molecular and Extended Systems</a></li>
 
 </ul>
@@ -878,6 +878,28 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures</h2>
+
+<p>Chapter 1: Introduction (<a href="ch1.pdf">PDF</a>)</p>
+<p>Chapter 2: Flow Past a Sphere I: Dimensional Analysis, Reynolds Numbers, and Froude Numbers (<a href="ch2.pdf">PDF</a>)</p>
+<p>Chapter 3: Flow Past a Sphere II: Stoke's Law, the Bernoulli Equation, Turbulence, Boundary Layers, Flow Seperation (<a href="ch3.pdf">PDF - 1.4 MB</a>)</p>
+<p>Chapter 4: Flow in Pipes and Channels (<a href="ch4.pdf">PDF - 1.6 MB</a>)</p>
+<p>Chapter 5: Open-channel Flow (<a href="ch5.pdf">PDF</a>)</p>
+<p>Chapter 6: Oscillatory Flow (<a href="ch6.pdf">PDF</a>)</p>
+<p>Chapter 7: Flow in Rotating Environments (<a href="ch7.pdf">PDF - 1.0 MB</a>)</p>
+<p>Chapter 8: Sediments, Variables, and Flumes (<a href="ch8.pdf">PDF</a>)</p>
+<p>Chapter 9: Threshold of Movement (<a href="ch9.pdf">PDF</a>)</p>
+<p>Chapter 10: Movement of Sediment by Water Flows (<a href="ch10.pdf">PDF</a>)</p>
+<p>Chapter 11: Movement of Sediment by the Wind (<a href="ch11.pdf">PDF</a>)</p>
+<p>Chapter 12: Bed Configurations (<a href="ch12.pdf">PDF - 2.2 MB</a>)</p>
+<p>Chapter 13: The Sediment Transport Rate (<a href="ch13.pdf">PDF</a>)</p>
+<p>Chapter 14: Mixed-size Sediments (<a href="ch14.pdf">PDF</a>)</p>
+<p>Chapter 15: Deposition (<a href="ch15.pdf">PDF</a>)</p>
+<p>Chapter 16: Cross Stratification (<a href="ch16.pdf">PDF - 1.5 MB</a>)</p>
+<p>Chapter 17: Planar Stratification (<a href="ch17.pdf">PDF</a>)</p>
+<p>Index (<a href="index.pdf">PDF</a>)</p>
+</br>
+
 
 
 
