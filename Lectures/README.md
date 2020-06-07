@@ -1173,7 +1173,6 @@
 <td>
 <p>(<a href="3/MIT12_103S10_earthquakes_6.pdf">PDF</a>)</p>
 <p><span class="nobr">(<a href="3/animation_1.avi">AVI - 4.0MB</a>)&nbsp;</span></p>
-<p><span class="nobr">(<a href="3/animation_2.mov">MOV - 48.1MB</a>)&nbsp;</span></p>
 </td>
 </tr>
 <tr class="alt-row">
