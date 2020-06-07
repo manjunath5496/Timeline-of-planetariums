@@ -5,7 +5,7 @@
 <li><a href="#course4">Geobiology</a></li>
 <li><a href="#course5">Theoretical Environmental Analysis</a></li>
 <li><a href="#course6">Computational Methods of Scientific Programming</a></li>
-<li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
+<li><a href="#course7">Seminar in Environmental Science</a></li>
 <li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
 <li><a href="#course9">Synthesis of Polymers</a></li>
 <li><a href="#course10">Atmospheric Physics and Chemistry</a></li>
@@ -731,3 +731,67 @@
 </tbody>
 </table>
 </br>
+<h2 id="course7">Seminar in Environmental Science</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">STUDENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Geoengineering the climate</td>
+<td>
+<p>Jessica Stanley (<a href="stanley_w2.pdf">PDF</a>)</p>
+<p>Lisa Song (<a href="song_w2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Global warming and ice ages</td>
+<td>
+<p>Adam Rigel (<a href="rigel_w3.pdf">PDF</a>)</p>
+<p>Jessica Stanley (<a href="stanley_w3.pdf">PDF</a>)</p>
+<p>Lisa Song (<a href="song_w3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Wind turbine placements</td>
+<td>Adam Rigel (<a href="rigel_w5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Geoengineering</td>
+<td>Lisa Song (<a href="song_w5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Soil carbon sequestration and the greenhouse effect</td>
+<td>Jessica Stanley (<a href="stanley_w5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wind power costs and installation</td>
+<td>Adam Rigel (<a href="rigel_w7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Soil carbon sequestration and the greenhouse effect (cont.)</td>
+<td>Jessica Stanley (<a href="stanley_w7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How could serpentine be used to form magnetiste for long-term carbon dioxide removal?</td>
+<td>Lisa Song (<a href="song_w7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Calculating the carbon emissions or sequestration from land use</td>
+<td>Jessica Stanley (<a href="stanley_w11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Synthesizing carbonates</td>
+<td>Lisa Song (<a href="song_w11.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
