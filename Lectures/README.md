@@ -62,7 +62,7 @@
   <li><a href="#course61">GPS: Where Are You?</a></li>  
    <li><a href="#course62">Inference from Data and Models</a></li> 
   <li><a href="#course63">Quantifying Uncertainty</a></li>  
-   <li><a href="#course60">Climate Physics and Chemistry</a></li> 
+   <li><a href="#course64">Atmospheric and Oceanic Modeling</a></li> 
  
  
  
@@ -4620,3 +4620,91 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <p><a href="9/MIT12_S990F12_Zawadowicz.pdf">Factor analysis techniques in single-particle aerosol mass spectrometry (PDF)</a></p>
 </br>
 
+<h2 id="course64">Atmospheric and Oceanic Modeling</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader" style="height: 13px;">
+<th style="height: 13px;" scope="col">&nbsp;</th>
+<th id="col2" style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">The Finite Difference Method (<a href="10/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Spatial Discretization and Numerical Dispersion (<a href="10/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Series Expansion Methods (<a href="10/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 39px;">
+<td style="height: 39px;">&nbsp;</td>
+<td style="height: 39px;">Time-stepping (<a href="10/lec5.pdf">PDF - 1.2 MB</a>)<br /><br />MATLAB&reg; Script for P-N-Z Model (<a href="10/pz.m">M</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Space-time (<a href="10/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Two-dimensions (<a href="10/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Shallow Water Dynamics and Numerical Dispersion (<a href="10/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Barotropic Models (<a href="10/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Quasi-geostrophic Equations (<a href="10/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Quasi-geostrophic Models (<a href="10/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">The Primitive Equations (<a href="10/lec20.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Primitive Equations (cont.)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Vertical Coordinates (<a href="10/lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">Parameterizing Geostrophic Eddies (<a href="10/lec26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">TOPICS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Problem Set 1 (<a href="10/ps1.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="10/ps1_answers.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Problem Set 2 (<a href="10/ps2.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="10/ps2_answers.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
