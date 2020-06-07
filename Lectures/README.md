@@ -40,7 +40,7 @@
  <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
    <li><a href="#course40">Introduction to Seismology</a></li> 
   <li><a href="#course41">Geodynamics</a></li> 
- <li><a href="#course37">Trace-Element Geochemistry</a></li>  
+ <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
    <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
  <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
    <li><a href="#course40">Introduction to Seismology</a></li> 
@@ -2964,6 +2964,95 @@
 </tr>
 <tr class="alt-row">
 <td>Time Dependent Porous Flow (<a href="6/lecture28.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course42">Mechanical Properties of Rocks</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl761id0_1" scope="col">TOPICS</th>
+<th id="tbl761id0_2" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl761id0_1">
+<p>Strength Profiles in the Earth</p>
+</td>
+<td headers="tbl761id0_2">
+<p>Mode, Mechanism, and Scaling of Strength: Preliminary Issues&nbsp;<span class="nobr">(<a href="6/l1mech_mode_scal.pdf">PDF</a>)</span></p>
+<p>Stress Strain Strength Profiles&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/stress_strain_2a.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/stress_strain_2b.pdf">PDF 2</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl761id0_1">
+<p>Constitutive Relations, Elasticity</p>
+</td>
+<td headers="tbl761id0_0">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl761id0_1">
+<p>Friction in Rocks</p>
+</td>
+<td headers="tbl761id0_2">
+<p>Friction on Rock Interfaces&nbsp;<span class="nobr">(<a href="6/l4_5fric_rock_09_26.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl761id0_1">
+<p>Fracture Surface Energy and Elastic Solutions of Interest</p>
+</td>
+<td headers="tbl761id0_2">
+<p>Fracture Surface Energy&nbsp;<span class="nobr">(<a href="6/l9a_sur_ten_1005.pdf">PDF</a>)</span></p>
+<p>Some Elastic Solutions of Interest&nbsp;<span class="nobr">(<a href="6/l7bsome_elas_ular.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl761id0_1">
+<p>Linear Elastic Fracture Mechanics&nbsp;<span class="nobr">(LEFM)</span></p>
+</td>
+<td headers="tbl761id0_2">
+<p>LEFM I&nbsp;<span class="nobr">(<a href="6/l10_lefm_051017.pdf">PDF</a>)</span></p>
+<p>LEFM II&nbsp;<span class="nobr">(<a href="6/l10b_lefm_051019.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Brittle Failure Modes</p>
+</td>
+<td>
+<p>Brittle Fracture Micromechanics&nbsp;<span class="nobr">(<a href="6/l12_bri_com_theo.pdf">PDF</a>)</span></p>
+<p>Brief Comments on Effects of Fluids&nbsp;<span class="nobr">(<a href="6/l13eff_por_actsl.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Crystal Plastic Mechanisms: Diffusion Creep</p>
+</td>
+<td>
+<p>Point Defects in Minerals&nbsp;<span class="nobr">(<a href="6/l14_poin_def_min.pdf">PDF</a>)</span></p>
+<p>Diffusion Creep in Mono Atomic Crystal&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/diff_creep_mono.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dislocation Creep</p>
+</td>
+<td>
+<p>Strain Production and Preferred Orientation&nbsp;<span class="nobr">(<a href="6/strain_n_prefred.pdf">PDF</a>)</span></p>
+<p>Crystal Geometry&nbsp;<span class="nobr">(<a href="6/lattice_geometry.pdf">PDF</a>)</span></p>
+<p>Line Defects in Minerals&nbsp;<span class="nobr">(<a href="6/disloc_geometry.pdf">PDF</a>)</span></p>
+<p>Low Temperature High Stress Laws&nbsp;<span class="nobr">(<a href="6/state_var_eqns.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Student Papers</p>
+</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
