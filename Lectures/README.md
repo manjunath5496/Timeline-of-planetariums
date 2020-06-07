@@ -19,7 +19,12 @@
   <li><a href="#course18">Structure of Earth Materials</a></li> 
  <li><a href="#course19">Petrology</a></li>  
    <li><a href="#course20">Sedimentary Geology</a></li> 
-  
+  <li><a href="#course21">Structural Geology</a></li> 
+ <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
+   <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
+  <li><a href="#course18">Structure of Earth Materials</a></li> 
+ <li><a href="#course19">Petrology</a></li>  
+   <li><a href="#course20">Sedimentary Geology</a></li> 
 
 </ul>
 <p>&nbsp;</p>
@@ -1563,3 +1568,129 @@
 </ul>
 
 </br>
+<h2 id="course21">Structural Geology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><em>Continuum Mechanics and Rheology</em></p>
+<p>Stress and Strain</p>
+<p>Strain: Part One</p>
+<p>Progressive Deformation</p>
+<p>Rheology Part One: Ideal Material Behaviors</p>
+<p>Rheology Part Two: Experimental Rock Deformation, Stress-Strain Curves</p>
+</td>
+<td>
+<p><span class="nobr">(<a href="1/part1_cnt_mch_rh.pdf">PDF - 1.3 MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Faults</em></p>
+<p>Brittle Material Behavior</p>
+<p>Faults - General</p>
+<p>Normal Faults and Extensional Tectonics</p>
+<p>Thrust Tectonics</p>
+<p>Strike-slip Faults</p>
+</td>
+<td>
+<p><span class="nobr">(<a href="1/part2_faults.pdf">PDF 1 - 5.2 MB</a>)</span></p>
+<p><span class="nobr">(<a href="1/part3_extn_tect.pdf">PDF 2 - 7.0 MB</a>)</span></p>
+<p><span class="nobr">(<a href="1/part4_thrst_tect.pdf">PDF 3</a>)</span></p>
+<p><span class="nobr">(<a href="1/part5_str_slp_fl.pdf">PDF 4</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Ductile Deformation, Folds, and Fabrics</em></p>
+<p>Folds</p>
+<p>Fabrics and Deformation Mechanisms</p>
+</td>
+<td>
+<p><span class="nobr">(<a href="1/part6_dctl_fldfb.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LABS</th>
+<th scope="col">LAB SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Stress</td>
+<td><span class="nobr">(<a href="1/lab1.pdf">PDF</a>)</span></td>
+<td><span class="nobr">(<a href="1/lab1sol.pdf">PDF - 1.2 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Strain</td>
+<td><span class="nobr">(<a href="1/lab2.pdf">PDF</a>)</span></td>
+<td><span class="nobr">(<a href="1/lab2_strain_soln.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Lab Field Trip to Beavertail, PT, RI</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Techniques of Structural Geology I: 3D Geometries</td>
+<td><span class="nobr">(<a href="1/lab3_stereonets.pdf">PDF</a>)</span></td>
+<td><span class="nobr">(<a href="1/l3_solution.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Techniques of Structural Geology II: Cross-sections</td>
+<td><span class="nobr">(<a href="1/lab4_xsecs.pdf">PDF</a>)</span></td>
+<td><span class="nobr">(<a href="1/lab4_crs_sec_sol.pdf">PDF - 1.8 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Faults</td>
+<td><span class="nobr">(<a href="1/lab5_brittle_fau.pdf">PDF</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Folds</td>
+<td>
+<p><span class="nobr">(<a href="1/lab_folds.pdf">PDF 1</a>)</span></p>
+<p><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/l8_handout.pdf">PDF 2</a>)</span></p>
+<p><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/l8_exercises.pdf">PDF 3</a>)</span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Fabrics: Lineations and Foliations</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Classic Structural Environments I: Fold and Thrust Belts</td>
+<td><span class="nobr">(<a href="1/lab7_fold_thursb.pdf">PDF</a>)</span></td>
+<td><span class="nobr">(<a href="1/lab7_thrust_bsol.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Classic Structural Environments II: High Grade Gneiss Terranes</td>
+<td><span class="nobr">(<a href="1/lab9_high_grade.pdf">PDF - 1.3 MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Classic Structural Environments III: Extensional Environments</td>
+<td><span class="nobr">(<a href="1/lab6_extension.pdf">PDF</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
