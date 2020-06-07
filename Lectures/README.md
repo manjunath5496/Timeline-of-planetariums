@@ -37,7 +37,7 @@
   <li><a href="#course36">Crosby Lectures in Geology: History of Africa</a></li> 
  <li><a href="#course37">Trace-Element Geochemistry</a></li>  
    <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
- <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
+ <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
    <li><a href="#course32">Global Warming Science</a></li> 
 
 
@@ -2751,5 +2751,15 @@
 </tbody>
 </table>
 
+</br>
+<h2 id="course39">Non-conventional Light Stable Isotope Geochemistry</h2>
+
+<ul>
+<li><a href="5/MIT12_491S12_TripleIsotope.pdf">Triple-isotope composition of atmospheric oxygen as a tracer of biosphere productivity (PDF)</a></li>
+<li><a href="5/MIT12_491S12_EquilibriIron.pdf">Equilibrium iron isotope fractionation factors of minerals (PDF)</a></li>
+<li><a href="5/MIT12_491S12_A_bistable.pdf">A bistable organic-rich atmosphere on the Neoarchaean Earth (PDF)</a></li>
+<li><a href="5/MIT12_491S12_MassDependent.pdf">Mass-dependent and -independent fractionation of Hg isotopes by photoreduction in aquatic systems (PDF)</a></li>
+<li><a href="5/MIT12_491S12_EquilibDynami.pdf">Equilibrium and dynamic evaporation experiments (PDF)</a></li>
+</ul>
 </br>
 
