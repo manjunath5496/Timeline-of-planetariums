@@ -4,7 +4,7 @@
 <li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
 <li><a href="#course4">Geobiology</a></li>
 <li><a href="#course5">Theoretical Environmental Analysis</a></li>
-<li><a href="#course6">Integrated Chemical Engineering II</a></li>
+<li><a href="#course6">Computational Methods of Scientific Programming</a></li>
 <li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
 <li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
 <li><a href="#course9">Synthesis of Polymers</a></li>
@@ -463,5 +463,271 @@
 </tbody>
 </table>
 </br>
+<h2 id="course6">Computational Methods of Scientific Programming</h2>
 
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">NOTES,&nbsp;SUPPORTING&nbsp;FILES,&nbsp;AND&nbsp;LINKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Problem formulation, algorithm development, algorithm implementation, and algorithm verification. Structure and documentation</td>
+<td>
+<p>Lec #1 (<a href="MIT12_010F11_Lec01.pdf">PDF</a>)</p>
+<p>Lec #2 (<a href="MIT12_010F11_Lec02.pdf">PDF</a>)</p>
+</td>
+<td>
+<h3 class="subsubhead">Lec #1</h3>
+<p>Class introduction; overview of languages; program development.</p>
+<h3 class="subsubhead">Lec #2</h3>
+<p>Discussion of aspects of computers and their operation. An example is given of program development for a simple case of computing the area of a figure.</p>
+<p>Links that are in the notes for this lecture:</p>
+<p><a href="http://www.webopedia.com/TERM/B/big_endian.html">What is big-endian?</a></p>
+<p><a href="http://mathworld.wolfram.com/GreensTheorem.html">Green's Theorem</a></p>
+<p><a href="http://www.dsc.ufcg.edu.br/~cnum/modulos/Modulo2/IEEE754_2008.pdf">The IEEE standard for floating point arithmetic</a></p>
+<p>Minor links for those interested:</p>
+<p><a href="http://developer.apple.com/hardwaredrivers/ve/index.html">Velocity Engine</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>FORTRAN: "Formula Translation". Program creation, compilation and linking, variables and parameters, flow control, subroutines and functions. Structure and documentation. Use of libraries, internal and external communication, and interaction with other languages. FORTRAN: implementation issues: compilation errors, segmentation violations, Not-a-Number (NaN), Input/Output (IOSTAT) errors, Runtime errors. Transportable code, standard extensions. FORTRAN 90 differences and similarities to FORTRAN 77</td>
+<td>
+<p>Lec #3 (<a href="MIT12_010F11_Lec03.pdf">PDF</a>)</p>
+<p>Lec #4 (<a href="MIT12_010F11_Lec04.pdf">PDF</a>)</p>
+<p>Lec #5 (<a href="MIT12_010F11_Lec05.pdf">PDF</a>)</p>
+<p>Lec #6 (<a href="MIT12_010F11_Lec06.pdf">PDF</a>)</p>
+<p>Lec #7 (<a href="MIT12_010F11_Lec07.pdf">PDF</a>)</p>
+</td>
+<td>
+<h3 class="subsubhead">Lec #3</h3>
+<p>Started FORTRAN (Formula Translation). Went through the basic elements that make up this language. An on-line version of a FORTRAN 77 manual can be found&nbsp;<a href="http://physik.uibk.ac.at/hephy/praktikum/fortran_manual.pdf">here</a>. In reading these notes, you should think about operations you want to do and what command or commands do you use to do that. The list on FORTRAN intrinsic functions can be found&nbsp;<a href="http://www.fortran.com/fortran/F77_std/rjcnf0001-sh-15.html#sh-15.10">here</a>.</p>
+<p>Other links to look at:</p>
+<p><a href="http://www.fortran.com/fortran/F77_std/rjcnf0001-sh-15.html#sh-15.10">The FORTRAN Programming Language</a></p>
+<p><a href="http://en.wikipedia.org/wiki/Fortran">Wikipedia Definition of FORTRAN</a></p>
+<h3 class="subsubhead">Lec #4</h3>
+<p>Continued with showing the elements of the FORTRAN and more detail on the typically encountered features of the language. Topics covered: subroutines and functions; intrinsic functions; constants and variables; input output with open/close, read/write, formats; character strings.</p>
+<p>The links in this lecture were to FORTRAN and intrinsic functions, which are given above. The programs poly_area.f (<a href="poly_area.f">F</a>) and vars.f (<a href="vars.f">F</a>) are also used. (To download programs, right click on link and "save link target as". With one-button mouse use &lt;ctrl&gt;&lt;click&gt; on link). On Athena to use these programs:</p>
+<p><span style="font-family: 'Courier New', Courier;">ssh &ndash;X linerva.mit.edu<br />%add fortran<br />%f77 poly_area.f &ndash;o poly_area<br />% poly_area</span></p>
+<p>To use the f90 compiler on Athena, use add sunsoft.</p>
+<p>Other sources of information:</p>
+<p><a href="http://my.safaribooksonline.com/?portal=oreilly">Safari Book Online</a>&nbsp;- O'Reilly series of books on programming (available with MIT certificate)</p>
+<p><a href="http://www.personal.psu.edu/faculty/h/d/hdk/fortran.html">FORTRAN Resources</a>&nbsp;- useful link with lots of information on FORTRAN in its various forms</p>
+<h3 class="subsubhead">Lec #5</h3>
+<p>Continued with FORTRAN. Character strings, control statements if and do; other commands such as include, common, parameter. More programs will be developed in class including simple output and computing root-mean-square scatter of randomly generated numbers.</p>
+<h3 class="subsubhead">Lec #6</h3>
+<p>Finish up FORTRAN. Compile, linking and runtime errors and miscellaneous topics. Practice with using the language.</p>
+<h3 class="subsubhead">Lec #7</h3>
+<p>Examines the changes that were made in FORTRAN90 with the introductions on more modern concepts in programming languages.</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>C for scientific uses. Representation of data through arrays, pointers, and data structures. Function calls, argument passing and scoping rules, IO, profiling, system calls, and signals</p>
+<p>C++ objects. Encapsulation and inheritance, polymorphic operators</p>
+</td>
+<td>
+<p>Lec #8 (<a href="MIT12_010F11_Lec08.pdf">PDF</a>)</p>
+<p>Lec #9 (<a href="MIT12_010F11_Lec09.pdf">PDF</a>)</p>
+<p>Lec #10 (<a href="MIT12_010F11_Lec10.pdf">PDF</a>)</p>
+<p>Lec #11 (<a href="MIT12_010F11_Lec11.pdf">PDF</a>)</p>
+</td>
+<td>
+<h3 class="subsubhead">Lec #8</h3>
+<p>Start of C-language programming. History, variables and executable statements.</p>
+<p>Basic C Lecture</p>
+<p>Basic C: C and FORTRAN 77 Syntax</p>
+<p>Basic C: New Features</p>
+<p>Lec #08 Exercises.</p>
+<h3 class="subsubhead">Lec #9</h3>
+<p>Continuation of C. Covering Examined C-pointer; file Input/Output and the routines for formatted reads and write; compiling C routines; the C preprocessor cpp; structures in C; memory management.</p>
+<p>Lec09_pnt.c (<a href="Lec09_pnt.c">C</a>) is demonstration of pointers</p>
+<h3 class="subsubhead">Lec #10</h3>
+<p>Finish structures and memory management in C. Start of C++. Inheritance and overloading in C++.</p>
+<p>C and C++ routines used in class launch.c (<a href="launch.c">C</a>)</p>
+<p>Ball.h (<a href="Ball.h">H</a>) and launch.cc (<a href="launch.cc">CC</a>)</p>
+<p>C++ zip files:</p>
+<p>ustring.zip (<a href="ustring.zip">ZIP</a>) (The ZIP file contains: 2 .h files, 1 .cc file, and 1 .txt file.)<br />launch.zip (<a href="launch.zip">ZIP</a>) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)<br />coord.zip (<a href="coord.zip">ZIP</a>) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)</p>
+<h3 class="subsubhead">Lec #11</h3>
+<p>Finish up of C++ looking at classes, inheritance and overloading. We will look more carefully at the code linked in Lec #10. Homework number 3 has been set.</p>
+<p>Example pieces of code for C and comparison to FORTRAN:</p>
+<p>C basics (<a href="MIT12_010F11_c_basics.pdf">PDF</a>), area.c (<a href="area.c">C</a>), hello.c (<a href="hello.c">C</a>)<br />C FORTRAN compare (<a href="MIT12_010F11_c_fortan_comp.pdf">PDF</a>)<br />C pointers (<a href="MIT12_010F11_c_pointers.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Mathematica. What it is and what it can do; structure of Mathematica; symbols, exact numbers, and machine numbers; lists, vectors, and matrices</p>
+<p>Working with Mathematica: numerical calculations, symbolic calculations, and graphics. Importing and exporting information</p>
+</td>
+<td>
+<p>Lec #12 (<a href="MIT12_010F11_Lec12.pdf">PDF</a>)</p>
+<p>Lec #13 (<a href="MIT12_010F11_Lec13.pdf">PDF</a>)</p>
+</td>
+<td>
+<h3 class="subsubhead">Lec #12</h3>
+<p>Start of Mathematica. These lectures are accompanied by a Mathematica Notebook that shows example of concepts presented in the notes.</p>
+<p>Lec 12 NB (<a href="12010Lec12.nb">NB</a>)</p>
+<p>Introductory screen casts from Wolfram:</p>
+<p><a href="http://url.wolfram.com/oHLP0k/">Introduction</a></p>
+<p><a href="http://url.wolfram.com/kY9~Ms/">Making Models</a></p>
+<p><a href="http://url.wolfram.com/omxeAw/">Use of the demonstrations site</a></p>
+<p><a href="http://demonstrations.wolfram.com/index.html">Featured Demonstrations</a></p>
+<h3 class="subsubhead">Lec #13</h3>
+<p>Continuation of Mathematica. These lectures are accompanied by a Mathematica notebook that shows example of concepts presented in the notes.</p>
+<p>Lec 13 NB (<a href="12010Lec13.nb">NB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>MATLAB&reg;. "Matrix Laboratory". MATLAB syntax, workspace, variables. Script M-files, IO, control flow, debugging, and profiling tools. Object-oriented programming</p>
+<p>MATLAB applications, polynomials, interpolation, integration, differentiation, ODE. Graphics, 2-D, 3-D, Graphical User Interface (GUI)</p>
+</td>
+<td>
+<p>Lec #14 (<a href="MIT12_010F11_Lec14.pdf">PDF</a>)</p>
+<p>Lec #15 (<a href="MIT12_010F11_Lec15.pdf">PDF</a>)</p>
+<p>Lec #16 (<a href="MIT12_010F11_Lec16.pdf">PDF</a>)</p>
+<p>Lec #17 (<a href="MIT12_010F11_Lec17.pdf">PDF</a>)</p>
+</td>
+<td>
+<h3 class="subsubhead">Lec #14</h3>
+<p>MATLAB: introductory lecture on MATLAB introducing system, variable types, control and functions. The following MATLAB M-files are used in the lecture:</p>
+<p>Lec01_01.m (<a href="Lec01_01.m">M</a>)<br />Lec01_02.m (<a href="Lec01_02.m">M</a>)</p>
+<h3 class="subsubhead">Lec #15</h3>
+<p>MATLAB: path command, variables, file IO and dialog boxes. The following M-files are used:</p>
+<p>Lec02_01_file.m (<a href="Lec02_01_file.m">M</a>)<br />Lec02_02_db.m (<a href="Lec02_02_db.m">M</a>)<br />Lec03_01_file.m (<a href="Lec03_01_file.m">M</a>)</p>
+<p>The data for these M-files can be found in&nbsp;<a href="http://www-gpsg.mit.edu/~tah/12.010/MatData/">MatData</a>. A tar file with the data is TSeries.tar (<a href="TSeries.tar">TAR</a>) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)</p>
+<h3 class="subsubhead">Lec #16</h3>
+<p>MATLAB: graphics handles and animation of figures. The following M-files are used in class:</p>
+<p>Lec03_movie.m (<a href="Lec03_movie.m">M</a>)<br />MATLAB/per_func.m (<a href="per_func.m">M</a>)</p>
+<h3 class="subsubhead">Lec #17</h3>
+<p>MATLAB: final class on GUI construction and use. The following M-files are used (along with the data from&nbsp;<a href="http://www-gpsg.mit.edu/~tah/12.010/MatData/">MatData</a>: a tar file with the data is TSeries.tar (<a href="TSeries.tar">TAR</a>) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)</p>
+<p>Basic GUI layout:</p>
+<p>GPSanal.m (<a href="GPSanal.m">M</a>)<br />gpsguio.m (<a href="gpsguio.m">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Python scripting language program</td>
+<td>
+<p>Lec #18 (<a href="MIT12_010F11_Lec18.pdf">PDF</a>)</p>
+<p>Lec #19 (<a href="MIT12_010F11_Lec19.pdf">PDF</a>)</p>
+</td>
+<td>
+<h3 class="subsubhead">Lec #18</h3>
+<p>Python I: Python Language Basics</p>
+<p><a href="http://www.python.org/">Python Programming Language&mdash;Official Website</a><br /><a href="http://docs.python.org/index.html">Python v2.7.3 documentation</a><br /><a href="http://docs.python.org/tutorial/">The Python Tutorial</a></p>
+<h3 class="subsubhead">Lec #19</h3>
+<p>Python II: Python Advanced Usage</p>
+</td>
+</tr>
+<tr class="row">
+<td>Advanced graphics in MATLAB, 3-D representation and exportable animations</td>
+<td>Lec #20 (<a href="MIT12_010F11_Lec20.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lec #20</h3>
+<p>3-D graphics in MATLAB.</p>
+<p>Examples are:</p>
+<p>Lec20_3D.m (<a href="Lec19_3D.m">M</a>) <br />Lec20_TotalANC.avi (<a href="http://geoweb.mit.edu/~tah/12.010/Lec19_TotalANC.avi">AVI</a>) <br />Lec20_RateANC.avi (<a href="http://geoweb.mit.edu/~tah/12.010/Lec19_RateANC.avi">AVI</a>) <br />Dif_1006_0407.fig (<a href="http://geoweb.mit.edu/~tah/12.010/Dif_1006_0407.fig">FIG</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Ordinary differential equation (ODE) solutions used MATLAB and Mathematica</td>
+<td>Lec #21 (<a href="MIT12_010F11_Lec21.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Lec #21</h3>
+<p>Solution to differential equations in Mathematica and MATLAB.</p>
+<p>Mathematic notebook: 12.010.Lec18_NDsolve.nb (<a href="12010Lec18_NDsolve.nb">NB</a>)</p>
+<p>MATLAB solutions are:</p>
+<p>Lec21_ODE.m (<a href="Lec18_ODE.m">M</a>) <br />Lec21_animate.m (<a href="Lec18_animate.m">M</a>) <br />Lec21_hit.m (<a href="Lec18_hit.m">M</a>) <br />Lec21_bacc.m (<a href="Lec18_bacc.m">M</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Advanced Topics: Parallel computing with large memory and large numbers of CPUs</p>
+<p>Advanced topics: Parallel MATLAB</p>
+<p>Discussion of final projects</p>
+<p><strong>Order of the presentations will be decided in the last class</strong></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<h3 class="subsubhead">Lec #22</h3>
+<p>Introduction of class project. Graphics formats and issues about vector and pixel based graphics.</p>
+<p><a href="http://gmt.soest.hawaii.edu/">GMT graphics package</a>&nbsp;for mapping applications</p>
+<h3 class="subsubhead">Lec #23</h3>
+<p>Class projects: graphics processor unit (GPU) processing. Statistics and random number generators. M-file randtest.m (<a href="randtest.m">M</a>) is implementation of an LCG random number generator.</p>
+<h3 class="subsubhead">Lec #24</h3>
+<p>Graphics: review of common graphics program. Graphics with spreadsheets, Kaleidagraph, Generic Mapping Tool (GMT). Numerical methods: introduction to numerical methods</p>
+<p>Statistical analysis tools including generation random variables and correlated random numbers</p>
+<p>The order of the class presentations will be decided in this class and posted after the class.</p>
+<p><a href="http://www.nvidia.com/object/cuda_get.html">Cuda Zone</a></p>
+<p><a href="http://www.accelereyes.com/">MATLAB Implementation</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><span class="nobr">Homework 1 (<a href="MIT12_010F11_HW01_11.pdf">PDF</a>)</span></td>
+<td>(<a href="MIT12_010F11_HW01_Soln_11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 2 (<a href="MIT12_010F11_HW02_11.pdf">PDF</a>)</td>
+<td>(<a href="MIT12_010F11_HW02_11_soln.pdf">PDF</a>)</td>
+<td>
+<p>Source code:</p>
+<p>FBike.h (<a href="FBike.h">H</a>)</p>
+<p>HW02_01_11.f (<a href="HW02_01_11.f">F</a>)</p>
+<p>HW02_02_11.f (<a href="HW02_02_11.f">F</a>)</p>
+<p>HW02_03_1D_11.f (<a href="HW02_03_1D_11.f">F</a>)</p>
+<p>HW02_03_2D_11.f (<a href="HW02_03_2D_11.f">F</a>)</p>
+<p>HW02_03_11.in (<a href="HW02_03_11.in">IN</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Homework 3 (<a href="MIT12_010F11_HW03_11.pdf">PDF</a>)</td>
+<td>(<a href="MIT12_010F11_HW03_11_soln.pdf">PDF</a>)</td>
+<td>
+<p>Source code:</p>
+<p>CBike.h (<a href="CBike.h">H</a>)</p>
+<p>HW03_01_11.c (<a href="HW03_01_11.c">C</a>)</p>
+<p>HW03_02_11.c (<a href="HW03_02_11.c">C</a>)</p>
+<p>HW03_03_1D_11.c (<a href="HW03_03_1D_11.c">C</a>)</p>
+<p>HW03_03_11.in (<a href="HW03_03_11.in">IN</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 4 (<a href="MIT12_010F11_HW04_11.pdf">PDF</a>)</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT12_010F11_HW04_Soln_11.pdf">PDF</a>)</td>
+<td>
+<p>Mathematica notebook:</p>
+<p>HW04_11.nb (<a href="HW_4.nb">NB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Homework 5 (<a href="MIT12_010F11_HW05_11.pdf">PDF</a>)</td>
+<td>(<a href="MIT12_010F11_HW05_Soln_11.pdf">PDF</a>)</td>
+<td>
+<p>Source code:</p>
+<p>banimate.m (<a href="banimate.m">M</a>)</p>
+<p>bikeacc.m (<a href="bikeacc.m">M</a>)</p>
+<p>bikehit.m (<a href="bikehit.m">M</a>)</p>
+<p>HW05_01_11.m (<a href="HW05_01_2011.m">M</a>)</p>
+<p>HW05_02_11.m (<a href="HW05_02_2011.m">M</a>)</p>
+<p>HW05_03_11.m (<a href="HW05_03_2011.m">M</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
