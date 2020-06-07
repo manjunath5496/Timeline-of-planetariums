@@ -51,7 +51,7 @@
  <li><a href="#course50">Fluid Dynamics of the Atmosphere and Ocean</a></li>  
    <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
    <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
- <li><a href="#course50">Fluid Dynamics of the Atmosphere and Ocean</a></li>  
+ <li><a href="#course53">Atmospheric Chemistry</a></li>  
    <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
 </ul>
 <p>&nbsp;</p>
@@ -3994,3 +3994,82 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </table>
 
 </br>
+<h2 id="course53">Atmospheric Chemistry</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec1_intro.pdf">Introduction; atmospheric composition (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec2_kinetics1.pdf">Chemical kinetics 1: Reaction rates (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec3_kinetics2.pdf">Chemical kinetics 2: Reaction mechanisms (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec4_light1.pdf">Photochemistry and spectroscopy 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec5_light2.pdf">Photochemistry and spectroscopy 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec6IPT.pdf">Temperature, pressure, radiance (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec7_strat1.pdf">Stratospheric chemistry 1: O<sub>X</sub>, HO<sub>X</sub>, NO<sub>X</sub>&nbsp;(PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec8_strat2.pdf">Stratospheric chemistry 2: ClO<sub>X</sub>, BrO<sub>X</sub>&nbsp;(PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec10_trop1.pdf">Tropospheric chemistry 1: NO<sub>X</sub>&nbsp;and HO<sub>X&nbsp;</sub>(PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec11_trop2.pdf">Tropospheric chemistry 2: CO and CH<sub>4</sub>&nbsp;(PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec12_orgo.pdf">Atmospheric organic chemistry (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec13_nitrogen.pdf">Reactive (oxidized) nitrogen chemistry (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec14_ozone.pdf">Ozone pollution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec15_aqueus.pdf">Atmospheric aqueous chemistry (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec16_acidFrmtn.pdf">Acid formation in droplets (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec17_arosls.pdf">Atmospheric aerosol 1: Size, physics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec18_aroslWatr.pdf">Atmospheric aerosol 2: Climate effects (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec19_inogacPrcls.pdf">Aerosol chemistry (inorganic) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec20_OA.pdf">Aerosol chemistry (organic) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT1_84JF13_Lec21_clmate1.pdf">Atmospheric chemistry and climate 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT1_84JF13_Lec22_clmate2.pdf">Atmospheric chemistry and climate 2 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
