@@ -49,7 +49,7 @@
  <li><a href="#course48">Paleoceanography</a></li>  
    <li><a href="#course49">Marine Chemistry</a></li> 
  <li><a href="#course50">Fluid Dynamics of the Atmosphere and Ocean</a></li>  
-   <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
+   <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
 
 </ul>
 <p>&nbsp;</p>
@@ -3834,5 +3834,68 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 </tbody>
 </table>
 </br>
+<h2 id="course51">Wave Motion in the Ocean and the Atmosphere</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Waves</td>
+<td>(<a href="8/MIT12_802S08_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Slowly varying media: ray theory</td>
+<td>(<a href="8/MIT12_802S08_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Surface gravity waves</td>
+<td>(<a href="8/MIT12_802S08_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy equation</td>
+<td>(<a href="8/MIT12_802S08_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Initial value problem &mdash; homogeneous medium</td>
+<td>(<a href="8/MIT12_802S08_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Internal waves</td>
+<td>(<a href="8/MIT12_802S08_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>WKB theory for internal gravity waves &mdash; non rotating case</td>
+<td>(<a href="8/MIT12_802S08_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Internal waves modified by rotation &mdash; unbounded fluid</td>
+<td>(<a href="8/MIT12_802S08_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The oceanic wave guide: normal modes of a stratified, rotating fluid</td>
+<td>(<a href="8/MIT12_802S08_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Unbounded domain &mdash; non rotating reflection from a solid boundary</td>
+<td>(<a href="8/MIT12_802S08_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Laplace tidal equations on the sphere</td>
+<td>(<a href="8/MIT12_802S08_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Shallow water equations with rotation &mdash; Poincar&eacute; waves</td>
+<td>(<a href="8/MIT12_802S08_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Kelvin wave</td>
+<td>(<a href="8/MIT12_802S08_lec13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
