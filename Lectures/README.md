@@ -39,7 +39,11 @@
    <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
  <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
    <li><a href="#course40">Introduction to Seismology</a></li> 
-
+  <li><a href="#course41">Geodynamics</a></li> 
+ <li><a href="#course37">Trace-Element Geochemistry</a></li>  
+   <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
+ <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
+   <li><a href="#course40">Introduction to Seismology</a></li> 
 
 
 </ul>
@@ -2865,6 +2869,102 @@
 </table>
 
 </br>
+<h2 id="course41">Geodynamics</h2>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course Overview (<a href="6/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stress (<a href="6/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Different Representations of Stress (<a href="6/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tectonic Stress (<a href="6/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Changing Coordinate Systems and Mohr's Circle (<a href="6/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stress Variations in the Crust (<a href="6/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Strain (<a href="6/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Measuring Strain (<a href="6/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mohr's Circle for Strain (<a href="6/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Strain - Motivation (<a href="6/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to Constitutive Equations and Elasticity (<a href="6/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Elasticity (<a href="6/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>More Special Cases of Elasticity (<a href="6/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Simple Example: Uniaxial Strain (<a href="6/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Special Cases (<a href="6/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dislocation in Elastic Halfspace Model of the Earthquake Cycle (<a href="6/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress and Strain from a Screw Dislocation (<a href="6/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Plates (<a href="6/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Plates (cont.) (<a href="6/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Plates (cont.) (<a href="6/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fluids (<a href="6/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fluids (cont.) (<a href="6/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Navier Stokes Equation (<a href="6/lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The Rayleigh - Taylor Instability (<a href="6/lecture24.pdf">PDF</a>)</p>
+<p>Additional File: RTmovie.avi (<a href="6/12520RTmovie.avi">AVI - 6.8 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>The Stream Function and Postglacial Rebound (<a href="6/lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Corner Flow (<a href="6/lecture26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Flow in Porous Media (<a href="6/lecture27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Time Dependent Porous Flow (<a href="6/lecture28.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
