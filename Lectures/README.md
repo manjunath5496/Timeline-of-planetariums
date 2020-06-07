@@ -14,7 +14,7 @@
 <li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li>
  <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
 <li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
-  
+ <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
   
   
 
@@ -1136,4 +1136,119 @@
 </tbody>
 </table>
 </br>
-
+<h2 id="course16">Science and Policy of Natural Hazards</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td><span class="nobr">(<a href="3/MIT12_103S10_Intro.pdf">PDF - 3.2MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Earthquakes</strong></td>
+</tr>
+<tr class="row">
+<td>Earthquakes</td>
+<td>(<a href="3/MIT12_103S10_earthquakes_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Seismic waves</td>
+<td>(<a href="3/MIT12_103S10_earthquakes_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Earthquake kinematics</td>
+<td>(<a href="3/MIT12_103S10_earthquakes_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Earthquake dynamics</td>
+<td><span class="nobr">(<a href="3/MIT12_103S10_earthquks_4_5.pdf">PDF - 1.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Associated phenomena: Tsunami</td>
+<td>
+<p>(<a href="3/MIT12_103S10_earthquakes_6.pdf">PDF</a>)</p>
+<p><span class="nobr">(<a href="3/animation_1.avi">AVI - 4.0MB</a>)&nbsp;</span></p>
+<p><span class="nobr">(<a href="3/animation_2.mov">MOV - 48.1MB</a>)&nbsp;</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Earthquake preparedness and warning systems</td>
+<td>(<a href="3/MIT12_103S10_earthquks_7_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Hurricanes</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Tropical cyclones</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT12_103S10_hurricane1.pdf">PDF - 3.0MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>The tropical atmosphere: Hurricane incubator</td>
+<td><span class="nobr">(<a href="3/MIT12_103S10_hurricane2.pdf">PDF - 1.7MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Computational models of hurricanes</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT12_103S10_hurricane3.pdf">PDF - 2.4MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Volcanoes</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Volcano overview</td>
+<td><span class="nobr">(<a href="3/MIT12_103S10_volcanoes_1_3.pdf">PDF - 1.6MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Magma generation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT12_103S10_volcanoes_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Magma ascent and eruption</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT12_103S10_volcanoes_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Volcanic hazards</td>
+<td><span class="nobr">(<a href="3/MIT12_103S10_volcanoes_6_8.pdf">PDF - 2.7MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Volcano hazards (cont.)</td>
+<td>(<a href="3/MIT12_103S10_volcanoes_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Tornadoes and severe weather</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Tornado overview</td>
+<td><span class="nobr">(<a href="3/MIT12_103S10_tornado_1_2.pdf">PDF - 1.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Moist convection</td>
+<td>(<a href="3/MIT12_103S10_tornado_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stability assessment</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT12_103S10_tornado_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Thunderstorms</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT12_103S10_tornado_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mesoscale organization of convection</td>
+<td>(<a href="3/MIT12_103S10_tornado_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Supercells and tornadoes</td>
+<td>(<a href="3/MIT12_103S10_tornado_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Forecasting tornadoes</td>
+<td>(<a href="3/MIT12_103S10_tornado_8.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
