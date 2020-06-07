@@ -54,7 +54,7 @@
  <li><a href="#course53">Atmospheric Chemistry</a></li>  
    <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
     <li><a href="#course55">Dynamics of the Atmosphere</a></li> 
-   <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
+   <li><a href="#course56">Tropical Meteorology</a></li> 
  <li><a href="#course53">Atmospheric Chemistry</a></li>  
    <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
  
@@ -4157,5 +4157,22 @@ M-file to read Broadcast file ReadNav.m (<a href="6/ReadNav.m">M</a>)</td>
 <p>Postscript (<a href="8/postscript.pdf">PDF</a>)</p>
 <p>References (<a href="8/references.pdf">PDF</a>)</p>
 </br>
+<h2 id="course56">Tropical Meteorology</h2>
+
+<h2 class="subhead">1. Radiative-Convective Equilibrium</h2>
+<p>1.1. General Principles of Radiative Transfer (<a href="8/MIT12_811S11_lecture_1.pdf">PDF - 2.5MB</a>)<br />1.2. Simple Models without Phase Change (<a href="8/MIT12_811S11_lecture_1.pdf">PDF - 2.5MB</a>) (<a href="8/MIT12_811S11_lecture_2.pdf">PDF</a>)<br />1.3. General Principles of Moist Convection (<a href="8/MIT12_811S11_lecture_2.pdf">PDF</a>) (<a href="8/MIT12_811S11_lecture_3.pdf">PDF - 1.0MB</a>) (<a href="8/MIT12_811S11_lecture_4.pdf">PDF - 1.4MB</a>)<br />1.4. Simple Models with Phase Change (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_5.pdf">PDF</a>) (<a href="8/MIT12_811S11_lecture_6.pdf">PDF</a>)<br />1.5. Quantitative Assessments of the Equilibrium State - Comparisons to Observations &lt;not available&gt;</p>
+<h2 class="subhead">2. The Zonally-Averaged Circulation</h2>
+<p>2.1. The Observed Climatology (<a href="8/MIT12_811S11_lecture_7.pdf">PDF - 7.3MB</a>)<br />2.2. Breakdown of the Radiative-Convective Equilibrium State (<a href="8/MIT12_811S11_lecture_8.pdf">PDF - 1.0MB</a>) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_9.pdf">PDF - 1.8MB</a>)<br />2.3. Dry Theory (<a href="8/MIT12_811S11_lecture_8.pdf">PDF - 1.0MB</a>) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_9.pdf">PDF - 1.8MB</a>)<br />2.4. Moist Theory (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_9.pdf">PDF - 1.8MB</a>) (<a href="8/MIT12_811S11_lecture_10.pdf">PDF</a>)<br />2.5. Regulation of Intensity (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_9.pdf">PDF - 1.8MB</a>) (<a href="8/MIT12_811S11_lecture_10.pdf">PDF</a>)</p>
+<h2 class="subhead">3. Asymmetric Steady Circulations</h2>
+<p>3.1. Monsoons (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_11.pdf">PDF - 2.1MB</a>) (<a href="8/MIT12_811S11_lecture_12.pdf">PDF - 4.5MB</a>)<br />3.1.1. Development and Onset of the Asian Monsoon (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_11.pdf">PDF- 2.1MB</a>)<br />3.1.2. Monsoon Breaks &lt;not available&gt;&nbsp;<br />3.1.3. Nonlinear, Asymmetric Theory (<a href="8/MIT12_811S11_lecture_12.pdf">PDF - 4.5MB</a>)<br />3.2. The Walker Circulation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_13.pdf">PDF - 1.2MB</a>)<br />3.2.1. Observations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_13.pdf">PDF - 1.2MB</a>)<br />3.2.2. Theory (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_13.pdf">PDF - 1.2MB</a>)</p>
+<h2 class="subhead">4. Interannual Fluctuations of the Walker Circulation &ndash; ENSO (<a href="8/MIT12_811S11_ENSO.pdf">PDF</a>)*</h2>
+<h2 class="subhead">5. Intraseasonal Oscillations</h2>
+<p>5.1. Observations (<a href="8/MIT12_811S11_lecture_14.pdf">PDF - 9.3MB</a>)<br />5.2. GCM Simulations (<a href="8/MIT12_811S11_lecture_14.pdf">PDF - 9.3MB</a>)<br />5.3. Theory of Equatorial Waves (<a href="8/MIT12_811S11_lecture_15.pdf">PDF - 1.3MB</a>)<br />5.4. WISHE (<a href="8/MIT12_811S11_lecture_16.pdf">PDF - 1.3MB</a>)<br />5.5. Cloud-Radiation Interactions and ISOs (<a href="8/MIT12_811S11_lecture_16.pdf">PDF - 1.3MB</a>)</p>
+<h2 class="subhead">6. Higher Frequency Disturbances</h2>
+<p>6.1. Monsoon Depressions&nbsp;&lt;not available&gt;<br />6.2. Equatorial Waves (<a href="8/MIT12_811S11_lecture_14.pdf">PDF - 9.4MB</a>)<br />6.3. Easterly Waves (<a href="8/MIT12_811S11_lecture_17.pdf">PDF - 1.1MB</a>) (<a href="8/MIT12_811S11_lecture_18.pdf">PDF - 1.1MB</a>)</p>
+<h2 class="subhead">7. Tropical Cyclones</h2>
+<p>7.1. Structure and Climatology (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_StrClim.pdf">PDF - 1.8MB</a>)*<br />7.2. Steady-State Physics (<a href="8/MIT12_811S11_lecture_19.pdf">PDF - 1.2MB</a>) (<a href="8/MIT12_811S11_lecture_20.pdf">PDF - 1.5MB</a>)<br />7.3. Inner Core Dynamics (<a href="8/MIT12_811S11_lecture_21.pdf">PDF</a>)<br />7.4. Time-dependent, Axisymmetric Model Phrased in R Space (<a href="8/MIT12_811S11_lecture_22.pdf">PDF - 1.3MB</a>)<br />7.5. Motion (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT12_811S11_lecture_23.pdf">PDF</a>)<br />7.6. Ocean Interaction (<a href="8/MIT12_811S11_lecture_24.pdf">PDF - 3.2MB</a>)<br />7.7. Effects of Environmental Wind Shear (<a href="8/MIT12_811S11_lecture_24.pdf">PDF - 3.2MB</a>)<br />7.6. Genesis (<a href="8/MIT12_811S11_lecture_24.pdf">PDF - 3.2MB</a>)</p>
+</br>
+
 
 
