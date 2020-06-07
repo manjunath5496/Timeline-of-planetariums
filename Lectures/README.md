@@ -27,7 +27,7 @@
    <li><a href="#course26">Essentials of Geophysics</a></li> 
    <li><a href="#course27">Modern Navigation</a></li> 
   <li><a href="#course28">Climate Physics and Chemistry</a></li> 
- <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
+ <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
    <li><a href="#course26">Essentials of Geophysics</a></li> 
 
 
@@ -2135,5 +2135,65 @@
 </tbody>
 </table>
 </br>
-
-
+<h2 id="course29">Atmospheric Physics and Chemistry</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction, Properties of the Atmosphere (<a href="4/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Combustion Sources and Stoichiometry</td>
+</tr>
+<tr class="row">
+<td>Chemical Thermodynamics/Kinetics</td>
+</tr>
+<tr class="alt-row">
+<td>Radiative Transfer and Photochemistry</td>
+</tr>
+<tr class="row">
+<td>Tropospheric Chemistry: CO</td>
+</tr>
+<tr class="alt-row">
+<td>Tropospheric Chemistry: NOx and Ozone</td>
+</tr>
+<tr class="row">
+<td>Tropospheric Chemistry: HCHO and Ozone</td>
+</tr>
+<tr class="alt-row">
+<td>Tropospheric Chemistry: Complex Hydrocarbons</td>
+</tr>
+<tr class="row">
+<td>Atmospheric Chemistry and Transport: Continuity Equation and Basic Structures (<a href="4/lec9.pdf">PDF 1</a>) (<a href="4/lec10.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tropospheric Chemistry: Homogeneous Processes</td>
+</tr>
+<tr class="row">
+<td>Air Pollution Controls</td>
+</tr>
+<tr class="alt-row">
+<td>Integrated Assessment of Air Pollution</td>
+</tr>
+<tr class="row">
+<td>Atmospheric Transport Models: Numerical Integration (<a href="4/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Atmospheric Chemical Transport Models: Examples and Measurement Systems (<a href="4/lec18.pdf">PDF 1</a>) (<a href="4/lec19.pdf">PDF 2</a>) (<a href="4/lec20.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td>Inverse Methods: Optimal Estimation (<a href="4/lec21.pdf">PDF 1</a>) (<a href="4/lec22.pdf">PDF 2</a>) (<a href="4/lec23.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Inverse Methods: Examples (<a href="4/lec24.pdf">PDF 1</a>) (<a href="4/lec26.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td>Integrated Assessment of Climate Change (<a href="4/lec27.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
