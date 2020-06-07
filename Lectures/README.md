@@ -16,6 +16,9 @@
 <li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
  <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
+  <li><a href="#course18">Structure of Earth Materials</a></li> 
+ <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
+   <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   
 
 </ul>
@@ -1283,3 +1286,110 @@
 <p>&nbsp;Grading Rubric for Presentations (<a href="3/present_rubric.pdf">PDF</a>)</p>
 
 </br>
+<h2 id="course18">Structure of Earth Materials</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>I. Crystal Symmetry</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">2-D Symmetry Operations (<a href="2/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">3-D Symmetry + Translation</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Point Groups and Space Groups (<a href="2/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>II. Crystal Chemistry and Bonding</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Coordination Number and Polyhedra (<a href="2/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Bonding Models - Ionic - Electrostatics (<a href="2/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Bonding Models - Covalent - Metallic</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>III. X-ray and Electron Diffraction</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Crystal Lattices - Reciprocal Lattices (<a href="2/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">X-ray Generation, Diffraction, Bragg's Law (<a href="2/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>IV. Mineral Groups</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Earth's Element Inventory - Metals and Sulfides (<a href="2/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">High P Mantle Mineralogy (<a href="2/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Pyriboles (<a href="2/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Feldspar, Quartz (<a href="2/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Carbonates, Sulfates, etc. (<a href="2/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>V. Tensor Analysis</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Tensor Properties (<a href="2/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Representation Quadrics (<a href="2/lec15.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>VI. Optical Properties</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Interaction of Electric Fields with Crystals: An Introduction to Crystal Optics (<a href="2/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Optical Indicatrices (<a href="2/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Optical Properties (<a href="2/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>VII. Elastic and Magnetic Properties</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Stress and Strain (<a href="2/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Stiffness and Compliance (<a href="2/lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>VIII. Crystal Defects</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Point and Line Defects</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Magnetic Properties</td>
+</tr>
+<tr class="row">
+<td headers="col2">Review</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
